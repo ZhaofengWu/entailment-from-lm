@@ -1,0 +1,9 @@
+tqdm
+numpy
+datasets
+transformers==4.28.0
+accelerate==0.18.0
+scikit-learn
+tokenizers==0.13.3
+sentencepiece
+protobuf==3.19.6

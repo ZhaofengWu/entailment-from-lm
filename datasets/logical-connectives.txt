@@ -1,0 +1,1800 @@
+James is going to Canada.	James or Olivia is going to Canada.	e
+James is going to Canada.	James and Olivia are going to Canada.	nc
+Olivia is going to Canada.	James or Olivia is going to Canada.	e
+Olivia is going to Canada.	James and Olivia are going to Canada.	nc
+James is going to Canada.	James or Liam is going to Canada.	e
+James is going to Canada.	James and Liam are going to Canada.	nc
+Liam is going to Canada.	James or Liam is going to Canada.	e
+Liam is going to Canada.	James and Liam are going to Canada.	nc
+James is going to Canada.	James or Emma is going to Canada.	e
+James is going to Canada.	James and Emma are going to Canada.	nc
+Emma is going to Canada.	James or Emma is going to Canada.	e
+Emma is going to Canada.	James and Emma are going to Canada.	nc
+James is going to Canada.	James or Noah is going to Canada.	e
+James is going to Canada.	James and Noah are going to Canada.	nc
+Noah is going to Canada.	James or Noah is going to Canada.	e
+Noah is going to Canada.	James and Noah are going to Canada.	nc
+James is going to Canada.	James or Ava is going to Canada.	e
+James is going to Canada.	James and Ava are going to Canada.	nc
+Ava is going to Canada.	James or Ava is going to Canada.	e
+Ava is going to Canada.	James and Ava are going to Canada.	nc
+James is going to Canada.	James or Isabella is going to Canada.	e
+James is going to Canada.	James and Isabella are going to Canada.	nc
+Isabella is going to Canada.	James or Isabella is going to Canada.	e
+Isabella is going to Canada.	James and Isabella are going to Canada.	nc
+James is going to Canada.	James or Sophia is going to Canada.	e
+James is going to Canada.	James and Sophia are going to Canada.	nc
+Sophia is going to Canada.	James or Sophia is going to Canada.	e
+Sophia is going to Canada.	James and Sophia are going to Canada.	nc
+James is going to Canada.	James or Mia is going to Canada.	e
+James is going to Canada.	James and Mia are going to Canada.	nc
+Mia is going to Canada.	James or Mia is going to Canada.	e
+Mia is going to Canada.	James and Mia are going to Canada.	nc
+James is going to Canada.	James or Charlotte is going to Canada.	e
+James is going to Canada.	James and Charlotte are going to Canada.	nc
+Charlotte is going to Canada.	James or Charlotte is going to Canada.	e
+Charlotte is going to Canada.	James and Charlotte are going to Canada.	nc
+Olivia is going to Canada.	Olivia or James is going to Canada.	e
+Olivia is going to Canada.	Olivia and James are going to Canada.	nc
+James is going to Canada.	Olivia or James is going to Canada.	e
+James is going to Canada.	Olivia and James are going to Canada.	nc
+Olivia is going to Canada.	Olivia or Liam is going to Canada.	e
+Olivia is going to Canada.	Olivia and Liam are going to Canada.	nc
+Liam is going to Canada.	Olivia or Liam is going to Canada.	e
+Liam is going to Canada.	Olivia and Liam are going to Canada.	nc
+Olivia is going to Canada.	Olivia or Emma is going to Canada.	e
+Olivia is going to Canada.	Olivia and Emma are going to Canada.	nc
+Emma is going to Canada.	Olivia or Emma is going to Canada.	e
+Emma is going to Canada.	Olivia and Emma are going to Canada.	nc
+Olivia is going to Canada.	Olivia or Noah is going to Canada.	e
+Olivia is going to Canada.	Olivia and Noah are going to Canada.	nc
+Noah is going to Canada.	Olivia or Noah is going to Canada.	e
+Noah is going to Canada.	Olivia and Noah are going to Canada.	nc
+Olivia is going to Canada.	Olivia or Ava is going to Canada.	e
+Olivia is going to Canada.	Olivia and Ava are going to Canada.	nc
+Ava is going to Canada.	Olivia or Ava is going to Canada.	e
+Ava is going to Canada.	Olivia and Ava are going to Canada.	nc
+Olivia is going to Canada.	Olivia or Isabella is going to Canada.	e
+Olivia is going to Canada.	Olivia and Isabella are going to Canada.	nc
+Isabella is going to Canada.	Olivia or Isabella is going to Canada.	e
+Isabella is going to Canada.	Olivia and Isabella are going to Canada.	nc
+Olivia is going to Canada.	Olivia or Sophia is going to Canada.	e
+Olivia is going to Canada.	Olivia and Sophia are going to Canada.	nc
+Sophia is going to Canada.	Olivia or Sophia is going to Canada.	e
+Sophia is going to Canada.	Olivia and Sophia are going to Canada.	nc
+Olivia is going to Canada.	Olivia or Mia is going to Canada.	e
+Olivia is going to Canada.	Olivia and Mia are going to Canada.	nc
+Mia is going to Canada.	Olivia or Mia is going to Canada.	e
+Mia is going to Canada.	Olivia and Mia are going to Canada.	nc
+Olivia is going to Canada.	Olivia or Charlotte is going to Canada.	e
+Olivia is going to Canada.	Olivia and Charlotte are going to Canada.	nc
+Charlotte is going to Canada.	Olivia or Charlotte is going to Canada.	e
+Charlotte is going to Canada.	Olivia and Charlotte are going to Canada.	nc
+Liam is going to Canada.	Liam or James is going to Canada.	e
+Liam is going to Canada.	Liam and James are going to Canada.	nc
+James is going to Canada.	Liam or James is going to Canada.	e
+James is going to Canada.	Liam and James are going to Canada.	nc
+Liam is going to Canada.	Liam or Olivia is going to Canada.	e
+Liam is going to Canada.	Liam and Olivia are going to Canada.	nc
+Olivia is going to Canada.	Liam or Olivia is going to Canada.	e
+Olivia is going to Canada.	Liam and Olivia are going to Canada.	nc
+Liam is going to Canada.	Liam or Emma is going to Canada.	e
+Liam is going to Canada.	Liam and Emma are going to Canada.	nc
+Emma is going to Canada.	Liam or Emma is going to Canada.	e
+Emma is going to Canada.	Liam and Emma are going to Canada.	nc
+Liam is going to Canada.	Liam or Noah is going to Canada.	e
+Liam is going to Canada.	Liam and Noah are going to Canada.	nc
+Noah is going to Canada.	Liam or Noah is going to Canada.	e
+Noah is going to Canada.	Liam and Noah are going to Canada.	nc
+Liam is going to Canada.	Liam or Ava is going to Canada.	e
+Liam is going to Canada.	Liam and Ava are going to Canada.	nc
+Ava is going to Canada.	Liam or Ava is going to Canada.	e
+Ava is going to Canada.	Liam and Ava are going to Canada.	nc
+Liam is going to Canada.	Liam or Isabella is going to Canada.	e
+Liam is going to Canada.	Liam and Isabella are going to Canada.	nc
+Isabella is going to Canada.	Liam or Isabella is going to Canada.	e
+Isabella is going to Canada.	Liam and Isabella are going to Canada.	nc
+Liam is going to Canada.	Liam or Sophia is going to Canada.	e
+Liam is going to Canada.	Liam and Sophia are going to Canada.	nc
+Sophia is going to Canada.	Liam or Sophia is going to Canada.	e
+Sophia is going to Canada.	Liam and Sophia are going to Canada.	nc
+Liam is going to Canada.	Liam or Mia is going to Canada.	e
+Liam is going to Canada.	Liam and Mia are going to Canada.	nc
+Mia is going to Canada.	Liam or Mia is going to Canada.	e
+Mia is going to Canada.	Liam and Mia are going to Canada.	nc
+Liam is going to Canada.	Liam or Charlotte is going to Canada.	e
+Liam is going to Canada.	Liam and Charlotte are going to Canada.	nc
+Charlotte is going to Canada.	Liam or Charlotte is going to Canada.	e
+Charlotte is going to Canada.	Liam and Charlotte are going to Canada.	nc
+Emma is going to Canada.	Emma or James is going to Canada.	e
+Emma is going to Canada.	Emma and James are going to Canada.	nc
+James is going to Canada.	Emma or James is going to Canada.	e
+James is going to Canada.	Emma and James are going to Canada.	nc
+Emma is going to Canada.	Emma or Olivia is going to Canada.	e
+Emma is going to Canada.	Emma and Olivia are going to Canada.	nc
+Olivia is going to Canada.	Emma or Olivia is going to Canada.	e
+Olivia is going to Canada.	Emma and Olivia are going to Canada.	nc
+Emma is going to Canada.	Emma or Liam is going to Canada.	e
+Emma is going to Canada.	Emma and Liam are going to Canada.	nc
+Liam is going to Canada.	Emma or Liam is going to Canada.	e
+Liam is going to Canada.	Emma and Liam are going to Canada.	nc
+Emma is going to Canada.	Emma or Noah is going to Canada.	e
+Emma is going to Canada.	Emma and Noah are going to Canada.	nc
+Noah is going to Canada.	Emma or Noah is going to Canada.	e
+Noah is going to Canada.	Emma and Noah are going to Canada.	nc
+Emma is going to Canada.	Emma or Ava is going to Canada.	e
+Emma is going to Canada.	Emma and Ava are going to Canada.	nc
+Ava is going to Canada.	Emma or Ava is going to Canada.	e
+Ava is going to Canada.	Emma and Ava are going to Canada.	nc
+Emma is going to Canada.	Emma or Isabella is going to Canada.	e
+Emma is going to Canada.	Emma and Isabella are going to Canada.	nc
+Isabella is going to Canada.	Emma or Isabella is going to Canada.	e
+Isabella is going to Canada.	Emma and Isabella are going to Canada.	nc
+Emma is going to Canada.	Emma or Sophia is going to Canada.	e
+Emma is going to Canada.	Emma and Sophia are going to Canada.	nc
+Sophia is going to Canada.	Emma or Sophia is going to Canada.	e
+Sophia is going to Canada.	Emma and Sophia are going to Canada.	nc
+Emma is going to Canada.	Emma or Mia is going to Canada.	e
+Emma is going to Canada.	Emma and Mia are going to Canada.	nc
+Mia is going to Canada.	Emma or Mia is going to Canada.	e
+Mia is going to Canada.	Emma and Mia are going to Canada.	nc
+Emma is going to Canada.	Emma or Charlotte is going to Canada.	e
+Emma is going to Canada.	Emma and Charlotte are going to Canada.	nc
+Charlotte is going to Canada.	Emma or Charlotte is going to Canada.	e
+Charlotte is going to Canada.	Emma and Charlotte are going to Canada.	nc
+Noah is going to Canada.	Noah or James is going to Canada.	e
+Noah is going to Canada.	Noah and James are going to Canada.	nc
+James is going to Canada.	Noah or James is going to Canada.	e
+James is going to Canada.	Noah and James are going to Canada.	nc
+Noah is going to Canada.	Noah or Olivia is going to Canada.	e
+Noah is going to Canada.	Noah and Olivia are going to Canada.	nc
+Olivia is going to Canada.	Noah or Olivia is going to Canada.	e
+Olivia is going to Canada.	Noah and Olivia are going to Canada.	nc
+Noah is going to Canada.	Noah or Liam is going to Canada.	e
+Noah is going to Canada.	Noah and Liam are going to Canada.	nc
+Liam is going to Canada.	Noah or Liam is going to Canada.	e
+Liam is going to Canada.	Noah and Liam are going to Canada.	nc
+Noah is going to Canada.	Noah or Emma is going to Canada.	e
+Noah is going to Canada.	Noah and Emma are going to Canada.	nc
+Emma is going to Canada.	Noah or Emma is going to Canada.	e
+Emma is going to Canada.	Noah and Emma are going to Canada.	nc
+Noah is going to Canada.	Noah or Ava is going to Canada.	e
+Noah is going to Canada.	Noah and Ava are going to Canada.	nc
+Ava is going to Canada.	Noah or Ava is going to Canada.	e
+Ava is going to Canada.	Noah and Ava are going to Canada.	nc
+Noah is going to Canada.	Noah or Isabella is going to Canada.	e
+Noah is going to Canada.	Noah and Isabella are going to Canada.	nc
+Isabella is going to Canada.	Noah or Isabella is going to Canada.	e
+Isabella is going to Canada.	Noah and Isabella are going to Canada.	nc
+Noah is going to Canada.	Noah or Sophia is going to Canada.	e
+Noah is going to Canada.	Noah and Sophia are going to Canada.	nc
+Sophia is going to Canada.	Noah or Sophia is going to Canada.	e
+Sophia is going to Canada.	Noah and Sophia are going to Canada.	nc
+Noah is going to Canada.	Noah or Mia is going to Canada.	e
+Noah is going to Canada.	Noah and Mia are going to Canada.	nc
+Mia is going to Canada.	Noah or Mia is going to Canada.	e
+Mia is going to Canada.	Noah and Mia are going to Canada.	nc
+Noah is going to Canada.	Noah or Charlotte is going to Canada.	e
+Noah is going to Canada.	Noah and Charlotte are going to Canada.	nc
+Charlotte is going to Canada.	Noah or Charlotte is going to Canada.	e
+Charlotte is going to Canada.	Noah and Charlotte are going to Canada.	nc
+Ava is going to Canada.	Ava or James is going to Canada.	e
+Ava is going to Canada.	Ava and James are going to Canada.	nc
+James is going to Canada.	Ava or James is going to Canada.	e
+James is going to Canada.	Ava and James are going to Canada.	nc
+Ava is going to Canada.	Ava or Olivia is going to Canada.	e
+Ava is going to Canada.	Ava and Olivia are going to Canada.	nc
+Olivia is going to Canada.	Ava or Olivia is going to Canada.	e
+Olivia is going to Canada.	Ava and Olivia are going to Canada.	nc
+Ava is going to Canada.	Ava or Liam is going to Canada.	e
+Ava is going to Canada.	Ava and Liam are going to Canada.	nc
+Liam is going to Canada.	Ava or Liam is going to Canada.	e
+Liam is going to Canada.	Ava and Liam are going to Canada.	nc
+Ava is going to Canada.	Ava or Emma is going to Canada.	e
+Ava is going to Canada.	Ava and Emma are going to Canada.	nc
+Emma is going to Canada.	Ava or Emma is going to Canada.	e
+Emma is going to Canada.	Ava and Emma are going to Canada.	nc
+Ava is going to Canada.	Ava or Noah is going to Canada.	e
+Ava is going to Canada.	Ava and Noah are going to Canada.	nc
+Noah is going to Canada.	Ava or Noah is going to Canada.	e
+Noah is going to Canada.	Ava and Noah are going to Canada.	nc
+Ava is going to Canada.	Ava or Isabella is going to Canada.	e
+Ava is going to Canada.	Ava and Isabella are going to Canada.	nc
+Isabella is going to Canada.	Ava or Isabella is going to Canada.	e
+Isabella is going to Canada.	Ava and Isabella are going to Canada.	nc
+Ava is going to Canada.	Ava or Sophia is going to Canada.	e
+Ava is going to Canada.	Ava and Sophia are going to Canada.	nc
+Sophia is going to Canada.	Ava or Sophia is going to Canada.	e
+Sophia is going to Canada.	Ava and Sophia are going to Canada.	nc
+Ava is going to Canada.	Ava or Mia is going to Canada.	e
+Ava is going to Canada.	Ava and Mia are going to Canada.	nc
+Mia is going to Canada.	Ava or Mia is going to Canada.	e
+Mia is going to Canada.	Ava and Mia are going to Canada.	nc
+Ava is going to Canada.	Ava or Charlotte is going to Canada.	e
+Ava is going to Canada.	Ava and Charlotte are going to Canada.	nc
+Charlotte is going to Canada.	Ava or Charlotte is going to Canada.	e
+Charlotte is going to Canada.	Ava and Charlotte are going to Canada.	nc
+Isabella is going to Canada.	Isabella or James is going to Canada.	e
+Isabella is going to Canada.	Isabella and James are going to Canada.	nc
+James is going to Canada.	Isabella or James is going to Canada.	e
+James is going to Canada.	Isabella and James are going to Canada.	nc
+Isabella is going to Canada.	Isabella or Olivia is going to Canada.	e
+Isabella is going to Canada.	Isabella and Olivia are going to Canada.	nc
+Olivia is going to Canada.	Isabella or Olivia is going to Canada.	e
+Olivia is going to Canada.	Isabella and Olivia are going to Canada.	nc
+Isabella is going to Canada.	Isabella or Liam is going to Canada.	e
+Isabella is going to Canada.	Isabella and Liam are going to Canada.	nc
+Liam is going to Canada.	Isabella or Liam is going to Canada.	e
+Liam is going to Canada.	Isabella and Liam are going to Canada.	nc
+Isabella is going to Canada.	Isabella or Emma is going to Canada.	e
+Isabella is going to Canada.	Isabella and Emma are going to Canada.	nc
+Emma is going to Canada.	Isabella or Emma is going to Canada.	e
+Emma is going to Canada.	Isabella and Emma are going to Canada.	nc
+Isabella is going to Canada.	Isabella or Noah is going to Canada.	e
+Isabella is going to Canada.	Isabella and Noah are going to Canada.	nc
+Noah is going to Canada.	Isabella or Noah is going to Canada.	e
+Noah is going to Canada.	Isabella and Noah are going to Canada.	nc
+Isabella is going to Canada.	Isabella or Ava is going to Canada.	e
+Isabella is going to Canada.	Isabella and Ava are going to Canada.	nc
+Ava is going to Canada.	Isabella or Ava is going to Canada.	e
+Ava is going to Canada.	Isabella and Ava are going to Canada.	nc
+Isabella is going to Canada.	Isabella or Sophia is going to Canada.	e
+Isabella is going to Canada.	Isabella and Sophia are going to Canada.	nc
+Sophia is going to Canada.	Isabella or Sophia is going to Canada.	e
+Sophia is going to Canada.	Isabella and Sophia are going to Canada.	nc
+Isabella is going to Canada.	Isabella or Mia is going to Canada.	e
+Isabella is going to Canada.	Isabella and Mia are going to Canada.	nc
+Mia is going to Canada.	Isabella or Mia is going to Canada.	e
+Mia is going to Canada.	Isabella and Mia are going to Canada.	nc
+Isabella is going to Canada.	Isabella or Charlotte is going to Canada.	e
+Isabella is going to Canada.	Isabella and Charlotte are going to Canada.	nc
+Charlotte is going to Canada.	Isabella or Charlotte is going to Canada.	e
+Charlotte is going to Canada.	Isabella and Charlotte are going to Canada.	nc
+Sophia is going to Canada.	Sophia or James is going to Canada.	e
+Sophia is going to Canada.	Sophia and James are going to Canada.	nc
+James is going to Canada.	Sophia or James is going to Canada.	e
+James is going to Canada.	Sophia and James are going to Canada.	nc
+Sophia is going to Canada.	Sophia or Olivia is going to Canada.	e
+Sophia is going to Canada.	Sophia and Olivia are going to Canada.	nc
+Olivia is going to Canada.	Sophia or Olivia is going to Canada.	e
+Olivia is going to Canada.	Sophia and Olivia are going to Canada.	nc
+Sophia is going to Canada.	Sophia or Liam is going to Canada.	e
+Sophia is going to Canada.	Sophia and Liam are going to Canada.	nc
+Liam is going to Canada.	Sophia or Liam is going to Canada.	e
+Liam is going to Canada.	Sophia and Liam are going to Canada.	nc
+Sophia is going to Canada.	Sophia or Emma is going to Canada.	e
+Sophia is going to Canada.	Sophia and Emma are going to Canada.	nc
+Emma is going to Canada.	Sophia or Emma is going to Canada.	e
+Emma is going to Canada.	Sophia and Emma are going to Canada.	nc
+Sophia is going to Canada.	Sophia or Noah is going to Canada.	e
+Sophia is going to Canada.	Sophia and Noah are going to Canada.	nc
+Noah is going to Canada.	Sophia or Noah is going to Canada.	e
+Noah is going to Canada.	Sophia and Noah are going to Canada.	nc
+Sophia is going to Canada.	Sophia or Ava is going to Canada.	e
+Sophia is going to Canada.	Sophia and Ava are going to Canada.	nc
+Ava is going to Canada.	Sophia or Ava is going to Canada.	e
+Ava is going to Canada.	Sophia and Ava are going to Canada.	nc
+Sophia is going to Canada.	Sophia or Isabella is going to Canada.	e
+Sophia is going to Canada.	Sophia and Isabella are going to Canada.	nc
+Isabella is going to Canada.	Sophia or Isabella is going to Canada.	e
+Isabella is going to Canada.	Sophia and Isabella are going to Canada.	nc
+Sophia is going to Canada.	Sophia or Mia is going to Canada.	e
+Sophia is going to Canada.	Sophia and Mia are going to Canada.	nc
+Mia is going to Canada.	Sophia or Mia is going to Canada.	e
+Mia is going to Canada.	Sophia and Mia are going to Canada.	nc
+Sophia is going to Canada.	Sophia or Charlotte is going to Canada.	e
+Sophia is going to Canada.	Sophia and Charlotte are going to Canada.	nc
+Charlotte is going to Canada.	Sophia or Charlotte is going to Canada.	e
+Charlotte is going to Canada.	Sophia and Charlotte are going to Canada.	nc
+Mia is going to Canada.	Mia or James is going to Canada.	e
+Mia is going to Canada.	Mia and James are going to Canada.	nc
+James is going to Canada.	Mia or James is going to Canada.	e
+James is going to Canada.	Mia and James are going to Canada.	nc
+Mia is going to Canada.	Mia or Olivia is going to Canada.	e
+Mia is going to Canada.	Mia and Olivia are going to Canada.	nc
+Olivia is going to Canada.	Mia or Olivia is going to Canada.	e
+Olivia is going to Canada.	Mia and Olivia are going to Canada.	nc
+Mia is going to Canada.	Mia or Liam is going to Canada.	e
+Mia is going to Canada.	Mia and Liam are going to Canada.	nc
+Liam is going to Canada.	Mia or Liam is going to Canada.	e
+Liam is going to Canada.	Mia and Liam are going to Canada.	nc
+Mia is going to Canada.	Mia or Emma is going to Canada.	e
+Mia is going to Canada.	Mia and Emma are going to Canada.	nc
+Emma is going to Canada.	Mia or Emma is going to Canada.	e
+Emma is going to Canada.	Mia and Emma are going to Canada.	nc
+Mia is going to Canada.	Mia or Noah is going to Canada.	e
+Mia is going to Canada.	Mia and Noah are going to Canada.	nc
+Noah is going to Canada.	Mia or Noah is going to Canada.	e
+Noah is going to Canada.	Mia and Noah are going to Canada.	nc
+Mia is going to Canada.	Mia or Ava is going to Canada.	e
+Mia is going to Canada.	Mia and Ava are going to Canada.	nc
+Ava is going to Canada.	Mia or Ava is going to Canada.	e
+Ava is going to Canada.	Mia and Ava are going to Canada.	nc
+Mia is going to Canada.	Mia or Isabella is going to Canada.	e
+Mia is going to Canada.	Mia and Isabella are going to Canada.	nc
+Isabella is going to Canada.	Mia or Isabella is going to Canada.	e
+Isabella is going to Canada.	Mia and Isabella are going to Canada.	nc
+Mia is going to Canada.	Mia or Sophia is going to Canada.	e
+Mia is going to Canada.	Mia and Sophia are going to Canada.	nc
+Sophia is going to Canada.	Mia or Sophia is going to Canada.	e
+Sophia is going to Canada.	Mia and Sophia are going to Canada.	nc
+Mia is going to Canada.	Mia or Charlotte is going to Canada.	e
+Mia is going to Canada.	Mia and Charlotte are going to Canada.	nc
+Charlotte is going to Canada.	Mia or Charlotte is going to Canada.	e
+Charlotte is going to Canada.	Mia and Charlotte are going to Canada.	nc
+Charlotte is going to Canada.	Charlotte or James is going to Canada.	e
+Charlotte is going to Canada.	Charlotte and James are going to Canada.	nc
+James is going to Canada.	Charlotte or James is going to Canada.	e
+James is going to Canada.	Charlotte and James are going to Canada.	nc
+Charlotte is going to Canada.	Charlotte or Olivia is going to Canada.	e
+Charlotte is going to Canada.	Charlotte and Olivia are going to Canada.	nc
+Olivia is going to Canada.	Charlotte or Olivia is going to Canada.	e
+Olivia is going to Canada.	Charlotte and Olivia are going to Canada.	nc
+Charlotte is going to Canada.	Charlotte or Liam is going to Canada.	e
+Charlotte is going to Canada.	Charlotte and Liam are going to Canada.	nc
+Liam is going to Canada.	Charlotte or Liam is going to Canada.	e
+Liam is going to Canada.	Charlotte and Liam are going to Canada.	nc
+Charlotte is going to Canada.	Charlotte or Emma is going to Canada.	e
+Charlotte is going to Canada.	Charlotte and Emma are going to Canada.	nc
+Emma is going to Canada.	Charlotte or Emma is going to Canada.	e
+Emma is going to Canada.	Charlotte and Emma are going to Canada.	nc
+Charlotte is going to Canada.	Charlotte or Noah is going to Canada.	e
+Charlotte is going to Canada.	Charlotte and Noah are going to Canada.	nc
+Noah is going to Canada.	Charlotte or Noah is going to Canada.	e
+Noah is going to Canada.	Charlotte and Noah are going to Canada.	nc
+Charlotte is going to Canada.	Charlotte or Ava is going to Canada.	e
+Charlotte is going to Canada.	Charlotte and Ava are going to Canada.	nc
+Ava is going to Canada.	Charlotte or Ava is going to Canada.	e
+Ava is going to Canada.	Charlotte and Ava are going to Canada.	nc
+Charlotte is going to Canada.	Charlotte or Isabella is going to Canada.	e
+Charlotte is going to Canada.	Charlotte and Isabella are going to Canada.	nc
+Isabella is going to Canada.	Charlotte or Isabella is going to Canada.	e
+Isabella is going to Canada.	Charlotte and Isabella are going to Canada.	nc
+Charlotte is going to Canada.	Charlotte or Sophia is going to Canada.	e
+Charlotte is going to Canada.	Charlotte and Sophia are going to Canada.	nc
+Sophia is going to Canada.	Charlotte or Sophia is going to Canada.	e
+Sophia is going to Canada.	Charlotte and Sophia are going to Canada.	nc
+Charlotte is going to Canada.	Charlotte or Mia is going to Canada.	e
+Charlotte is going to Canada.	Charlotte and Mia are going to Canada.	nc
+Mia is going to Canada.	Charlotte or Mia is going to Canada.	e
+Mia is going to Canada.	Charlotte and Mia are going to Canada.	nc
+James plays guitar.	James or Olivia plays guitar.	e
+James plays guitar.	James and Olivia play guitar.	nc
+Olivia plays guitar.	James or Olivia plays guitar.	e
+Olivia plays guitar.	James and Olivia play guitar.	nc
+James plays guitar.	James or Liam plays guitar.	e
+James plays guitar.	James and Liam play guitar.	nc
+Liam plays guitar.	James or Liam plays guitar.	e
+Liam plays guitar.	James and Liam play guitar.	nc
+James plays guitar.	James or Emma plays guitar.	e
+James plays guitar.	James and Emma play guitar.	nc
+Emma plays guitar.	James or Emma plays guitar.	e
+Emma plays guitar.	James and Emma play guitar.	nc
+James plays guitar.	James or Noah plays guitar.	e
+James plays guitar.	James and Noah play guitar.	nc
+Noah plays guitar.	James or Noah plays guitar.	e
+Noah plays guitar.	James and Noah play guitar.	nc
+James plays guitar.	James or Ava plays guitar.	e
+James plays guitar.	James and Ava play guitar.	nc
+Ava plays guitar.	James or Ava plays guitar.	e
+Ava plays guitar.	James and Ava play guitar.	nc
+James plays guitar.	James or Isabella plays guitar.	e
+James plays guitar.	James and Isabella play guitar.	nc
+Isabella plays guitar.	James or Isabella plays guitar.	e
+Isabella plays guitar.	James and Isabella play guitar.	nc
+James plays guitar.	James or Sophia plays guitar.	e
+James plays guitar.	James and Sophia play guitar.	nc
+Sophia plays guitar.	James or Sophia plays guitar.	e
+Sophia plays guitar.	James and Sophia play guitar.	nc
+James plays guitar.	James or Mia plays guitar.	e
+James plays guitar.	James and Mia play guitar.	nc
+Mia plays guitar.	James or Mia plays guitar.	e
+Mia plays guitar.	James and Mia play guitar.	nc
+James plays guitar.	James or Charlotte plays guitar.	e
+James plays guitar.	James and Charlotte play guitar.	nc
+Charlotte plays guitar.	James or Charlotte plays guitar.	e
+Charlotte plays guitar.	James and Charlotte play guitar.	nc
+Olivia plays guitar.	Olivia or James plays guitar.	e
+Olivia plays guitar.	Olivia and James play guitar.	nc
+James plays guitar.	Olivia or James plays guitar.	e
+James plays guitar.	Olivia and James play guitar.	nc
+Olivia plays guitar.	Olivia or Liam plays guitar.	e
+Olivia plays guitar.	Olivia and Liam play guitar.	nc
+Liam plays guitar.	Olivia or Liam plays guitar.	e
+Liam plays guitar.	Olivia and Liam play guitar.	nc
+Olivia plays guitar.	Olivia or Emma plays guitar.	e
+Olivia plays guitar.	Olivia and Emma play guitar.	nc
+Emma plays guitar.	Olivia or Emma plays guitar.	e
+Emma plays guitar.	Olivia and Emma play guitar.	nc
+Olivia plays guitar.	Olivia or Noah plays guitar.	e
+Olivia plays guitar.	Olivia and Noah play guitar.	nc
+Noah plays guitar.	Olivia or Noah plays guitar.	e
+Noah plays guitar.	Olivia and Noah play guitar.	nc
+Olivia plays guitar.	Olivia or Ava plays guitar.	e
+Olivia plays guitar.	Olivia and Ava play guitar.	nc
+Ava plays guitar.	Olivia or Ava plays guitar.	e
+Ava plays guitar.	Olivia and Ava play guitar.	nc
+Olivia plays guitar.	Olivia or Isabella plays guitar.	e
+Olivia plays guitar.	Olivia and Isabella play guitar.	nc
+Isabella plays guitar.	Olivia or Isabella plays guitar.	e
+Isabella plays guitar.	Olivia and Isabella play guitar.	nc
+Olivia plays guitar.	Olivia or Sophia plays guitar.	e
+Olivia plays guitar.	Olivia and Sophia play guitar.	nc
+Sophia plays guitar.	Olivia or Sophia plays guitar.	e
+Sophia plays guitar.	Olivia and Sophia play guitar.	nc
+Olivia plays guitar.	Olivia or Mia plays guitar.	e
+Olivia plays guitar.	Olivia and Mia play guitar.	nc
+Mia plays guitar.	Olivia or Mia plays guitar.	e
+Mia plays guitar.	Olivia and Mia play guitar.	nc
+Olivia plays guitar.	Olivia or Charlotte plays guitar.	e
+Olivia plays guitar.	Olivia and Charlotte play guitar.	nc
+Charlotte plays guitar.	Olivia or Charlotte plays guitar.	e
+Charlotte plays guitar.	Olivia and Charlotte play guitar.	nc
+Liam plays guitar.	Liam or James plays guitar.	e
+Liam plays guitar.	Liam and James play guitar.	nc
+James plays guitar.	Liam or James plays guitar.	e
+James plays guitar.	Liam and James play guitar.	nc
+Liam plays guitar.	Liam or Olivia plays guitar.	e
+Liam plays guitar.	Liam and Olivia play guitar.	nc
+Olivia plays guitar.	Liam or Olivia plays guitar.	e
+Olivia plays guitar.	Liam and Olivia play guitar.	nc
+Liam plays guitar.	Liam or Emma plays guitar.	e
+Liam plays guitar.	Liam and Emma play guitar.	nc
+Emma plays guitar.	Liam or Emma plays guitar.	e
+Emma plays guitar.	Liam and Emma play guitar.	nc
+Liam plays guitar.	Liam or Noah plays guitar.	e
+Liam plays guitar.	Liam and Noah play guitar.	nc
+Noah plays guitar.	Liam or Noah plays guitar.	e
+Noah plays guitar.	Liam and Noah play guitar.	nc
+Liam plays guitar.	Liam or Ava plays guitar.	e
+Liam plays guitar.	Liam and Ava play guitar.	nc
+Ava plays guitar.	Liam or Ava plays guitar.	e
+Ava plays guitar.	Liam and Ava play guitar.	nc
+Liam plays guitar.	Liam or Isabella plays guitar.	e
+Liam plays guitar.	Liam and Isabella play guitar.	nc
+Isabella plays guitar.	Liam or Isabella plays guitar.	e
+Isabella plays guitar.	Liam and Isabella play guitar.	nc
+Liam plays guitar.	Liam or Sophia plays guitar.	e
+Liam plays guitar.	Liam and Sophia play guitar.	nc
+Sophia plays guitar.	Liam or Sophia plays guitar.	e
+Sophia plays guitar.	Liam and Sophia play guitar.	nc
+Liam plays guitar.	Liam or Mia plays guitar.	e
+Liam plays guitar.	Liam and Mia play guitar.	nc
+Mia plays guitar.	Liam or Mia plays guitar.	e
+Mia plays guitar.	Liam and Mia play guitar.	nc
+Liam plays guitar.	Liam or Charlotte plays guitar.	e
+Liam plays guitar.	Liam and Charlotte play guitar.	nc
+Charlotte plays guitar.	Liam or Charlotte plays guitar.	e
+Charlotte plays guitar.	Liam and Charlotte play guitar.	nc
+Emma plays guitar.	Emma or James plays guitar.	e
+Emma plays guitar.	Emma and James play guitar.	nc
+James plays guitar.	Emma or James plays guitar.	e
+James plays guitar.	Emma and James play guitar.	nc
+Emma plays guitar.	Emma or Olivia plays guitar.	e
+Emma plays guitar.	Emma and Olivia play guitar.	nc
+Olivia plays guitar.	Emma or Olivia plays guitar.	e
+Olivia plays guitar.	Emma and Olivia play guitar.	nc
+Emma plays guitar.	Emma or Liam plays guitar.	e
+Emma plays guitar.	Emma and Liam play guitar.	nc
+Liam plays guitar.	Emma or Liam plays guitar.	e
+Liam plays guitar.	Emma and Liam play guitar.	nc
+Emma plays guitar.	Emma or Noah plays guitar.	e
+Emma plays guitar.	Emma and Noah play guitar.	nc
+Noah plays guitar.	Emma or Noah plays guitar.	e
+Noah plays guitar.	Emma and Noah play guitar.	nc
+Emma plays guitar.	Emma or Ava plays guitar.	e
+Emma plays guitar.	Emma and Ava play guitar.	nc
+Ava plays guitar.	Emma or Ava plays guitar.	e
+Ava plays guitar.	Emma and Ava play guitar.	nc
+Emma plays guitar.	Emma or Isabella plays guitar.	e
+Emma plays guitar.	Emma and Isabella play guitar.	nc
+Isabella plays guitar.	Emma or Isabella plays guitar.	e
+Isabella plays guitar.	Emma and Isabella play guitar.	nc
+Emma plays guitar.	Emma or Sophia plays guitar.	e
+Emma plays guitar.	Emma and Sophia play guitar.	nc
+Sophia plays guitar.	Emma or Sophia plays guitar.	e
+Sophia plays guitar.	Emma and Sophia play guitar.	nc
+Emma plays guitar.	Emma or Mia plays guitar.	e
+Emma plays guitar.	Emma and Mia play guitar.	nc
+Mia plays guitar.	Emma or Mia plays guitar.	e
+Mia plays guitar.	Emma and Mia play guitar.	nc
+Emma plays guitar.	Emma or Charlotte plays guitar.	e
+Emma plays guitar.	Emma and Charlotte play guitar.	nc
+Charlotte plays guitar.	Emma or Charlotte plays guitar.	e
+Charlotte plays guitar.	Emma and Charlotte play guitar.	nc
+Noah plays guitar.	Noah or James plays guitar.	e
+Noah plays guitar.	Noah and James play guitar.	nc
+James plays guitar.	Noah or James plays guitar.	e
+James plays guitar.	Noah and James play guitar.	nc
+Noah plays guitar.	Noah or Olivia plays guitar.	e
+Noah plays guitar.	Noah and Olivia play guitar.	nc
+Olivia plays guitar.	Noah or Olivia plays guitar.	e
+Olivia plays guitar.	Noah and Olivia play guitar.	nc
+Noah plays guitar.	Noah or Liam plays guitar.	e
+Noah plays guitar.	Noah and Liam play guitar.	nc
+Liam plays guitar.	Noah or Liam plays guitar.	e
+Liam plays guitar.	Noah and Liam play guitar.	nc
+Noah plays guitar.	Noah or Emma plays guitar.	e
+Noah plays guitar.	Noah and Emma play guitar.	nc
+Emma plays guitar.	Noah or Emma plays guitar.	e
+Emma plays guitar.	Noah and Emma play guitar.	nc
+Noah plays guitar.	Noah or Ava plays guitar.	e
+Noah plays guitar.	Noah and Ava play guitar.	nc
+Ava plays guitar.	Noah or Ava plays guitar.	e
+Ava plays guitar.	Noah and Ava play guitar.	nc
+Noah plays guitar.	Noah or Isabella plays guitar.	e
+Noah plays guitar.	Noah and Isabella play guitar.	nc
+Isabella plays guitar.	Noah or Isabella plays guitar.	e
+Isabella plays guitar.	Noah and Isabella play guitar.	nc
+Noah plays guitar.	Noah or Sophia plays guitar.	e
+Noah plays guitar.	Noah and Sophia play guitar.	nc
+Sophia plays guitar.	Noah or Sophia plays guitar.	e
+Sophia plays guitar.	Noah and Sophia play guitar.	nc
+Noah plays guitar.	Noah or Mia plays guitar.	e
+Noah plays guitar.	Noah and Mia play guitar.	nc
+Mia plays guitar.	Noah or Mia plays guitar.	e
+Mia plays guitar.	Noah and Mia play guitar.	nc
+Noah plays guitar.	Noah or Charlotte plays guitar.	e
+Noah plays guitar.	Noah and Charlotte play guitar.	nc
+Charlotte plays guitar.	Noah or Charlotte plays guitar.	e
+Charlotte plays guitar.	Noah and Charlotte play guitar.	nc
+Ava plays guitar.	Ava or James plays guitar.	e
+Ava plays guitar.	Ava and James play guitar.	nc
+James plays guitar.	Ava or James plays guitar.	e
+James plays guitar.	Ava and James play guitar.	nc
+Ava plays guitar.	Ava or Olivia plays guitar.	e
+Ava plays guitar.	Ava and Olivia play guitar.	nc
+Olivia plays guitar.	Ava or Olivia plays guitar.	e
+Olivia plays guitar.	Ava and Olivia play guitar.	nc
+Ava plays guitar.	Ava or Liam plays guitar.	e
+Ava plays guitar.	Ava and Liam play guitar.	nc
+Liam plays guitar.	Ava or Liam plays guitar.	e
+Liam plays guitar.	Ava and Liam play guitar.	nc
+Ava plays guitar.	Ava or Emma plays guitar.	e
+Ava plays guitar.	Ava and Emma play guitar.	nc
+Emma plays guitar.	Ava or Emma plays guitar.	e
+Emma plays guitar.	Ava and Emma play guitar.	nc
+Ava plays guitar.	Ava or Noah plays guitar.	e
+Ava plays guitar.	Ava and Noah play guitar.	nc
+Noah plays guitar.	Ava or Noah plays guitar.	e
+Noah plays guitar.	Ava and Noah play guitar.	nc
+Ava plays guitar.	Ava or Isabella plays guitar.	e
+Ava plays guitar.	Ava and Isabella play guitar.	nc
+Isabella plays guitar.	Ava or Isabella plays guitar.	e
+Isabella plays guitar.	Ava and Isabella play guitar.	nc
+Ava plays guitar.	Ava or Sophia plays guitar.	e
+Ava plays guitar.	Ava and Sophia play guitar.	nc
+Sophia plays guitar.	Ava or Sophia plays guitar.	e
+Sophia plays guitar.	Ava and Sophia play guitar.	nc
+Ava plays guitar.	Ava or Mia plays guitar.	e
+Ava plays guitar.	Ava and Mia play guitar.	nc
+Mia plays guitar.	Ava or Mia plays guitar.	e
+Mia plays guitar.	Ava and Mia play guitar.	nc
+Ava plays guitar.	Ava or Charlotte plays guitar.	e
+Ava plays guitar.	Ava and Charlotte play guitar.	nc
+Charlotte plays guitar.	Ava or Charlotte plays guitar.	e
+Charlotte plays guitar.	Ava and Charlotte play guitar.	nc
+Isabella plays guitar.	Isabella or James plays guitar.	e
+Isabella plays guitar.	Isabella and James play guitar.	nc
+James plays guitar.	Isabella or James plays guitar.	e
+James plays guitar.	Isabella and James play guitar.	nc
+Isabella plays guitar.	Isabella or Olivia plays guitar.	e
+Isabella plays guitar.	Isabella and Olivia play guitar.	nc
+Olivia plays guitar.	Isabella or Olivia plays guitar.	e
+Olivia plays guitar.	Isabella and Olivia play guitar.	nc
+Isabella plays guitar.	Isabella or Liam plays guitar.	e
+Isabella plays guitar.	Isabella and Liam play guitar.	nc
+Liam plays guitar.	Isabella or Liam plays guitar.	e
+Liam plays guitar.	Isabella and Liam play guitar.	nc
+Isabella plays guitar.	Isabella or Emma plays guitar.	e
+Isabella plays guitar.	Isabella and Emma play guitar.	nc
+Emma plays guitar.	Isabella or Emma plays guitar.	e
+Emma plays guitar.	Isabella and Emma play guitar.	nc
+Isabella plays guitar.	Isabella or Noah plays guitar.	e
+Isabella plays guitar.	Isabella and Noah play guitar.	nc
+Noah plays guitar.	Isabella or Noah plays guitar.	e
+Noah plays guitar.	Isabella and Noah play guitar.	nc
+Isabella plays guitar.	Isabella or Ava plays guitar.	e
+Isabella plays guitar.	Isabella and Ava play guitar.	nc
+Ava plays guitar.	Isabella or Ava plays guitar.	e
+Ava plays guitar.	Isabella and Ava play guitar.	nc
+Isabella plays guitar.	Isabella or Sophia plays guitar.	e
+Isabella plays guitar.	Isabella and Sophia play guitar.	nc
+Sophia plays guitar.	Isabella or Sophia plays guitar.	e
+Sophia plays guitar.	Isabella and Sophia play guitar.	nc
+Isabella plays guitar.	Isabella or Mia plays guitar.	e
+Isabella plays guitar.	Isabella and Mia play guitar.	nc
+Mia plays guitar.	Isabella or Mia plays guitar.	e
+Mia plays guitar.	Isabella and Mia play guitar.	nc
+Isabella plays guitar.	Isabella or Charlotte plays guitar.	e
+Isabella plays guitar.	Isabella and Charlotte play guitar.	nc
+Charlotte plays guitar.	Isabella or Charlotte plays guitar.	e
+Charlotte plays guitar.	Isabella and Charlotte play guitar.	nc
+Sophia plays guitar.	Sophia or James plays guitar.	e
+Sophia plays guitar.	Sophia and James play guitar.	nc
+James plays guitar.	Sophia or James plays guitar.	e
+James plays guitar.	Sophia and James play guitar.	nc
+Sophia plays guitar.	Sophia or Olivia plays guitar.	e
+Sophia plays guitar.	Sophia and Olivia play guitar.	nc
+Olivia plays guitar.	Sophia or Olivia plays guitar.	e
+Olivia plays guitar.	Sophia and Olivia play guitar.	nc
+Sophia plays guitar.	Sophia or Liam plays guitar.	e
+Sophia plays guitar.	Sophia and Liam play guitar.	nc
+Liam plays guitar.	Sophia or Liam plays guitar.	e
+Liam plays guitar.	Sophia and Liam play guitar.	nc
+Sophia plays guitar.	Sophia or Emma plays guitar.	e
+Sophia plays guitar.	Sophia and Emma play guitar.	nc
+Emma plays guitar.	Sophia or Emma plays guitar.	e
+Emma plays guitar.	Sophia and Emma play guitar.	nc
+Sophia plays guitar.	Sophia or Noah plays guitar.	e
+Sophia plays guitar.	Sophia and Noah play guitar.	nc
+Noah plays guitar.	Sophia or Noah plays guitar.	e
+Noah plays guitar.	Sophia and Noah play guitar.	nc
+Sophia plays guitar.	Sophia or Ava plays guitar.	e
+Sophia plays guitar.	Sophia and Ava play guitar.	nc
+Ava plays guitar.	Sophia or Ava plays guitar.	e
+Ava plays guitar.	Sophia and Ava play guitar.	nc
+Sophia plays guitar.	Sophia or Isabella plays guitar.	e
+Sophia plays guitar.	Sophia and Isabella play guitar.	nc
+Isabella plays guitar.	Sophia or Isabella plays guitar.	e
+Isabella plays guitar.	Sophia and Isabella play guitar.	nc
+Sophia plays guitar.	Sophia or Mia plays guitar.	e
+Sophia plays guitar.	Sophia and Mia play guitar.	nc
+Mia plays guitar.	Sophia or Mia plays guitar.	e
+Mia plays guitar.	Sophia and Mia play guitar.	nc
+Sophia plays guitar.	Sophia or Charlotte plays guitar.	e
+Sophia plays guitar.	Sophia and Charlotte play guitar.	nc
+Charlotte plays guitar.	Sophia or Charlotte plays guitar.	e
+Charlotte plays guitar.	Sophia and Charlotte play guitar.	nc
+Mia plays guitar.	Mia or James plays guitar.	e
+Mia plays guitar.	Mia and James play guitar.	nc
+James plays guitar.	Mia or James plays guitar.	e
+James plays guitar.	Mia and James play guitar.	nc
+Mia plays guitar.	Mia or Olivia plays guitar.	e
+Mia plays guitar.	Mia and Olivia play guitar.	nc
+Olivia plays guitar.	Mia or Olivia plays guitar.	e
+Olivia plays guitar.	Mia and Olivia play guitar.	nc
+Mia plays guitar.	Mia or Liam plays guitar.	e
+Mia plays guitar.	Mia and Liam play guitar.	nc
+Liam plays guitar.	Mia or Liam plays guitar.	e
+Liam plays guitar.	Mia and Liam play guitar.	nc
+Mia plays guitar.	Mia or Emma plays guitar.	e
+Mia plays guitar.	Mia and Emma play guitar.	nc
+Emma plays guitar.	Mia or Emma plays guitar.	e
+Emma plays guitar.	Mia and Emma play guitar.	nc
+Mia plays guitar.	Mia or Noah plays guitar.	e
+Mia plays guitar.	Mia and Noah play guitar.	nc
+Noah plays guitar.	Mia or Noah plays guitar.	e
+Noah plays guitar.	Mia and Noah play guitar.	nc
+Mia plays guitar.	Mia or Ava plays guitar.	e
+Mia plays guitar.	Mia and Ava play guitar.	nc
+Ava plays guitar.	Mia or Ava plays guitar.	e
+Ava plays guitar.	Mia and Ava play guitar.	nc
+Mia plays guitar.	Mia or Isabella plays guitar.	e
+Mia plays guitar.	Mia and Isabella play guitar.	nc
+Isabella plays guitar.	Mia or Isabella plays guitar.	e
+Isabella plays guitar.	Mia and Isabella play guitar.	nc
+Mia plays guitar.	Mia or Sophia plays guitar.	e
+Mia plays guitar.	Mia and Sophia play guitar.	nc
+Sophia plays guitar.	Mia or Sophia plays guitar.	e
+Sophia plays guitar.	Mia and Sophia play guitar.	nc
+Mia plays guitar.	Mia or Charlotte plays guitar.	e
+Mia plays guitar.	Mia and Charlotte play guitar.	nc
+Charlotte plays guitar.	Mia or Charlotte plays guitar.	e
+Charlotte plays guitar.	Mia and Charlotte play guitar.	nc
+Charlotte plays guitar.	Charlotte or James plays guitar.	e
+Charlotte plays guitar.	Charlotte and James play guitar.	nc
+James plays guitar.	Charlotte or James plays guitar.	e
+James plays guitar.	Charlotte and James play guitar.	nc
+Charlotte plays guitar.	Charlotte or Olivia plays guitar.	e
+Charlotte plays guitar.	Charlotte and Olivia play guitar.	nc
+Olivia plays guitar.	Charlotte or Olivia plays guitar.	e
+Olivia plays guitar.	Charlotte and Olivia play guitar.	nc
+Charlotte plays guitar.	Charlotte or Liam plays guitar.	e
+Charlotte plays guitar.	Charlotte and Liam play guitar.	nc
+Liam plays guitar.	Charlotte or Liam plays guitar.	e
+Liam plays guitar.	Charlotte and Liam play guitar.	nc
+Charlotte plays guitar.	Charlotte or Emma plays guitar.	e
+Charlotte plays guitar.	Charlotte and Emma play guitar.	nc
+Emma plays guitar.	Charlotte or Emma plays guitar.	e
+Emma plays guitar.	Charlotte and Emma play guitar.	nc
+Charlotte plays guitar.	Charlotte or Noah plays guitar.	e
+Charlotte plays guitar.	Charlotte and Noah play guitar.	nc
+Noah plays guitar.	Charlotte or Noah plays guitar.	e
+Noah plays guitar.	Charlotte and Noah play guitar.	nc
+Charlotte plays guitar.	Charlotte or Ava plays guitar.	e
+Charlotte plays guitar.	Charlotte and Ava play guitar.	nc
+Ava plays guitar.	Charlotte or Ava plays guitar.	e
+Ava plays guitar.	Charlotte and Ava play guitar.	nc
+Charlotte plays guitar.	Charlotte or Isabella plays guitar.	e
+Charlotte plays guitar.	Charlotte and Isabella play guitar.	nc
+Isabella plays guitar.	Charlotte or Isabella plays guitar.	e
+Isabella plays guitar.	Charlotte and Isabella play guitar.	nc
+Charlotte plays guitar.	Charlotte or Sophia plays guitar.	e
+Charlotte plays guitar.	Charlotte and Sophia play guitar.	nc
+Sophia plays guitar.	Charlotte or Sophia plays guitar.	e
+Sophia plays guitar.	Charlotte and Sophia play guitar.	nc
+Charlotte plays guitar.	Charlotte or Mia plays guitar.	e
+Charlotte plays guitar.	Charlotte and Mia play guitar.	nc
+Mia plays guitar.	Charlotte or Mia plays guitar.	e
+Mia plays guitar.	Charlotte and Mia play guitar.	nc
+I saw James.	I saw James or Olivia.	e
+I saw James.	I saw James and Olivia.	nc
+I saw Olivia.	I saw James or Olivia.	e
+I saw Olivia.	I saw James and Olivia.	nc
+I saw James.	I saw James or Liam.	e
+I saw James.	I saw James and Liam.	nc
+I saw Liam.	I saw James or Liam.	e
+I saw Liam.	I saw James and Liam.	nc
+I saw James.	I saw James or Emma.	e
+I saw James.	I saw James and Emma.	nc
+I saw Emma.	I saw James or Emma.	e
+I saw Emma.	I saw James and Emma.	nc
+I saw James.	I saw James or Noah.	e
+I saw James.	I saw James and Noah.	nc
+I saw Noah.	I saw James or Noah.	e
+I saw Noah.	I saw James and Noah.	nc
+I saw James.	I saw James or Ava.	e
+I saw James.	I saw James and Ava.	nc
+I saw Ava.	I saw James or Ava.	e
+I saw Ava.	I saw James and Ava.	nc
+I saw James.	I saw James or Isabella.	e
+I saw James.	I saw James and Isabella.	nc
+I saw Isabella.	I saw James or Isabella.	e
+I saw Isabella.	I saw James and Isabella.	nc
+I saw James.	I saw James or Sophia.	e
+I saw James.	I saw James and Sophia.	nc
+I saw Sophia.	I saw James or Sophia.	e
+I saw Sophia.	I saw James and Sophia.	nc
+I saw James.	I saw James or Mia.	e
+I saw James.	I saw James and Mia.	nc
+I saw Mia.	I saw James or Mia.	e
+I saw Mia.	I saw James and Mia.	nc
+I saw James.	I saw James or Charlotte.	e
+I saw James.	I saw James and Charlotte.	nc
+I saw Charlotte.	I saw James or Charlotte.	e
+I saw Charlotte.	I saw James and Charlotte.	nc
+I saw Olivia.	I saw Olivia or James.	e
+I saw Olivia.	I saw Olivia and James.	nc
+I saw James.	I saw Olivia or James.	e
+I saw James.	I saw Olivia and James.	nc
+I saw Olivia.	I saw Olivia or Liam.	e
+I saw Olivia.	I saw Olivia and Liam.	nc
+I saw Liam.	I saw Olivia or Liam.	e
+I saw Liam.	I saw Olivia and Liam.	nc
+I saw Olivia.	I saw Olivia or Emma.	e
+I saw Olivia.	I saw Olivia and Emma.	nc
+I saw Emma.	I saw Olivia or Emma.	e
+I saw Emma.	I saw Olivia and Emma.	nc
+I saw Olivia.	I saw Olivia or Noah.	e
+I saw Olivia.	I saw Olivia and Noah.	nc
+I saw Noah.	I saw Olivia or Noah.	e
+I saw Noah.	I saw Olivia and Noah.	nc
+I saw Olivia.	I saw Olivia or Ava.	e
+I saw Olivia.	I saw Olivia and Ava.	nc
+I saw Ava.	I saw Olivia or Ava.	e
+I saw Ava.	I saw Olivia and Ava.	nc
+I saw Olivia.	I saw Olivia or Isabella.	e
+I saw Olivia.	I saw Olivia and Isabella.	nc
+I saw Isabella.	I saw Olivia or Isabella.	e
+I saw Isabella.	I saw Olivia and Isabella.	nc
+I saw Olivia.	I saw Olivia or Sophia.	e
+I saw Olivia.	I saw Olivia and Sophia.	nc
+I saw Sophia.	I saw Olivia or Sophia.	e
+I saw Sophia.	I saw Olivia and Sophia.	nc
+I saw Olivia.	I saw Olivia or Mia.	e
+I saw Olivia.	I saw Olivia and Mia.	nc
+I saw Mia.	I saw Olivia or Mia.	e
+I saw Mia.	I saw Olivia and Mia.	nc
+I saw Olivia.	I saw Olivia or Charlotte.	e
+I saw Olivia.	I saw Olivia and Charlotte.	nc
+I saw Charlotte.	I saw Olivia or Charlotte.	e
+I saw Charlotte.	I saw Olivia and Charlotte.	nc
+I saw Liam.	I saw Liam or James.	e
+I saw Liam.	I saw Liam and James.	nc
+I saw James.	I saw Liam or James.	e
+I saw James.	I saw Liam and James.	nc
+I saw Liam.	I saw Liam or Olivia.	e
+I saw Liam.	I saw Liam and Olivia.	nc
+I saw Olivia.	I saw Liam or Olivia.	e
+I saw Olivia.	I saw Liam and Olivia.	nc
+I saw Liam.	I saw Liam or Emma.	e
+I saw Liam.	I saw Liam and Emma.	nc
+I saw Emma.	I saw Liam or Emma.	e
+I saw Emma.	I saw Liam and Emma.	nc
+I saw Liam.	I saw Liam or Noah.	e
+I saw Liam.	I saw Liam and Noah.	nc
+I saw Noah.	I saw Liam or Noah.	e
+I saw Noah.	I saw Liam and Noah.	nc
+I saw Liam.	I saw Liam or Ava.	e
+I saw Liam.	I saw Liam and Ava.	nc
+I saw Ava.	I saw Liam or Ava.	e
+I saw Ava.	I saw Liam and Ava.	nc
+I saw Liam.	I saw Liam or Isabella.	e
+I saw Liam.	I saw Liam and Isabella.	nc
+I saw Isabella.	I saw Liam or Isabella.	e
+I saw Isabella.	I saw Liam and Isabella.	nc
+I saw Liam.	I saw Liam or Sophia.	e
+I saw Liam.	I saw Liam and Sophia.	nc
+I saw Sophia.	I saw Liam or Sophia.	e
+I saw Sophia.	I saw Liam and Sophia.	nc
+I saw Liam.	I saw Liam or Mia.	e
+I saw Liam.	I saw Liam and Mia.	nc
+I saw Mia.	I saw Liam or Mia.	e
+I saw Mia.	I saw Liam and Mia.	nc
+I saw Liam.	I saw Liam or Charlotte.	e
+I saw Liam.	I saw Liam and Charlotte.	nc
+I saw Charlotte.	I saw Liam or Charlotte.	e
+I saw Charlotte.	I saw Liam and Charlotte.	nc
+I saw Emma.	I saw Emma or James.	e
+I saw Emma.	I saw Emma and James.	nc
+I saw James.	I saw Emma or James.	e
+I saw James.	I saw Emma and James.	nc
+I saw Emma.	I saw Emma or Olivia.	e
+I saw Emma.	I saw Emma and Olivia.	nc
+I saw Olivia.	I saw Emma or Olivia.	e
+I saw Olivia.	I saw Emma and Olivia.	nc
+I saw Emma.	I saw Emma or Liam.	e
+I saw Emma.	I saw Emma and Liam.	nc
+I saw Liam.	I saw Emma or Liam.	e
+I saw Liam.	I saw Emma and Liam.	nc
+I saw Emma.	I saw Emma or Noah.	e
+I saw Emma.	I saw Emma and Noah.	nc
+I saw Noah.	I saw Emma or Noah.	e
+I saw Noah.	I saw Emma and Noah.	nc
+I saw Emma.	I saw Emma or Ava.	e
+I saw Emma.	I saw Emma and Ava.	nc
+I saw Ava.	I saw Emma or Ava.	e
+I saw Ava.	I saw Emma and Ava.	nc
+I saw Emma.	I saw Emma or Isabella.	e
+I saw Emma.	I saw Emma and Isabella.	nc
+I saw Isabella.	I saw Emma or Isabella.	e
+I saw Isabella.	I saw Emma and Isabella.	nc
+I saw Emma.	I saw Emma or Sophia.	e
+I saw Emma.	I saw Emma and Sophia.	nc
+I saw Sophia.	I saw Emma or Sophia.	e
+I saw Sophia.	I saw Emma and Sophia.	nc
+I saw Emma.	I saw Emma or Mia.	e
+I saw Emma.	I saw Emma and Mia.	nc
+I saw Mia.	I saw Emma or Mia.	e
+I saw Mia.	I saw Emma and Mia.	nc
+I saw Emma.	I saw Emma or Charlotte.	e
+I saw Emma.	I saw Emma and Charlotte.	nc
+I saw Charlotte.	I saw Emma or Charlotte.	e
+I saw Charlotte.	I saw Emma and Charlotte.	nc
+I saw Noah.	I saw Noah or James.	e
+I saw Noah.	I saw Noah and James.	nc
+I saw James.	I saw Noah or James.	e
+I saw James.	I saw Noah and James.	nc
+I saw Noah.	I saw Noah or Olivia.	e
+I saw Noah.	I saw Noah and Olivia.	nc
+I saw Olivia.	I saw Noah or Olivia.	e
+I saw Olivia.	I saw Noah and Olivia.	nc
+I saw Noah.	I saw Noah or Liam.	e
+I saw Noah.	I saw Noah and Liam.	nc
+I saw Liam.	I saw Noah or Liam.	e
+I saw Liam.	I saw Noah and Liam.	nc
+I saw Noah.	I saw Noah or Emma.	e
+I saw Noah.	I saw Noah and Emma.	nc
+I saw Emma.	I saw Noah or Emma.	e
+I saw Emma.	I saw Noah and Emma.	nc
+I saw Noah.	I saw Noah or Ava.	e
+I saw Noah.	I saw Noah and Ava.	nc
+I saw Ava.	I saw Noah or Ava.	e
+I saw Ava.	I saw Noah and Ava.	nc
+I saw Noah.	I saw Noah or Isabella.	e
+I saw Noah.	I saw Noah and Isabella.	nc
+I saw Isabella.	I saw Noah or Isabella.	e
+I saw Isabella.	I saw Noah and Isabella.	nc
+I saw Noah.	I saw Noah or Sophia.	e
+I saw Noah.	I saw Noah and Sophia.	nc
+I saw Sophia.	I saw Noah or Sophia.	e
+I saw Sophia.	I saw Noah and Sophia.	nc
+I saw Noah.	I saw Noah or Mia.	e
+I saw Noah.	I saw Noah and Mia.	nc
+I saw Mia.	I saw Noah or Mia.	e
+I saw Mia.	I saw Noah and Mia.	nc
+I saw Noah.	I saw Noah or Charlotte.	e
+I saw Noah.	I saw Noah and Charlotte.	nc
+I saw Charlotte.	I saw Noah or Charlotte.	e
+I saw Charlotte.	I saw Noah and Charlotte.	nc
+I saw Ava.	I saw Ava or James.	e
+I saw Ava.	I saw Ava and James.	nc
+I saw James.	I saw Ava or James.	e
+I saw James.	I saw Ava and James.	nc
+I saw Ava.	I saw Ava or Olivia.	e
+I saw Ava.	I saw Ava and Olivia.	nc
+I saw Olivia.	I saw Ava or Olivia.	e
+I saw Olivia.	I saw Ava and Olivia.	nc
+I saw Ava.	I saw Ava or Liam.	e
+I saw Ava.	I saw Ava and Liam.	nc
+I saw Liam.	I saw Ava or Liam.	e
+I saw Liam.	I saw Ava and Liam.	nc
+I saw Ava.	I saw Ava or Emma.	e
+I saw Ava.	I saw Ava and Emma.	nc
+I saw Emma.	I saw Ava or Emma.	e
+I saw Emma.	I saw Ava and Emma.	nc
+I saw Ava.	I saw Ava or Noah.	e
+I saw Ava.	I saw Ava and Noah.	nc
+I saw Noah.	I saw Ava or Noah.	e
+I saw Noah.	I saw Ava and Noah.	nc
+I saw Ava.	I saw Ava or Isabella.	e
+I saw Ava.	I saw Ava and Isabella.	nc
+I saw Isabella.	I saw Ava or Isabella.	e
+I saw Isabella.	I saw Ava and Isabella.	nc
+I saw Ava.	I saw Ava or Sophia.	e
+I saw Ava.	I saw Ava and Sophia.	nc
+I saw Sophia.	I saw Ava or Sophia.	e
+I saw Sophia.	I saw Ava and Sophia.	nc
+I saw Ava.	I saw Ava or Mia.	e
+I saw Ava.	I saw Ava and Mia.	nc
+I saw Mia.	I saw Ava or Mia.	e
+I saw Mia.	I saw Ava and Mia.	nc
+I saw Ava.	I saw Ava or Charlotte.	e
+I saw Ava.	I saw Ava and Charlotte.	nc
+I saw Charlotte.	I saw Ava or Charlotte.	e
+I saw Charlotte.	I saw Ava and Charlotte.	nc
+I saw Isabella.	I saw Isabella or James.	e
+I saw Isabella.	I saw Isabella and James.	nc
+I saw James.	I saw Isabella or James.	e
+I saw James.	I saw Isabella and James.	nc
+I saw Isabella.	I saw Isabella or Olivia.	e
+I saw Isabella.	I saw Isabella and Olivia.	nc
+I saw Olivia.	I saw Isabella or Olivia.	e
+I saw Olivia.	I saw Isabella and Olivia.	nc
+I saw Isabella.	I saw Isabella or Liam.	e
+I saw Isabella.	I saw Isabella and Liam.	nc
+I saw Liam.	I saw Isabella or Liam.	e
+I saw Liam.	I saw Isabella and Liam.	nc
+I saw Isabella.	I saw Isabella or Emma.	e
+I saw Isabella.	I saw Isabella and Emma.	nc
+I saw Emma.	I saw Isabella or Emma.	e
+I saw Emma.	I saw Isabella and Emma.	nc
+I saw Isabella.	I saw Isabella or Noah.	e
+I saw Isabella.	I saw Isabella and Noah.	nc
+I saw Noah.	I saw Isabella or Noah.	e
+I saw Noah.	I saw Isabella and Noah.	nc
+I saw Isabella.	I saw Isabella or Ava.	e
+I saw Isabella.	I saw Isabella and Ava.	nc
+I saw Ava.	I saw Isabella or Ava.	e
+I saw Ava.	I saw Isabella and Ava.	nc
+I saw Isabella.	I saw Isabella or Sophia.	e
+I saw Isabella.	I saw Isabella and Sophia.	nc
+I saw Sophia.	I saw Isabella or Sophia.	e
+I saw Sophia.	I saw Isabella and Sophia.	nc
+I saw Isabella.	I saw Isabella or Mia.	e
+I saw Isabella.	I saw Isabella and Mia.	nc
+I saw Mia.	I saw Isabella or Mia.	e
+I saw Mia.	I saw Isabella and Mia.	nc
+I saw Isabella.	I saw Isabella or Charlotte.	e
+I saw Isabella.	I saw Isabella and Charlotte.	nc
+I saw Charlotte.	I saw Isabella or Charlotte.	e
+I saw Charlotte.	I saw Isabella and Charlotte.	nc
+I saw Sophia.	I saw Sophia or James.	e
+I saw Sophia.	I saw Sophia and James.	nc
+I saw James.	I saw Sophia or James.	e
+I saw James.	I saw Sophia and James.	nc
+I saw Sophia.	I saw Sophia or Olivia.	e
+I saw Sophia.	I saw Sophia and Olivia.	nc
+I saw Olivia.	I saw Sophia or Olivia.	e
+I saw Olivia.	I saw Sophia and Olivia.	nc
+I saw Sophia.	I saw Sophia or Liam.	e
+I saw Sophia.	I saw Sophia and Liam.	nc
+I saw Liam.	I saw Sophia or Liam.	e
+I saw Liam.	I saw Sophia and Liam.	nc
+I saw Sophia.	I saw Sophia or Emma.	e
+I saw Sophia.	I saw Sophia and Emma.	nc
+I saw Emma.	I saw Sophia or Emma.	e
+I saw Emma.	I saw Sophia and Emma.	nc
+I saw Sophia.	I saw Sophia or Noah.	e
+I saw Sophia.	I saw Sophia and Noah.	nc
+I saw Noah.	I saw Sophia or Noah.	e
+I saw Noah.	I saw Sophia and Noah.	nc
+I saw Sophia.	I saw Sophia or Ava.	e
+I saw Sophia.	I saw Sophia and Ava.	nc
+I saw Ava.	I saw Sophia or Ava.	e
+I saw Ava.	I saw Sophia and Ava.	nc
+I saw Sophia.	I saw Sophia or Isabella.	e
+I saw Sophia.	I saw Sophia and Isabella.	nc
+I saw Isabella.	I saw Sophia or Isabella.	e
+I saw Isabella.	I saw Sophia and Isabella.	nc
+I saw Sophia.	I saw Sophia or Mia.	e
+I saw Sophia.	I saw Sophia and Mia.	nc
+I saw Mia.	I saw Sophia or Mia.	e
+I saw Mia.	I saw Sophia and Mia.	nc
+I saw Sophia.	I saw Sophia or Charlotte.	e
+I saw Sophia.	I saw Sophia and Charlotte.	nc
+I saw Charlotte.	I saw Sophia or Charlotte.	e
+I saw Charlotte.	I saw Sophia and Charlotte.	nc
+I saw Mia.	I saw Mia or James.	e
+I saw Mia.	I saw Mia and James.	nc
+I saw James.	I saw Mia or James.	e
+I saw James.	I saw Mia and James.	nc
+I saw Mia.	I saw Mia or Olivia.	e
+I saw Mia.	I saw Mia and Olivia.	nc
+I saw Olivia.	I saw Mia or Olivia.	e
+I saw Olivia.	I saw Mia and Olivia.	nc
+I saw Mia.	I saw Mia or Liam.	e
+I saw Mia.	I saw Mia and Liam.	nc
+I saw Liam.	I saw Mia or Liam.	e
+I saw Liam.	I saw Mia and Liam.	nc
+I saw Mia.	I saw Mia or Emma.	e
+I saw Mia.	I saw Mia and Emma.	nc
+I saw Emma.	I saw Mia or Emma.	e
+I saw Emma.	I saw Mia and Emma.	nc
+I saw Mia.	I saw Mia or Noah.	e
+I saw Mia.	I saw Mia and Noah.	nc
+I saw Noah.	I saw Mia or Noah.	e
+I saw Noah.	I saw Mia and Noah.	nc
+I saw Mia.	I saw Mia or Ava.	e
+I saw Mia.	I saw Mia and Ava.	nc
+I saw Ava.	I saw Mia or Ava.	e
+I saw Ava.	I saw Mia and Ava.	nc
+I saw Mia.	I saw Mia or Isabella.	e
+I saw Mia.	I saw Mia and Isabella.	nc
+I saw Isabella.	I saw Mia or Isabella.	e
+I saw Isabella.	I saw Mia and Isabella.	nc
+I saw Mia.	I saw Mia or Sophia.	e
+I saw Mia.	I saw Mia and Sophia.	nc
+I saw Sophia.	I saw Mia or Sophia.	e
+I saw Sophia.	I saw Mia and Sophia.	nc
+I saw Mia.	I saw Mia or Charlotte.	e
+I saw Mia.	I saw Mia and Charlotte.	nc
+I saw Charlotte.	I saw Mia or Charlotte.	e
+I saw Charlotte.	I saw Mia and Charlotte.	nc
+I saw Charlotte.	I saw Charlotte or James.	e
+I saw Charlotte.	I saw Charlotte and James.	nc
+I saw James.	I saw Charlotte or James.	e
+I saw James.	I saw Charlotte and James.	nc
+I saw Charlotte.	I saw Charlotte or Olivia.	e
+I saw Charlotte.	I saw Charlotte and Olivia.	nc
+I saw Olivia.	I saw Charlotte or Olivia.	e
+I saw Olivia.	I saw Charlotte and Olivia.	nc
+I saw Charlotte.	I saw Charlotte or Liam.	e
+I saw Charlotte.	I saw Charlotte and Liam.	nc
+I saw Liam.	I saw Charlotte or Liam.	e
+I saw Liam.	I saw Charlotte and Liam.	nc
+I saw Charlotte.	I saw Charlotte or Emma.	e
+I saw Charlotte.	I saw Charlotte and Emma.	nc
+I saw Emma.	I saw Charlotte or Emma.	e
+I saw Emma.	I saw Charlotte and Emma.	nc
+I saw Charlotte.	I saw Charlotte or Noah.	e
+I saw Charlotte.	I saw Charlotte and Noah.	nc
+I saw Noah.	I saw Charlotte or Noah.	e
+I saw Noah.	I saw Charlotte and Noah.	nc
+I saw Charlotte.	I saw Charlotte or Ava.	e
+I saw Charlotte.	I saw Charlotte and Ava.	nc
+I saw Ava.	I saw Charlotte or Ava.	e
+I saw Ava.	I saw Charlotte and Ava.	nc
+I saw Charlotte.	I saw Charlotte or Isabella.	e
+I saw Charlotte.	I saw Charlotte and Isabella.	nc
+I saw Isabella.	I saw Charlotte or Isabella.	e
+I saw Isabella.	I saw Charlotte and Isabella.	nc
+I saw Charlotte.	I saw Charlotte or Sophia.	e
+I saw Charlotte.	I saw Charlotte and Sophia.	nc
+I saw Sophia.	I saw Charlotte or Sophia.	e
+I saw Sophia.	I saw Charlotte and Sophia.	nc
+I saw Charlotte.	I saw Charlotte or Mia.	e
+I saw Charlotte.	I saw Charlotte and Mia.	nc
+I saw Mia.	I saw Charlotte or Mia.	e
+I saw Mia.	I saw Charlotte and Mia.	nc
+He likes James.	He likes James or Olivia.	e
+He likes James.	He likes James and Olivia.	nc
+He likes Olivia.	He likes James or Olivia.	e
+He likes Olivia.	He likes James and Olivia.	nc
+He likes James.	He likes James or Liam.	e
+He likes James.	He likes James and Liam.	nc
+He likes Liam.	He likes James or Liam.	e
+He likes Liam.	He likes James and Liam.	nc
+He likes James.	He likes James or Emma.	e
+He likes James.	He likes James and Emma.	nc
+He likes Emma.	He likes James or Emma.	e
+He likes Emma.	He likes James and Emma.	nc
+He likes James.	He likes James or Noah.	e
+He likes James.	He likes James and Noah.	nc
+He likes Noah.	He likes James or Noah.	e
+He likes Noah.	He likes James and Noah.	nc
+He likes James.	He likes James or Ava.	e
+He likes James.	He likes James and Ava.	nc
+He likes Ava.	He likes James or Ava.	e
+He likes Ava.	He likes James and Ava.	nc
+He likes James.	He likes James or Isabella.	e
+He likes James.	He likes James and Isabella.	nc
+He likes Isabella.	He likes James or Isabella.	e
+He likes Isabella.	He likes James and Isabella.	nc
+He likes James.	He likes James or Sophia.	e
+He likes James.	He likes James and Sophia.	nc
+He likes Sophia.	He likes James or Sophia.	e
+He likes Sophia.	He likes James and Sophia.	nc
+He likes James.	He likes James or Mia.	e
+He likes James.	He likes James and Mia.	nc
+He likes Mia.	He likes James or Mia.	e
+He likes Mia.	He likes James and Mia.	nc
+He likes James.	He likes James or Charlotte.	e
+He likes James.	He likes James and Charlotte.	nc
+He likes Charlotte.	He likes James or Charlotte.	e
+He likes Charlotte.	He likes James and Charlotte.	nc
+He likes Olivia.	He likes Olivia or James.	e
+He likes Olivia.	He likes Olivia and James.	nc
+He likes James.	He likes Olivia or James.	e
+He likes James.	He likes Olivia and James.	nc
+He likes Olivia.	He likes Olivia or Liam.	e
+He likes Olivia.	He likes Olivia and Liam.	nc
+He likes Liam.	He likes Olivia or Liam.	e
+He likes Liam.	He likes Olivia and Liam.	nc
+He likes Olivia.	He likes Olivia or Emma.	e
+He likes Olivia.	He likes Olivia and Emma.	nc
+He likes Emma.	He likes Olivia or Emma.	e
+He likes Emma.	He likes Olivia and Emma.	nc
+He likes Olivia.	He likes Olivia or Noah.	e
+He likes Olivia.	He likes Olivia and Noah.	nc
+He likes Noah.	He likes Olivia or Noah.	e
+He likes Noah.	He likes Olivia and Noah.	nc
+He likes Olivia.	He likes Olivia or Ava.	e
+He likes Olivia.	He likes Olivia and Ava.	nc
+He likes Ava.	He likes Olivia or Ava.	e
+He likes Ava.	He likes Olivia and Ava.	nc
+He likes Olivia.	He likes Olivia or Isabella.	e
+He likes Olivia.	He likes Olivia and Isabella.	nc
+He likes Isabella.	He likes Olivia or Isabella.	e
+He likes Isabella.	He likes Olivia and Isabella.	nc
+He likes Olivia.	He likes Olivia or Sophia.	e
+He likes Olivia.	He likes Olivia and Sophia.	nc
+He likes Sophia.	He likes Olivia or Sophia.	e
+He likes Sophia.	He likes Olivia and Sophia.	nc
+He likes Olivia.	He likes Olivia or Mia.	e
+He likes Olivia.	He likes Olivia and Mia.	nc
+He likes Mia.	He likes Olivia or Mia.	e
+He likes Mia.	He likes Olivia and Mia.	nc
+He likes Olivia.	He likes Olivia or Charlotte.	e
+He likes Olivia.	He likes Olivia and Charlotte.	nc
+He likes Charlotte.	He likes Olivia or Charlotte.	e
+He likes Charlotte.	He likes Olivia and Charlotte.	nc
+He likes Liam.	He likes Liam or James.	e
+He likes Liam.	He likes Liam and James.	nc
+He likes James.	He likes Liam or James.	e
+He likes James.	He likes Liam and James.	nc
+He likes Liam.	He likes Liam or Olivia.	e
+He likes Liam.	He likes Liam and Olivia.	nc
+He likes Olivia.	He likes Liam or Olivia.	e
+He likes Olivia.	He likes Liam and Olivia.	nc
+He likes Liam.	He likes Liam or Emma.	e
+He likes Liam.	He likes Liam and Emma.	nc
+He likes Emma.	He likes Liam or Emma.	e
+He likes Emma.	He likes Liam and Emma.	nc
+He likes Liam.	He likes Liam or Noah.	e
+He likes Liam.	He likes Liam and Noah.	nc
+He likes Noah.	He likes Liam or Noah.	e
+He likes Noah.	He likes Liam and Noah.	nc
+He likes Liam.	He likes Liam or Ava.	e
+He likes Liam.	He likes Liam and Ava.	nc
+He likes Ava.	He likes Liam or Ava.	e
+He likes Ava.	He likes Liam and Ava.	nc
+He likes Liam.	He likes Liam or Isabella.	e
+He likes Liam.	He likes Liam and Isabella.	nc
+He likes Isabella.	He likes Liam or Isabella.	e
+He likes Isabella.	He likes Liam and Isabella.	nc
+He likes Liam.	He likes Liam or Sophia.	e
+He likes Liam.	He likes Liam and Sophia.	nc
+He likes Sophia.	He likes Liam or Sophia.	e
+He likes Sophia.	He likes Liam and Sophia.	nc
+He likes Liam.	He likes Liam or Mia.	e
+He likes Liam.	He likes Liam and Mia.	nc
+He likes Mia.	He likes Liam or Mia.	e
+He likes Mia.	He likes Liam and Mia.	nc
+He likes Liam.	He likes Liam or Charlotte.	e
+He likes Liam.	He likes Liam and Charlotte.	nc
+He likes Charlotte.	He likes Liam or Charlotte.	e
+He likes Charlotte.	He likes Liam and Charlotte.	nc
+He likes Emma.	He likes Emma or James.	e
+He likes Emma.	He likes Emma and James.	nc
+He likes James.	He likes Emma or James.	e
+He likes James.	He likes Emma and James.	nc
+He likes Emma.	He likes Emma or Olivia.	e
+He likes Emma.	He likes Emma and Olivia.	nc
+He likes Olivia.	He likes Emma or Olivia.	e
+He likes Olivia.	He likes Emma and Olivia.	nc
+He likes Emma.	He likes Emma or Liam.	e
+He likes Emma.	He likes Emma and Liam.	nc
+He likes Liam.	He likes Emma or Liam.	e
+He likes Liam.	He likes Emma and Liam.	nc
+He likes Emma.	He likes Emma or Noah.	e
+He likes Emma.	He likes Emma and Noah.	nc
+He likes Noah.	He likes Emma or Noah.	e
+He likes Noah.	He likes Emma and Noah.	nc
+He likes Emma.	He likes Emma or Ava.	e
+He likes Emma.	He likes Emma and Ava.	nc
+He likes Ava.	He likes Emma or Ava.	e
+He likes Ava.	He likes Emma and Ava.	nc
+He likes Emma.	He likes Emma or Isabella.	e
+He likes Emma.	He likes Emma and Isabella.	nc
+He likes Isabella.	He likes Emma or Isabella.	e
+He likes Isabella.	He likes Emma and Isabella.	nc
+He likes Emma.	He likes Emma or Sophia.	e
+He likes Emma.	He likes Emma and Sophia.	nc
+He likes Sophia.	He likes Emma or Sophia.	e
+He likes Sophia.	He likes Emma and Sophia.	nc
+He likes Emma.	He likes Emma or Mia.	e
+He likes Emma.	He likes Emma and Mia.	nc
+He likes Mia.	He likes Emma or Mia.	e
+He likes Mia.	He likes Emma and Mia.	nc
+He likes Emma.	He likes Emma or Charlotte.	e
+He likes Emma.	He likes Emma and Charlotte.	nc
+He likes Charlotte.	He likes Emma or Charlotte.	e
+He likes Charlotte.	He likes Emma and Charlotte.	nc
+He likes Noah.	He likes Noah or James.	e
+He likes Noah.	He likes Noah and James.	nc
+He likes James.	He likes Noah or James.	e
+He likes James.	He likes Noah and James.	nc
+He likes Noah.	He likes Noah or Olivia.	e
+He likes Noah.	He likes Noah and Olivia.	nc
+He likes Olivia.	He likes Noah or Olivia.	e
+He likes Olivia.	He likes Noah and Olivia.	nc
+He likes Noah.	He likes Noah or Liam.	e
+He likes Noah.	He likes Noah and Liam.	nc
+He likes Liam.	He likes Noah or Liam.	e
+He likes Liam.	He likes Noah and Liam.	nc
+He likes Noah.	He likes Noah or Emma.	e
+He likes Noah.	He likes Noah and Emma.	nc
+He likes Emma.	He likes Noah or Emma.	e
+He likes Emma.	He likes Noah and Emma.	nc
+He likes Noah.	He likes Noah or Ava.	e
+He likes Noah.	He likes Noah and Ava.	nc
+He likes Ava.	He likes Noah or Ava.	e
+He likes Ava.	He likes Noah and Ava.	nc
+He likes Noah.	He likes Noah or Isabella.	e
+He likes Noah.	He likes Noah and Isabella.	nc
+He likes Isabella.	He likes Noah or Isabella.	e
+He likes Isabella.	He likes Noah and Isabella.	nc
+He likes Noah.	He likes Noah or Sophia.	e
+He likes Noah.	He likes Noah and Sophia.	nc
+He likes Sophia.	He likes Noah or Sophia.	e
+He likes Sophia.	He likes Noah and Sophia.	nc
+He likes Noah.	He likes Noah or Mia.	e
+He likes Noah.	He likes Noah and Mia.	nc
+He likes Mia.	He likes Noah or Mia.	e
+He likes Mia.	He likes Noah and Mia.	nc
+He likes Noah.	He likes Noah or Charlotte.	e
+He likes Noah.	He likes Noah and Charlotte.	nc
+He likes Charlotte.	He likes Noah or Charlotte.	e
+He likes Charlotte.	He likes Noah and Charlotte.	nc
+He likes Ava.	He likes Ava or James.	e
+He likes Ava.	He likes Ava and James.	nc
+He likes James.	He likes Ava or James.	e
+He likes James.	He likes Ava and James.	nc
+He likes Ava.	He likes Ava or Olivia.	e
+He likes Ava.	He likes Ava and Olivia.	nc
+He likes Olivia.	He likes Ava or Olivia.	e
+He likes Olivia.	He likes Ava and Olivia.	nc
+He likes Ava.	He likes Ava or Liam.	e
+He likes Ava.	He likes Ava and Liam.	nc
+He likes Liam.	He likes Ava or Liam.	e
+He likes Liam.	He likes Ava and Liam.	nc
+He likes Ava.	He likes Ava or Emma.	e
+He likes Ava.	He likes Ava and Emma.	nc
+He likes Emma.	He likes Ava or Emma.	e
+He likes Emma.	He likes Ava and Emma.	nc
+He likes Ava.	He likes Ava or Noah.	e
+He likes Ava.	He likes Ava and Noah.	nc
+He likes Noah.	He likes Ava or Noah.	e
+He likes Noah.	He likes Ava and Noah.	nc
+He likes Ava.	He likes Ava or Isabella.	e
+He likes Ava.	He likes Ava and Isabella.	nc
+He likes Isabella.	He likes Ava or Isabella.	e
+He likes Isabella.	He likes Ava and Isabella.	nc
+He likes Ava.	He likes Ava or Sophia.	e
+He likes Ava.	He likes Ava and Sophia.	nc
+He likes Sophia.	He likes Ava or Sophia.	e
+He likes Sophia.	He likes Ava and Sophia.	nc
+He likes Ava.	He likes Ava or Mia.	e
+He likes Ava.	He likes Ava and Mia.	nc
+He likes Mia.	He likes Ava or Mia.	e
+He likes Mia.	He likes Ava and Mia.	nc
+He likes Ava.	He likes Ava or Charlotte.	e
+He likes Ava.	He likes Ava and Charlotte.	nc
+He likes Charlotte.	He likes Ava or Charlotte.	e
+He likes Charlotte.	He likes Ava and Charlotte.	nc
+He likes Isabella.	He likes Isabella or James.	e
+He likes Isabella.	He likes Isabella and James.	nc
+He likes James.	He likes Isabella or James.	e
+He likes James.	He likes Isabella and James.	nc
+He likes Isabella.	He likes Isabella or Olivia.	e
+He likes Isabella.	He likes Isabella and Olivia.	nc
+He likes Olivia.	He likes Isabella or Olivia.	e
+He likes Olivia.	He likes Isabella and Olivia.	nc
+He likes Isabella.	He likes Isabella or Liam.	e
+He likes Isabella.	He likes Isabella and Liam.	nc
+He likes Liam.	He likes Isabella or Liam.	e
+He likes Liam.	He likes Isabella and Liam.	nc
+He likes Isabella.	He likes Isabella or Emma.	e
+He likes Isabella.	He likes Isabella and Emma.	nc
+He likes Emma.	He likes Isabella or Emma.	e
+He likes Emma.	He likes Isabella and Emma.	nc
+He likes Isabella.	He likes Isabella or Noah.	e
+He likes Isabella.	He likes Isabella and Noah.	nc
+He likes Noah.	He likes Isabella or Noah.	e
+He likes Noah.	He likes Isabella and Noah.	nc
+He likes Isabella.	He likes Isabella or Ava.	e
+He likes Isabella.	He likes Isabella and Ava.	nc
+He likes Ava.	He likes Isabella or Ava.	e
+He likes Ava.	He likes Isabella and Ava.	nc
+He likes Isabella.	He likes Isabella or Sophia.	e
+He likes Isabella.	He likes Isabella and Sophia.	nc
+He likes Sophia.	He likes Isabella or Sophia.	e
+He likes Sophia.	He likes Isabella and Sophia.	nc
+He likes Isabella.	He likes Isabella or Mia.	e
+He likes Isabella.	He likes Isabella and Mia.	nc
+He likes Mia.	He likes Isabella or Mia.	e
+He likes Mia.	He likes Isabella and Mia.	nc
+He likes Isabella.	He likes Isabella or Charlotte.	e
+He likes Isabella.	He likes Isabella and Charlotte.	nc
+He likes Charlotte.	He likes Isabella or Charlotte.	e
+He likes Charlotte.	He likes Isabella and Charlotte.	nc
+He likes Sophia.	He likes Sophia or James.	e
+He likes Sophia.	He likes Sophia and James.	nc
+He likes James.	He likes Sophia or James.	e
+He likes James.	He likes Sophia and James.	nc
+He likes Sophia.	He likes Sophia or Olivia.	e
+He likes Sophia.	He likes Sophia and Olivia.	nc
+He likes Olivia.	He likes Sophia or Olivia.	e
+He likes Olivia.	He likes Sophia and Olivia.	nc
+He likes Sophia.	He likes Sophia or Liam.	e
+He likes Sophia.	He likes Sophia and Liam.	nc
+He likes Liam.	He likes Sophia or Liam.	e
+He likes Liam.	He likes Sophia and Liam.	nc
+He likes Sophia.	He likes Sophia or Emma.	e
+He likes Sophia.	He likes Sophia and Emma.	nc
+He likes Emma.	He likes Sophia or Emma.	e
+He likes Emma.	He likes Sophia and Emma.	nc
+He likes Sophia.	He likes Sophia or Noah.	e
+He likes Sophia.	He likes Sophia and Noah.	nc
+He likes Noah.	He likes Sophia or Noah.	e
+He likes Noah.	He likes Sophia and Noah.	nc
+He likes Sophia.	He likes Sophia or Ava.	e
+He likes Sophia.	He likes Sophia and Ava.	nc
+He likes Ava.	He likes Sophia or Ava.	e
+He likes Ava.	He likes Sophia and Ava.	nc
+He likes Sophia.	He likes Sophia or Isabella.	e
+He likes Sophia.	He likes Sophia and Isabella.	nc
+He likes Isabella.	He likes Sophia or Isabella.	e
+He likes Isabella.	He likes Sophia and Isabella.	nc
+He likes Sophia.	He likes Sophia or Mia.	e
+He likes Sophia.	He likes Sophia and Mia.	nc
+He likes Mia.	He likes Sophia or Mia.	e
+He likes Mia.	He likes Sophia and Mia.	nc
+He likes Sophia.	He likes Sophia or Charlotte.	e
+He likes Sophia.	He likes Sophia and Charlotte.	nc
+He likes Charlotte.	He likes Sophia or Charlotte.	e
+He likes Charlotte.	He likes Sophia and Charlotte.	nc
+He likes Mia.	He likes Mia or James.	e
+He likes Mia.	He likes Mia and James.	nc
+He likes James.	He likes Mia or James.	e
+He likes James.	He likes Mia and James.	nc
+He likes Mia.	He likes Mia or Olivia.	e
+He likes Mia.	He likes Mia and Olivia.	nc
+He likes Olivia.	He likes Mia or Olivia.	e
+He likes Olivia.	He likes Mia and Olivia.	nc
+He likes Mia.	He likes Mia or Liam.	e
+He likes Mia.	He likes Mia and Liam.	nc
+He likes Liam.	He likes Mia or Liam.	e
+He likes Liam.	He likes Mia and Liam.	nc
+He likes Mia.	He likes Mia or Emma.	e
+He likes Mia.	He likes Mia and Emma.	nc
+He likes Emma.	He likes Mia or Emma.	e
+He likes Emma.	He likes Mia and Emma.	nc
+He likes Mia.	He likes Mia or Noah.	e
+He likes Mia.	He likes Mia and Noah.	nc
+He likes Noah.	He likes Mia or Noah.	e
+He likes Noah.	He likes Mia and Noah.	nc
+He likes Mia.	He likes Mia or Ava.	e
+He likes Mia.	He likes Mia and Ava.	nc
+He likes Ava.	He likes Mia or Ava.	e
+He likes Ava.	He likes Mia and Ava.	nc
+He likes Mia.	He likes Mia or Isabella.	e
+He likes Mia.	He likes Mia and Isabella.	nc
+He likes Isabella.	He likes Mia or Isabella.	e
+He likes Isabella.	He likes Mia and Isabella.	nc
+He likes Mia.	He likes Mia or Sophia.	e
+He likes Mia.	He likes Mia and Sophia.	nc
+He likes Sophia.	He likes Mia or Sophia.	e
+He likes Sophia.	He likes Mia and Sophia.	nc
+He likes Mia.	He likes Mia or Charlotte.	e
+He likes Mia.	He likes Mia and Charlotte.	nc
+He likes Charlotte.	He likes Mia or Charlotte.	e
+He likes Charlotte.	He likes Mia and Charlotte.	nc
+He likes Charlotte.	He likes Charlotte or James.	e
+He likes Charlotte.	He likes Charlotte and James.	nc
+He likes James.	He likes Charlotte or James.	e
+He likes James.	He likes Charlotte and James.	nc
+He likes Charlotte.	He likes Charlotte or Olivia.	e
+He likes Charlotte.	He likes Charlotte and Olivia.	nc
+He likes Olivia.	He likes Charlotte or Olivia.	e
+He likes Olivia.	He likes Charlotte and Olivia.	nc
+He likes Charlotte.	He likes Charlotte or Liam.	e
+He likes Charlotte.	He likes Charlotte and Liam.	nc
+He likes Liam.	He likes Charlotte or Liam.	e
+He likes Liam.	He likes Charlotte and Liam.	nc
+He likes Charlotte.	He likes Charlotte or Emma.	e
+He likes Charlotte.	He likes Charlotte and Emma.	nc
+He likes Emma.	He likes Charlotte or Emma.	e
+He likes Emma.	He likes Charlotte and Emma.	nc
+He likes Charlotte.	He likes Charlotte or Noah.	e
+He likes Charlotte.	He likes Charlotte and Noah.	nc
+He likes Noah.	He likes Charlotte or Noah.	e
+He likes Noah.	He likes Charlotte and Noah.	nc
+He likes Charlotte.	He likes Charlotte or Ava.	e
+He likes Charlotte.	He likes Charlotte and Ava.	nc
+He likes Ava.	He likes Charlotte or Ava.	e
+He likes Ava.	He likes Charlotte and Ava.	nc
+He likes Charlotte.	He likes Charlotte or Isabella.	e
+He likes Charlotte.	He likes Charlotte and Isabella.	nc
+He likes Isabella.	He likes Charlotte or Isabella.	e
+He likes Isabella.	He likes Charlotte and Isabella.	nc
+He likes Charlotte.	He likes Charlotte or Sophia.	e
+He likes Charlotte.	He likes Charlotte and Sophia.	nc
+He likes Sophia.	He likes Charlotte or Sophia.	e
+He likes Sophia.	He likes Charlotte and Sophia.	nc
+He likes Charlotte.	He likes Charlotte or Mia.	e
+He likes Charlotte.	He likes Charlotte and Mia.	nc
+He likes Mia.	He likes Charlotte or Mia.	e
+He likes Mia.	He likes Charlotte and Mia.	nc
+James is hungry.	James or Olivia is hungry.	e
+James is hungry.	James and Olivia are hungry.	nc
+Olivia is hungry.	James or Olivia is hungry.	e
+Olivia is hungry.	James and Olivia are hungry.	nc
+James is hungry.	James or Liam is hungry.	e
+James is hungry.	James and Liam are hungry.	nc
+Liam is hungry.	James or Liam is hungry.	e
+Liam is hungry.	James and Liam are hungry.	nc
+James is hungry.	James or Emma is hungry.	e
+James is hungry.	James and Emma are hungry.	nc
+Emma is hungry.	James or Emma is hungry.	e
+Emma is hungry.	James and Emma are hungry.	nc
+James is hungry.	James or Noah is hungry.	e
+James is hungry.	James and Noah are hungry.	nc
+Noah is hungry.	James or Noah is hungry.	e
+Noah is hungry.	James and Noah are hungry.	nc
+James is hungry.	James or Ava is hungry.	e
+James is hungry.	James and Ava are hungry.	nc
+Ava is hungry.	James or Ava is hungry.	e
+Ava is hungry.	James and Ava are hungry.	nc
+James is hungry.	James or Isabella is hungry.	e
+James is hungry.	James and Isabella are hungry.	nc
+Isabella is hungry.	James or Isabella is hungry.	e
+Isabella is hungry.	James and Isabella are hungry.	nc
+James is hungry.	James or Sophia is hungry.	e
+James is hungry.	James and Sophia are hungry.	nc
+Sophia is hungry.	James or Sophia is hungry.	e
+Sophia is hungry.	James and Sophia are hungry.	nc
+James is hungry.	James or Mia is hungry.	e
+James is hungry.	James and Mia are hungry.	nc
+Mia is hungry.	James or Mia is hungry.	e
+Mia is hungry.	James and Mia are hungry.	nc
+James is hungry.	James or Charlotte is hungry.	e
+James is hungry.	James and Charlotte are hungry.	nc
+Charlotte is hungry.	James or Charlotte is hungry.	e
+Charlotte is hungry.	James and Charlotte are hungry.	nc
+Olivia is hungry.	Olivia or James is hungry.	e
+Olivia is hungry.	Olivia and James are hungry.	nc
+James is hungry.	Olivia or James is hungry.	e
+James is hungry.	Olivia and James are hungry.	nc
+Olivia is hungry.	Olivia or Liam is hungry.	e
+Olivia is hungry.	Olivia and Liam are hungry.	nc
+Liam is hungry.	Olivia or Liam is hungry.	e
+Liam is hungry.	Olivia and Liam are hungry.	nc
+Olivia is hungry.	Olivia or Emma is hungry.	e
+Olivia is hungry.	Olivia and Emma are hungry.	nc
+Emma is hungry.	Olivia or Emma is hungry.	e
+Emma is hungry.	Olivia and Emma are hungry.	nc
+Olivia is hungry.	Olivia or Noah is hungry.	e
+Olivia is hungry.	Olivia and Noah are hungry.	nc
+Noah is hungry.	Olivia or Noah is hungry.	e
+Noah is hungry.	Olivia and Noah are hungry.	nc
+Olivia is hungry.	Olivia or Ava is hungry.	e
+Olivia is hungry.	Olivia and Ava are hungry.	nc
+Ava is hungry.	Olivia or Ava is hungry.	e
+Ava is hungry.	Olivia and Ava are hungry.	nc
+Olivia is hungry.	Olivia or Isabella is hungry.	e
+Olivia is hungry.	Olivia and Isabella are hungry.	nc
+Isabella is hungry.	Olivia or Isabella is hungry.	e
+Isabella is hungry.	Olivia and Isabella are hungry.	nc
+Olivia is hungry.	Olivia or Sophia is hungry.	e
+Olivia is hungry.	Olivia and Sophia are hungry.	nc
+Sophia is hungry.	Olivia or Sophia is hungry.	e
+Sophia is hungry.	Olivia and Sophia are hungry.	nc
+Olivia is hungry.	Olivia or Mia is hungry.	e
+Olivia is hungry.	Olivia and Mia are hungry.	nc
+Mia is hungry.	Olivia or Mia is hungry.	e
+Mia is hungry.	Olivia and Mia are hungry.	nc
+Olivia is hungry.	Olivia or Charlotte is hungry.	e
+Olivia is hungry.	Olivia and Charlotte are hungry.	nc
+Charlotte is hungry.	Olivia or Charlotte is hungry.	e
+Charlotte is hungry.	Olivia and Charlotte are hungry.	nc
+Liam is hungry.	Liam or James is hungry.	e
+Liam is hungry.	Liam and James are hungry.	nc
+James is hungry.	Liam or James is hungry.	e
+James is hungry.	Liam and James are hungry.	nc
+Liam is hungry.	Liam or Olivia is hungry.	e
+Liam is hungry.	Liam and Olivia are hungry.	nc
+Olivia is hungry.	Liam or Olivia is hungry.	e
+Olivia is hungry.	Liam and Olivia are hungry.	nc
+Liam is hungry.	Liam or Emma is hungry.	e
+Liam is hungry.	Liam and Emma are hungry.	nc
+Emma is hungry.	Liam or Emma is hungry.	e
+Emma is hungry.	Liam and Emma are hungry.	nc
+Liam is hungry.	Liam or Noah is hungry.	e
+Liam is hungry.	Liam and Noah are hungry.	nc
+Noah is hungry.	Liam or Noah is hungry.	e
+Noah is hungry.	Liam and Noah are hungry.	nc
+Liam is hungry.	Liam or Ava is hungry.	e
+Liam is hungry.	Liam and Ava are hungry.	nc
+Ava is hungry.	Liam or Ava is hungry.	e
+Ava is hungry.	Liam and Ava are hungry.	nc
+Liam is hungry.	Liam or Isabella is hungry.	e
+Liam is hungry.	Liam and Isabella are hungry.	nc
+Isabella is hungry.	Liam or Isabella is hungry.	e
+Isabella is hungry.	Liam and Isabella are hungry.	nc
+Liam is hungry.	Liam or Sophia is hungry.	e
+Liam is hungry.	Liam and Sophia are hungry.	nc
+Sophia is hungry.	Liam or Sophia is hungry.	e
+Sophia is hungry.	Liam and Sophia are hungry.	nc
+Liam is hungry.	Liam or Mia is hungry.	e
+Liam is hungry.	Liam and Mia are hungry.	nc
+Mia is hungry.	Liam or Mia is hungry.	e
+Mia is hungry.	Liam and Mia are hungry.	nc
+Liam is hungry.	Liam or Charlotte is hungry.	e
+Liam is hungry.	Liam and Charlotte are hungry.	nc
+Charlotte is hungry.	Liam or Charlotte is hungry.	e
+Charlotte is hungry.	Liam and Charlotte are hungry.	nc
+Emma is hungry.	Emma or James is hungry.	e
+Emma is hungry.	Emma and James are hungry.	nc
+James is hungry.	Emma or James is hungry.	e
+James is hungry.	Emma and James are hungry.	nc
+Emma is hungry.	Emma or Olivia is hungry.	e
+Emma is hungry.	Emma and Olivia are hungry.	nc
+Olivia is hungry.	Emma or Olivia is hungry.	e
+Olivia is hungry.	Emma and Olivia are hungry.	nc
+Emma is hungry.	Emma or Liam is hungry.	e
+Emma is hungry.	Emma and Liam are hungry.	nc
+Liam is hungry.	Emma or Liam is hungry.	e
+Liam is hungry.	Emma and Liam are hungry.	nc
+Emma is hungry.	Emma or Noah is hungry.	e
+Emma is hungry.	Emma and Noah are hungry.	nc
+Noah is hungry.	Emma or Noah is hungry.	e
+Noah is hungry.	Emma and Noah are hungry.	nc
+Emma is hungry.	Emma or Ava is hungry.	e
+Emma is hungry.	Emma and Ava are hungry.	nc
+Ava is hungry.	Emma or Ava is hungry.	e
+Ava is hungry.	Emma and Ava are hungry.	nc
+Emma is hungry.	Emma or Isabella is hungry.	e
+Emma is hungry.	Emma and Isabella are hungry.	nc
+Isabella is hungry.	Emma or Isabella is hungry.	e
+Isabella is hungry.	Emma and Isabella are hungry.	nc
+Emma is hungry.	Emma or Sophia is hungry.	e
+Emma is hungry.	Emma and Sophia are hungry.	nc
+Sophia is hungry.	Emma or Sophia is hungry.	e
+Sophia is hungry.	Emma and Sophia are hungry.	nc
+Emma is hungry.	Emma or Mia is hungry.	e
+Emma is hungry.	Emma and Mia are hungry.	nc
+Mia is hungry.	Emma or Mia is hungry.	e
+Mia is hungry.	Emma and Mia are hungry.	nc
+Emma is hungry.	Emma or Charlotte is hungry.	e
+Emma is hungry.	Emma and Charlotte are hungry.	nc
+Charlotte is hungry.	Emma or Charlotte is hungry.	e
+Charlotte is hungry.	Emma and Charlotte are hungry.	nc
+Noah is hungry.	Noah or James is hungry.	e
+Noah is hungry.	Noah and James are hungry.	nc
+James is hungry.	Noah or James is hungry.	e
+James is hungry.	Noah and James are hungry.	nc
+Noah is hungry.	Noah or Olivia is hungry.	e
+Noah is hungry.	Noah and Olivia are hungry.	nc
+Olivia is hungry.	Noah or Olivia is hungry.	e
+Olivia is hungry.	Noah and Olivia are hungry.	nc
+Noah is hungry.	Noah or Liam is hungry.	e
+Noah is hungry.	Noah and Liam are hungry.	nc
+Liam is hungry.	Noah or Liam is hungry.	e
+Liam is hungry.	Noah and Liam are hungry.	nc
+Noah is hungry.	Noah or Emma is hungry.	e
+Noah is hungry.	Noah and Emma are hungry.	nc
+Emma is hungry.	Noah or Emma is hungry.	e
+Emma is hungry.	Noah and Emma are hungry.	nc
+Noah is hungry.	Noah or Ava is hungry.	e
+Noah is hungry.	Noah and Ava are hungry.	nc
+Ava is hungry.	Noah or Ava is hungry.	e
+Ava is hungry.	Noah and Ava are hungry.	nc
+Noah is hungry.	Noah or Isabella is hungry.	e
+Noah is hungry.	Noah and Isabella are hungry.	nc
+Isabella is hungry.	Noah or Isabella is hungry.	e
+Isabella is hungry.	Noah and Isabella are hungry.	nc
+Noah is hungry.	Noah or Sophia is hungry.	e
+Noah is hungry.	Noah and Sophia are hungry.	nc
+Sophia is hungry.	Noah or Sophia is hungry.	e
+Sophia is hungry.	Noah and Sophia are hungry.	nc
+Noah is hungry.	Noah or Mia is hungry.	e
+Noah is hungry.	Noah and Mia are hungry.	nc
+Mia is hungry.	Noah or Mia is hungry.	e
+Mia is hungry.	Noah and Mia are hungry.	nc
+Noah is hungry.	Noah or Charlotte is hungry.	e
+Noah is hungry.	Noah and Charlotte are hungry.	nc
+Charlotte is hungry.	Noah or Charlotte is hungry.	e
+Charlotte is hungry.	Noah and Charlotte are hungry.	nc
+Ava is hungry.	Ava or James is hungry.	e
+Ava is hungry.	Ava and James are hungry.	nc
+James is hungry.	Ava or James is hungry.	e
+James is hungry.	Ava and James are hungry.	nc
+Ava is hungry.	Ava or Olivia is hungry.	e
+Ava is hungry.	Ava and Olivia are hungry.	nc
+Olivia is hungry.	Ava or Olivia is hungry.	e
+Olivia is hungry.	Ava and Olivia are hungry.	nc
+Ava is hungry.	Ava or Liam is hungry.	e
+Ava is hungry.	Ava and Liam are hungry.	nc
+Liam is hungry.	Ava or Liam is hungry.	e
+Liam is hungry.	Ava and Liam are hungry.	nc
+Ava is hungry.	Ava or Emma is hungry.	e
+Ava is hungry.	Ava and Emma are hungry.	nc
+Emma is hungry.	Ava or Emma is hungry.	e
+Emma is hungry.	Ava and Emma are hungry.	nc
+Ava is hungry.	Ava or Noah is hungry.	e
+Ava is hungry.	Ava and Noah are hungry.	nc
+Noah is hungry.	Ava or Noah is hungry.	e
+Noah is hungry.	Ava and Noah are hungry.	nc
+Ava is hungry.	Ava or Isabella is hungry.	e
+Ava is hungry.	Ava and Isabella are hungry.	nc
+Isabella is hungry.	Ava or Isabella is hungry.	e
+Isabella is hungry.	Ava and Isabella are hungry.	nc
+Ava is hungry.	Ava or Sophia is hungry.	e
+Ava is hungry.	Ava and Sophia are hungry.	nc
+Sophia is hungry.	Ava or Sophia is hungry.	e
+Sophia is hungry.	Ava and Sophia are hungry.	nc
+Ava is hungry.	Ava or Mia is hungry.	e
+Ava is hungry.	Ava and Mia are hungry.	nc
+Mia is hungry.	Ava or Mia is hungry.	e
+Mia is hungry.	Ava and Mia are hungry.	nc
+Ava is hungry.	Ava or Charlotte is hungry.	e
+Ava is hungry.	Ava and Charlotte are hungry.	nc
+Charlotte is hungry.	Ava or Charlotte is hungry.	e
+Charlotte is hungry.	Ava and Charlotte are hungry.	nc
+Isabella is hungry.	Isabella or James is hungry.	e
+Isabella is hungry.	Isabella and James are hungry.	nc
+James is hungry.	Isabella or James is hungry.	e
+James is hungry.	Isabella and James are hungry.	nc
+Isabella is hungry.	Isabella or Olivia is hungry.	e
+Isabella is hungry.	Isabella and Olivia are hungry.	nc
+Olivia is hungry.	Isabella or Olivia is hungry.	e
+Olivia is hungry.	Isabella and Olivia are hungry.	nc
+Isabella is hungry.	Isabella or Liam is hungry.	e
+Isabella is hungry.	Isabella and Liam are hungry.	nc
+Liam is hungry.	Isabella or Liam is hungry.	e
+Liam is hungry.	Isabella and Liam are hungry.	nc
+Isabella is hungry.	Isabella or Emma is hungry.	e
+Isabella is hungry.	Isabella and Emma are hungry.	nc
+Emma is hungry.	Isabella or Emma is hungry.	e
+Emma is hungry.	Isabella and Emma are hungry.	nc
+Isabella is hungry.	Isabella or Noah is hungry.	e
+Isabella is hungry.	Isabella and Noah are hungry.	nc
+Noah is hungry.	Isabella or Noah is hungry.	e
+Noah is hungry.	Isabella and Noah are hungry.	nc
+Isabella is hungry.	Isabella or Ava is hungry.	e
+Isabella is hungry.	Isabella and Ava are hungry.	nc
+Ava is hungry.	Isabella or Ava is hungry.	e
+Ava is hungry.	Isabella and Ava are hungry.	nc
+Isabella is hungry.	Isabella or Sophia is hungry.	e
+Isabella is hungry.	Isabella and Sophia are hungry.	nc
+Sophia is hungry.	Isabella or Sophia is hungry.	e
+Sophia is hungry.	Isabella and Sophia are hungry.	nc
+Isabella is hungry.	Isabella or Mia is hungry.	e
+Isabella is hungry.	Isabella and Mia are hungry.	nc
+Mia is hungry.	Isabella or Mia is hungry.	e
+Mia is hungry.	Isabella and Mia are hungry.	nc
+Isabella is hungry.	Isabella or Charlotte is hungry.	e
+Isabella is hungry.	Isabella and Charlotte are hungry.	nc
+Charlotte is hungry.	Isabella or Charlotte is hungry.	e
+Charlotte is hungry.	Isabella and Charlotte are hungry.	nc
+Sophia is hungry.	Sophia or James is hungry.	e
+Sophia is hungry.	Sophia and James are hungry.	nc
+James is hungry.	Sophia or James is hungry.	e
+James is hungry.	Sophia and James are hungry.	nc
+Sophia is hungry.	Sophia or Olivia is hungry.	e
+Sophia is hungry.	Sophia and Olivia are hungry.	nc
+Olivia is hungry.	Sophia or Olivia is hungry.	e
+Olivia is hungry.	Sophia and Olivia are hungry.	nc
+Sophia is hungry.	Sophia or Liam is hungry.	e
+Sophia is hungry.	Sophia and Liam are hungry.	nc
+Liam is hungry.	Sophia or Liam is hungry.	e
+Liam is hungry.	Sophia and Liam are hungry.	nc
+Sophia is hungry.	Sophia or Emma is hungry.	e
+Sophia is hungry.	Sophia and Emma are hungry.	nc
+Emma is hungry.	Sophia or Emma is hungry.	e
+Emma is hungry.	Sophia and Emma are hungry.	nc
+Sophia is hungry.	Sophia or Noah is hungry.	e
+Sophia is hungry.	Sophia and Noah are hungry.	nc
+Noah is hungry.	Sophia or Noah is hungry.	e
+Noah is hungry.	Sophia and Noah are hungry.	nc
+Sophia is hungry.	Sophia or Ava is hungry.	e
+Sophia is hungry.	Sophia and Ava are hungry.	nc
+Ava is hungry.	Sophia or Ava is hungry.	e
+Ava is hungry.	Sophia and Ava are hungry.	nc
+Sophia is hungry.	Sophia or Isabella is hungry.	e
+Sophia is hungry.	Sophia and Isabella are hungry.	nc
+Isabella is hungry.	Sophia or Isabella is hungry.	e
+Isabella is hungry.	Sophia and Isabella are hungry.	nc
+Sophia is hungry.	Sophia or Mia is hungry.	e
+Sophia is hungry.	Sophia and Mia are hungry.	nc
+Mia is hungry.	Sophia or Mia is hungry.	e
+Mia is hungry.	Sophia and Mia are hungry.	nc
+Sophia is hungry.	Sophia or Charlotte is hungry.	e
+Sophia is hungry.	Sophia and Charlotte are hungry.	nc
+Charlotte is hungry.	Sophia or Charlotte is hungry.	e
+Charlotte is hungry.	Sophia and Charlotte are hungry.	nc
+Mia is hungry.	Mia or James is hungry.	e
+Mia is hungry.	Mia and James are hungry.	nc
+James is hungry.	Mia or James is hungry.	e
+James is hungry.	Mia and James are hungry.	nc
+Mia is hungry.	Mia or Olivia is hungry.	e
+Mia is hungry.	Mia and Olivia are hungry.	nc
+Olivia is hungry.	Mia or Olivia is hungry.	e
+Olivia is hungry.	Mia and Olivia are hungry.	nc
+Mia is hungry.	Mia or Liam is hungry.	e
+Mia is hungry.	Mia and Liam are hungry.	nc
+Liam is hungry.	Mia or Liam is hungry.	e
+Liam is hungry.	Mia and Liam are hungry.	nc
+Mia is hungry.	Mia or Emma is hungry.	e
+Mia is hungry.	Mia and Emma are hungry.	nc
+Emma is hungry.	Mia or Emma is hungry.	e
+Emma is hungry.	Mia and Emma are hungry.	nc
+Mia is hungry.	Mia or Noah is hungry.	e
+Mia is hungry.	Mia and Noah are hungry.	nc
+Noah is hungry.	Mia or Noah is hungry.	e
+Noah is hungry.	Mia and Noah are hungry.	nc
+Mia is hungry.	Mia or Ava is hungry.	e
+Mia is hungry.	Mia and Ava are hungry.	nc
+Ava is hungry.	Mia or Ava is hungry.	e
+Ava is hungry.	Mia and Ava are hungry.	nc
+Mia is hungry.	Mia or Isabella is hungry.	e
+Mia is hungry.	Mia and Isabella are hungry.	nc
+Isabella is hungry.	Mia or Isabella is hungry.	e
+Isabella is hungry.	Mia and Isabella are hungry.	nc
+Mia is hungry.	Mia or Sophia is hungry.	e
+Mia is hungry.	Mia and Sophia are hungry.	nc
+Sophia is hungry.	Mia or Sophia is hungry.	e
+Sophia is hungry.	Mia and Sophia are hungry.	nc
+Mia is hungry.	Mia or Charlotte is hungry.	e
+Mia is hungry.	Mia and Charlotte are hungry.	nc
+Charlotte is hungry.	Mia or Charlotte is hungry.	e
+Charlotte is hungry.	Mia and Charlotte are hungry.	nc
+Charlotte is hungry.	Charlotte or James is hungry.	e
+Charlotte is hungry.	Charlotte and James are hungry.	nc
+James is hungry.	Charlotte or James is hungry.	e
+James is hungry.	Charlotte and James are hungry.	nc
+Charlotte is hungry.	Charlotte or Olivia is hungry.	e
+Charlotte is hungry.	Charlotte and Olivia are hungry.	nc
+Olivia is hungry.	Charlotte or Olivia is hungry.	e
+Olivia is hungry.	Charlotte and Olivia are hungry.	nc
+Charlotte is hungry.	Charlotte or Liam is hungry.	e
+Charlotte is hungry.	Charlotte and Liam are hungry.	nc
+Liam is hungry.	Charlotte or Liam is hungry.	e
+Liam is hungry.	Charlotte and Liam are hungry.	nc
+Charlotte is hungry.	Charlotte or Emma is hungry.	e
+Charlotte is hungry.	Charlotte and Emma are hungry.	nc
+Emma is hungry.	Charlotte or Emma is hungry.	e
+Emma is hungry.	Charlotte and Emma are hungry.	nc
+Charlotte is hungry.	Charlotte or Noah is hungry.	e
+Charlotte is hungry.	Charlotte and Noah are hungry.	nc
+Noah is hungry.	Charlotte or Noah is hungry.	e
+Noah is hungry.	Charlotte and Noah are hungry.	nc
+Charlotte is hungry.	Charlotte or Ava is hungry.	e
+Charlotte is hungry.	Charlotte and Ava are hungry.	nc
+Ava is hungry.	Charlotte or Ava is hungry.	e
+Ava is hungry.	Charlotte and Ava are hungry.	nc
+Charlotte is hungry.	Charlotte or Isabella is hungry.	e
+Charlotte is hungry.	Charlotte and Isabella are hungry.	nc
+Isabella is hungry.	Charlotte or Isabella is hungry.	e
+Isabella is hungry.	Charlotte and Isabella are hungry.	nc
+Charlotte is hungry.	Charlotte or Sophia is hungry.	e
+Charlotte is hungry.	Charlotte and Sophia are hungry.	nc
+Sophia is hungry.	Charlotte or Sophia is hungry.	e
+Sophia is hungry.	Charlotte and Sophia are hungry.	nc
+Charlotte is hungry.	Charlotte or Mia is hungry.	e
+Charlotte is hungry.	Charlotte and Mia are hungry.	nc
+Mia is hungry.	Charlotte or Mia is hungry.	e
+Mia is hungry.	Charlotte and Mia are hungry.	nc

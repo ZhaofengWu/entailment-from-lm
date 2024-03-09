@@ -1,0 +1,2160 @@
+Olivia was seen by James.	Olivia was seen.	e
+Olivia was seen by James.	James was seen.	nc
+James saw Olivia.	Olivia was seen.	e
+James saw Olivia.	James was seen.	nc
+Liam was seen by James.	Liam was seen.	e
+Liam was seen by James.	James was seen.	nc
+James saw Liam.	Liam was seen.	e
+James saw Liam.	James was seen.	nc
+Emma was seen by James.	Emma was seen.	e
+Emma was seen by James.	James was seen.	nc
+James saw Emma.	Emma was seen.	e
+James saw Emma.	James was seen.	nc
+Noah was seen by James.	Noah was seen.	e
+Noah was seen by James.	James was seen.	nc
+James saw Noah.	Noah was seen.	e
+James saw Noah.	James was seen.	nc
+Ava was seen by James.	Ava was seen.	e
+Ava was seen by James.	James was seen.	nc
+James saw Ava.	Ava was seen.	e
+James saw Ava.	James was seen.	nc
+Isabella was seen by James.	Isabella was seen.	e
+Isabella was seen by James.	James was seen.	nc
+James saw Isabella.	Isabella was seen.	e
+James saw Isabella.	James was seen.	nc
+Sophia was seen by James.	Sophia was seen.	e
+Sophia was seen by James.	James was seen.	nc
+James saw Sophia.	Sophia was seen.	e
+James saw Sophia.	James was seen.	nc
+Mia was seen by James.	Mia was seen.	e
+Mia was seen by James.	James was seen.	nc
+James saw Mia.	Mia was seen.	e
+James saw Mia.	James was seen.	nc
+Charlotte was seen by James.	Charlotte was seen.	e
+Charlotte was seen by James.	James was seen.	nc
+James saw Charlotte.	Charlotte was seen.	e
+James saw Charlotte.	James was seen.	nc
+James was seen by Olivia.	James was seen.	e
+James was seen by Olivia.	Olivia was seen.	nc
+Olivia saw James.	James was seen.	e
+Olivia saw James.	Olivia was seen.	nc
+Liam was seen by Olivia.	Liam was seen.	e
+Liam was seen by Olivia.	Olivia was seen.	nc
+Olivia saw Liam.	Liam was seen.	e
+Olivia saw Liam.	Olivia was seen.	nc
+Emma was seen by Olivia.	Emma was seen.	e
+Emma was seen by Olivia.	Olivia was seen.	nc
+Olivia saw Emma.	Emma was seen.	e
+Olivia saw Emma.	Olivia was seen.	nc
+Noah was seen by Olivia.	Noah was seen.	e
+Noah was seen by Olivia.	Olivia was seen.	nc
+Olivia saw Noah.	Noah was seen.	e
+Olivia saw Noah.	Olivia was seen.	nc
+Ava was seen by Olivia.	Ava was seen.	e
+Ava was seen by Olivia.	Olivia was seen.	nc
+Olivia saw Ava.	Ava was seen.	e
+Olivia saw Ava.	Olivia was seen.	nc
+Isabella was seen by Olivia.	Isabella was seen.	e
+Isabella was seen by Olivia.	Olivia was seen.	nc
+Olivia saw Isabella.	Isabella was seen.	e
+Olivia saw Isabella.	Olivia was seen.	nc
+Sophia was seen by Olivia.	Sophia was seen.	e
+Sophia was seen by Olivia.	Olivia was seen.	nc
+Olivia saw Sophia.	Sophia was seen.	e
+Olivia saw Sophia.	Olivia was seen.	nc
+Mia was seen by Olivia.	Mia was seen.	e
+Mia was seen by Olivia.	Olivia was seen.	nc
+Olivia saw Mia.	Mia was seen.	e
+Olivia saw Mia.	Olivia was seen.	nc
+Charlotte was seen by Olivia.	Charlotte was seen.	e
+Charlotte was seen by Olivia.	Olivia was seen.	nc
+Olivia saw Charlotte.	Charlotte was seen.	e
+Olivia saw Charlotte.	Olivia was seen.	nc
+James was seen by Liam.	James was seen.	e
+James was seen by Liam.	Liam was seen.	nc
+Liam saw James.	James was seen.	e
+Liam saw James.	Liam was seen.	nc
+Olivia was seen by Liam.	Olivia was seen.	e
+Olivia was seen by Liam.	Liam was seen.	nc
+Liam saw Olivia.	Olivia was seen.	e
+Liam saw Olivia.	Liam was seen.	nc
+Emma was seen by Liam.	Emma was seen.	e
+Emma was seen by Liam.	Liam was seen.	nc
+Liam saw Emma.	Emma was seen.	e
+Liam saw Emma.	Liam was seen.	nc
+Noah was seen by Liam.	Noah was seen.	e
+Noah was seen by Liam.	Liam was seen.	nc
+Liam saw Noah.	Noah was seen.	e
+Liam saw Noah.	Liam was seen.	nc
+Ava was seen by Liam.	Ava was seen.	e
+Ava was seen by Liam.	Liam was seen.	nc
+Liam saw Ava.	Ava was seen.	e
+Liam saw Ava.	Liam was seen.	nc
+Isabella was seen by Liam.	Isabella was seen.	e
+Isabella was seen by Liam.	Liam was seen.	nc
+Liam saw Isabella.	Isabella was seen.	e
+Liam saw Isabella.	Liam was seen.	nc
+Sophia was seen by Liam.	Sophia was seen.	e
+Sophia was seen by Liam.	Liam was seen.	nc
+Liam saw Sophia.	Sophia was seen.	e
+Liam saw Sophia.	Liam was seen.	nc
+Mia was seen by Liam.	Mia was seen.	e
+Mia was seen by Liam.	Liam was seen.	nc
+Liam saw Mia.	Mia was seen.	e
+Liam saw Mia.	Liam was seen.	nc
+Charlotte was seen by Liam.	Charlotte was seen.	e
+Charlotte was seen by Liam.	Liam was seen.	nc
+Liam saw Charlotte.	Charlotte was seen.	e
+Liam saw Charlotte.	Liam was seen.	nc
+James was seen by Emma.	James was seen.	e
+James was seen by Emma.	Emma was seen.	nc
+Emma saw James.	James was seen.	e
+Emma saw James.	Emma was seen.	nc
+Olivia was seen by Emma.	Olivia was seen.	e
+Olivia was seen by Emma.	Emma was seen.	nc
+Emma saw Olivia.	Olivia was seen.	e
+Emma saw Olivia.	Emma was seen.	nc
+Liam was seen by Emma.	Liam was seen.	e
+Liam was seen by Emma.	Emma was seen.	nc
+Emma saw Liam.	Liam was seen.	e
+Emma saw Liam.	Emma was seen.	nc
+Noah was seen by Emma.	Noah was seen.	e
+Noah was seen by Emma.	Emma was seen.	nc
+Emma saw Noah.	Noah was seen.	e
+Emma saw Noah.	Emma was seen.	nc
+Ava was seen by Emma.	Ava was seen.	e
+Ava was seen by Emma.	Emma was seen.	nc
+Emma saw Ava.	Ava was seen.	e
+Emma saw Ava.	Emma was seen.	nc
+Isabella was seen by Emma.	Isabella was seen.	e
+Isabella was seen by Emma.	Emma was seen.	nc
+Emma saw Isabella.	Isabella was seen.	e
+Emma saw Isabella.	Emma was seen.	nc
+Sophia was seen by Emma.	Sophia was seen.	e
+Sophia was seen by Emma.	Emma was seen.	nc
+Emma saw Sophia.	Sophia was seen.	e
+Emma saw Sophia.	Emma was seen.	nc
+Mia was seen by Emma.	Mia was seen.	e
+Mia was seen by Emma.	Emma was seen.	nc
+Emma saw Mia.	Mia was seen.	e
+Emma saw Mia.	Emma was seen.	nc
+Charlotte was seen by Emma.	Charlotte was seen.	e
+Charlotte was seen by Emma.	Emma was seen.	nc
+Emma saw Charlotte.	Charlotte was seen.	e
+Emma saw Charlotte.	Emma was seen.	nc
+James was seen by Noah.	James was seen.	e
+James was seen by Noah.	Noah was seen.	nc
+Noah saw James.	James was seen.	e
+Noah saw James.	Noah was seen.	nc
+Olivia was seen by Noah.	Olivia was seen.	e
+Olivia was seen by Noah.	Noah was seen.	nc
+Noah saw Olivia.	Olivia was seen.	e
+Noah saw Olivia.	Noah was seen.	nc
+Liam was seen by Noah.	Liam was seen.	e
+Liam was seen by Noah.	Noah was seen.	nc
+Noah saw Liam.	Liam was seen.	e
+Noah saw Liam.	Noah was seen.	nc
+Emma was seen by Noah.	Emma was seen.	e
+Emma was seen by Noah.	Noah was seen.	nc
+Noah saw Emma.	Emma was seen.	e
+Noah saw Emma.	Noah was seen.	nc
+Ava was seen by Noah.	Ava was seen.	e
+Ava was seen by Noah.	Noah was seen.	nc
+Noah saw Ava.	Ava was seen.	e
+Noah saw Ava.	Noah was seen.	nc
+Isabella was seen by Noah.	Isabella was seen.	e
+Isabella was seen by Noah.	Noah was seen.	nc
+Noah saw Isabella.	Isabella was seen.	e
+Noah saw Isabella.	Noah was seen.	nc
+Sophia was seen by Noah.	Sophia was seen.	e
+Sophia was seen by Noah.	Noah was seen.	nc
+Noah saw Sophia.	Sophia was seen.	e
+Noah saw Sophia.	Noah was seen.	nc
+Mia was seen by Noah.	Mia was seen.	e
+Mia was seen by Noah.	Noah was seen.	nc
+Noah saw Mia.	Mia was seen.	e
+Noah saw Mia.	Noah was seen.	nc
+Charlotte was seen by Noah.	Charlotte was seen.	e
+Charlotte was seen by Noah.	Noah was seen.	nc
+Noah saw Charlotte.	Charlotte was seen.	e
+Noah saw Charlotte.	Noah was seen.	nc
+James was seen by Ava.	James was seen.	e
+James was seen by Ava.	Ava was seen.	nc
+Ava saw James.	James was seen.	e
+Ava saw James.	Ava was seen.	nc
+Olivia was seen by Ava.	Olivia was seen.	e
+Olivia was seen by Ava.	Ava was seen.	nc
+Ava saw Olivia.	Olivia was seen.	e
+Ava saw Olivia.	Ava was seen.	nc
+Liam was seen by Ava.	Liam was seen.	e
+Liam was seen by Ava.	Ava was seen.	nc
+Ava saw Liam.	Liam was seen.	e
+Ava saw Liam.	Ava was seen.	nc
+Emma was seen by Ava.	Emma was seen.	e
+Emma was seen by Ava.	Ava was seen.	nc
+Ava saw Emma.	Emma was seen.	e
+Ava saw Emma.	Ava was seen.	nc
+Noah was seen by Ava.	Noah was seen.	e
+Noah was seen by Ava.	Ava was seen.	nc
+Ava saw Noah.	Noah was seen.	e
+Ava saw Noah.	Ava was seen.	nc
+Isabella was seen by Ava.	Isabella was seen.	e
+Isabella was seen by Ava.	Ava was seen.	nc
+Ava saw Isabella.	Isabella was seen.	e
+Ava saw Isabella.	Ava was seen.	nc
+Sophia was seen by Ava.	Sophia was seen.	e
+Sophia was seen by Ava.	Ava was seen.	nc
+Ava saw Sophia.	Sophia was seen.	e
+Ava saw Sophia.	Ava was seen.	nc
+Mia was seen by Ava.	Mia was seen.	e
+Mia was seen by Ava.	Ava was seen.	nc
+Ava saw Mia.	Mia was seen.	e
+Ava saw Mia.	Ava was seen.	nc
+Charlotte was seen by Ava.	Charlotte was seen.	e
+Charlotte was seen by Ava.	Ava was seen.	nc
+Ava saw Charlotte.	Charlotte was seen.	e
+Ava saw Charlotte.	Ava was seen.	nc
+James was seen by Isabella.	James was seen.	e
+James was seen by Isabella.	Isabella was seen.	nc
+Isabella saw James.	James was seen.	e
+Isabella saw James.	Isabella was seen.	nc
+Olivia was seen by Isabella.	Olivia was seen.	e
+Olivia was seen by Isabella.	Isabella was seen.	nc
+Isabella saw Olivia.	Olivia was seen.	e
+Isabella saw Olivia.	Isabella was seen.	nc
+Liam was seen by Isabella.	Liam was seen.	e
+Liam was seen by Isabella.	Isabella was seen.	nc
+Isabella saw Liam.	Liam was seen.	e
+Isabella saw Liam.	Isabella was seen.	nc
+Emma was seen by Isabella.	Emma was seen.	e
+Emma was seen by Isabella.	Isabella was seen.	nc
+Isabella saw Emma.	Emma was seen.	e
+Isabella saw Emma.	Isabella was seen.	nc
+Noah was seen by Isabella.	Noah was seen.	e
+Noah was seen by Isabella.	Isabella was seen.	nc
+Isabella saw Noah.	Noah was seen.	e
+Isabella saw Noah.	Isabella was seen.	nc
+Ava was seen by Isabella.	Ava was seen.	e
+Ava was seen by Isabella.	Isabella was seen.	nc
+Isabella saw Ava.	Ava was seen.	e
+Isabella saw Ava.	Isabella was seen.	nc
+Sophia was seen by Isabella.	Sophia was seen.	e
+Sophia was seen by Isabella.	Isabella was seen.	nc
+Isabella saw Sophia.	Sophia was seen.	e
+Isabella saw Sophia.	Isabella was seen.	nc
+Mia was seen by Isabella.	Mia was seen.	e
+Mia was seen by Isabella.	Isabella was seen.	nc
+Isabella saw Mia.	Mia was seen.	e
+Isabella saw Mia.	Isabella was seen.	nc
+Charlotte was seen by Isabella.	Charlotte was seen.	e
+Charlotte was seen by Isabella.	Isabella was seen.	nc
+Isabella saw Charlotte.	Charlotte was seen.	e
+Isabella saw Charlotte.	Isabella was seen.	nc
+James was seen by Sophia.	James was seen.	e
+James was seen by Sophia.	Sophia was seen.	nc
+Sophia saw James.	James was seen.	e
+Sophia saw James.	Sophia was seen.	nc
+Olivia was seen by Sophia.	Olivia was seen.	e
+Olivia was seen by Sophia.	Sophia was seen.	nc
+Sophia saw Olivia.	Olivia was seen.	e
+Sophia saw Olivia.	Sophia was seen.	nc
+Liam was seen by Sophia.	Liam was seen.	e
+Liam was seen by Sophia.	Sophia was seen.	nc
+Sophia saw Liam.	Liam was seen.	e
+Sophia saw Liam.	Sophia was seen.	nc
+Emma was seen by Sophia.	Emma was seen.	e
+Emma was seen by Sophia.	Sophia was seen.	nc
+Sophia saw Emma.	Emma was seen.	e
+Sophia saw Emma.	Sophia was seen.	nc
+Noah was seen by Sophia.	Noah was seen.	e
+Noah was seen by Sophia.	Sophia was seen.	nc
+Sophia saw Noah.	Noah was seen.	e
+Sophia saw Noah.	Sophia was seen.	nc
+Ava was seen by Sophia.	Ava was seen.	e
+Ava was seen by Sophia.	Sophia was seen.	nc
+Sophia saw Ava.	Ava was seen.	e
+Sophia saw Ava.	Sophia was seen.	nc
+Isabella was seen by Sophia.	Isabella was seen.	e
+Isabella was seen by Sophia.	Sophia was seen.	nc
+Sophia saw Isabella.	Isabella was seen.	e
+Sophia saw Isabella.	Sophia was seen.	nc
+Mia was seen by Sophia.	Mia was seen.	e
+Mia was seen by Sophia.	Sophia was seen.	nc
+Sophia saw Mia.	Mia was seen.	e
+Sophia saw Mia.	Sophia was seen.	nc
+Charlotte was seen by Sophia.	Charlotte was seen.	e
+Charlotte was seen by Sophia.	Sophia was seen.	nc
+Sophia saw Charlotte.	Charlotte was seen.	e
+Sophia saw Charlotte.	Sophia was seen.	nc
+James was seen by Mia.	James was seen.	e
+James was seen by Mia.	Mia was seen.	nc
+Mia saw James.	James was seen.	e
+Mia saw James.	Mia was seen.	nc
+Olivia was seen by Mia.	Olivia was seen.	e
+Olivia was seen by Mia.	Mia was seen.	nc
+Mia saw Olivia.	Olivia was seen.	e
+Mia saw Olivia.	Mia was seen.	nc
+Liam was seen by Mia.	Liam was seen.	e
+Liam was seen by Mia.	Mia was seen.	nc
+Mia saw Liam.	Liam was seen.	e
+Mia saw Liam.	Mia was seen.	nc
+Emma was seen by Mia.	Emma was seen.	e
+Emma was seen by Mia.	Mia was seen.	nc
+Mia saw Emma.	Emma was seen.	e
+Mia saw Emma.	Mia was seen.	nc
+Noah was seen by Mia.	Noah was seen.	e
+Noah was seen by Mia.	Mia was seen.	nc
+Mia saw Noah.	Noah was seen.	e
+Mia saw Noah.	Mia was seen.	nc
+Ava was seen by Mia.	Ava was seen.	e
+Ava was seen by Mia.	Mia was seen.	nc
+Mia saw Ava.	Ava was seen.	e
+Mia saw Ava.	Mia was seen.	nc
+Isabella was seen by Mia.	Isabella was seen.	e
+Isabella was seen by Mia.	Mia was seen.	nc
+Mia saw Isabella.	Isabella was seen.	e
+Mia saw Isabella.	Mia was seen.	nc
+Sophia was seen by Mia.	Sophia was seen.	e
+Sophia was seen by Mia.	Mia was seen.	nc
+Mia saw Sophia.	Sophia was seen.	e
+Mia saw Sophia.	Mia was seen.	nc
+Charlotte was seen by Mia.	Charlotte was seen.	e
+Charlotte was seen by Mia.	Mia was seen.	nc
+Mia saw Charlotte.	Charlotte was seen.	e
+Mia saw Charlotte.	Mia was seen.	nc
+James was seen by Charlotte.	James was seen.	e
+James was seen by Charlotte.	Charlotte was seen.	nc
+Charlotte saw James.	James was seen.	e
+Charlotte saw James.	Charlotte was seen.	nc
+Olivia was seen by Charlotte.	Olivia was seen.	e
+Olivia was seen by Charlotte.	Charlotte was seen.	nc
+Charlotte saw Olivia.	Olivia was seen.	e
+Charlotte saw Olivia.	Charlotte was seen.	nc
+Liam was seen by Charlotte.	Liam was seen.	e
+Liam was seen by Charlotte.	Charlotte was seen.	nc
+Charlotte saw Liam.	Liam was seen.	e
+Charlotte saw Liam.	Charlotte was seen.	nc
+Emma was seen by Charlotte.	Emma was seen.	e
+Emma was seen by Charlotte.	Charlotte was seen.	nc
+Charlotte saw Emma.	Emma was seen.	e
+Charlotte saw Emma.	Charlotte was seen.	nc
+Noah was seen by Charlotte.	Noah was seen.	e
+Noah was seen by Charlotte.	Charlotte was seen.	nc
+Charlotte saw Noah.	Noah was seen.	e
+Charlotte saw Noah.	Charlotte was seen.	nc
+Ava was seen by Charlotte.	Ava was seen.	e
+Ava was seen by Charlotte.	Charlotte was seen.	nc
+Charlotte saw Ava.	Ava was seen.	e
+Charlotte saw Ava.	Charlotte was seen.	nc
+Isabella was seen by Charlotte.	Isabella was seen.	e
+Isabella was seen by Charlotte.	Charlotte was seen.	nc
+Charlotte saw Isabella.	Isabella was seen.	e
+Charlotte saw Isabella.	Charlotte was seen.	nc
+Sophia was seen by Charlotte.	Sophia was seen.	e
+Sophia was seen by Charlotte.	Charlotte was seen.	nc
+Charlotte saw Sophia.	Sophia was seen.	e
+Charlotte saw Sophia.	Charlotte was seen.	nc
+Mia was seen by Charlotte.	Mia was seen.	e
+Mia was seen by Charlotte.	Charlotte was seen.	nc
+Charlotte saw Mia.	Mia was seen.	e
+Charlotte saw Mia.	Charlotte was seen.	nc
+Olivia was taught by James.	Olivia was taught.	e
+Olivia was taught by James.	James was taught.	nc
+James taught Olivia.	Olivia was taught.	e
+James taught Olivia.	James was taught.	nc
+Liam was taught by James.	Liam was taught.	e
+Liam was taught by James.	James was taught.	nc
+James taught Liam.	Liam was taught.	e
+James taught Liam.	James was taught.	nc
+Emma was taught by James.	Emma was taught.	e
+Emma was taught by James.	James was taught.	nc
+James taught Emma.	Emma was taught.	e
+James taught Emma.	James was taught.	nc
+Noah was taught by James.	Noah was taught.	e
+Noah was taught by James.	James was taught.	nc
+James taught Noah.	Noah was taught.	e
+James taught Noah.	James was taught.	nc
+Ava was taught by James.	Ava was taught.	e
+Ava was taught by James.	James was taught.	nc
+James taught Ava.	Ava was taught.	e
+James taught Ava.	James was taught.	nc
+Isabella was taught by James.	Isabella was taught.	e
+Isabella was taught by James.	James was taught.	nc
+James taught Isabella.	Isabella was taught.	e
+James taught Isabella.	James was taught.	nc
+Sophia was taught by James.	Sophia was taught.	e
+Sophia was taught by James.	James was taught.	nc
+James taught Sophia.	Sophia was taught.	e
+James taught Sophia.	James was taught.	nc
+Mia was taught by James.	Mia was taught.	e
+Mia was taught by James.	James was taught.	nc
+James taught Mia.	Mia was taught.	e
+James taught Mia.	James was taught.	nc
+Charlotte was taught by James.	Charlotte was taught.	e
+Charlotte was taught by James.	James was taught.	nc
+James taught Charlotte.	Charlotte was taught.	e
+James taught Charlotte.	James was taught.	nc
+James was taught by Olivia.	James was taught.	e
+James was taught by Olivia.	Olivia was taught.	nc
+Olivia taught James.	James was taught.	e
+Olivia taught James.	Olivia was taught.	nc
+Liam was taught by Olivia.	Liam was taught.	e
+Liam was taught by Olivia.	Olivia was taught.	nc
+Olivia taught Liam.	Liam was taught.	e
+Olivia taught Liam.	Olivia was taught.	nc
+Emma was taught by Olivia.	Emma was taught.	e
+Emma was taught by Olivia.	Olivia was taught.	nc
+Olivia taught Emma.	Emma was taught.	e
+Olivia taught Emma.	Olivia was taught.	nc
+Noah was taught by Olivia.	Noah was taught.	e
+Noah was taught by Olivia.	Olivia was taught.	nc
+Olivia taught Noah.	Noah was taught.	e
+Olivia taught Noah.	Olivia was taught.	nc
+Ava was taught by Olivia.	Ava was taught.	e
+Ava was taught by Olivia.	Olivia was taught.	nc
+Olivia taught Ava.	Ava was taught.	e
+Olivia taught Ava.	Olivia was taught.	nc
+Isabella was taught by Olivia.	Isabella was taught.	e
+Isabella was taught by Olivia.	Olivia was taught.	nc
+Olivia taught Isabella.	Isabella was taught.	e
+Olivia taught Isabella.	Olivia was taught.	nc
+Sophia was taught by Olivia.	Sophia was taught.	e
+Sophia was taught by Olivia.	Olivia was taught.	nc
+Olivia taught Sophia.	Sophia was taught.	e
+Olivia taught Sophia.	Olivia was taught.	nc
+Mia was taught by Olivia.	Mia was taught.	e
+Mia was taught by Olivia.	Olivia was taught.	nc
+Olivia taught Mia.	Mia was taught.	e
+Olivia taught Mia.	Olivia was taught.	nc
+Charlotte was taught by Olivia.	Charlotte was taught.	e
+Charlotte was taught by Olivia.	Olivia was taught.	nc
+Olivia taught Charlotte.	Charlotte was taught.	e
+Olivia taught Charlotte.	Olivia was taught.	nc
+James was taught by Liam.	James was taught.	e
+James was taught by Liam.	Liam was taught.	nc
+Liam taught James.	James was taught.	e
+Liam taught James.	Liam was taught.	nc
+Olivia was taught by Liam.	Olivia was taught.	e
+Olivia was taught by Liam.	Liam was taught.	nc
+Liam taught Olivia.	Olivia was taught.	e
+Liam taught Olivia.	Liam was taught.	nc
+Emma was taught by Liam.	Emma was taught.	e
+Emma was taught by Liam.	Liam was taught.	nc
+Liam taught Emma.	Emma was taught.	e
+Liam taught Emma.	Liam was taught.	nc
+Noah was taught by Liam.	Noah was taught.	e
+Noah was taught by Liam.	Liam was taught.	nc
+Liam taught Noah.	Noah was taught.	e
+Liam taught Noah.	Liam was taught.	nc
+Ava was taught by Liam.	Ava was taught.	e
+Ava was taught by Liam.	Liam was taught.	nc
+Liam taught Ava.	Ava was taught.	e
+Liam taught Ava.	Liam was taught.	nc
+Isabella was taught by Liam.	Isabella was taught.	e
+Isabella was taught by Liam.	Liam was taught.	nc
+Liam taught Isabella.	Isabella was taught.	e
+Liam taught Isabella.	Liam was taught.	nc
+Sophia was taught by Liam.	Sophia was taught.	e
+Sophia was taught by Liam.	Liam was taught.	nc
+Liam taught Sophia.	Sophia was taught.	e
+Liam taught Sophia.	Liam was taught.	nc
+Mia was taught by Liam.	Mia was taught.	e
+Mia was taught by Liam.	Liam was taught.	nc
+Liam taught Mia.	Mia was taught.	e
+Liam taught Mia.	Liam was taught.	nc
+Charlotte was taught by Liam.	Charlotte was taught.	e
+Charlotte was taught by Liam.	Liam was taught.	nc
+Liam taught Charlotte.	Charlotte was taught.	e
+Liam taught Charlotte.	Liam was taught.	nc
+James was taught by Emma.	James was taught.	e
+James was taught by Emma.	Emma was taught.	nc
+Emma taught James.	James was taught.	e
+Emma taught James.	Emma was taught.	nc
+Olivia was taught by Emma.	Olivia was taught.	e
+Olivia was taught by Emma.	Emma was taught.	nc
+Emma taught Olivia.	Olivia was taught.	e
+Emma taught Olivia.	Emma was taught.	nc
+Liam was taught by Emma.	Liam was taught.	e
+Liam was taught by Emma.	Emma was taught.	nc
+Emma taught Liam.	Liam was taught.	e
+Emma taught Liam.	Emma was taught.	nc
+Noah was taught by Emma.	Noah was taught.	e
+Noah was taught by Emma.	Emma was taught.	nc
+Emma taught Noah.	Noah was taught.	e
+Emma taught Noah.	Emma was taught.	nc
+Ava was taught by Emma.	Ava was taught.	e
+Ava was taught by Emma.	Emma was taught.	nc
+Emma taught Ava.	Ava was taught.	e
+Emma taught Ava.	Emma was taught.	nc
+Isabella was taught by Emma.	Isabella was taught.	e
+Isabella was taught by Emma.	Emma was taught.	nc
+Emma taught Isabella.	Isabella was taught.	e
+Emma taught Isabella.	Emma was taught.	nc
+Sophia was taught by Emma.	Sophia was taught.	e
+Sophia was taught by Emma.	Emma was taught.	nc
+Emma taught Sophia.	Sophia was taught.	e
+Emma taught Sophia.	Emma was taught.	nc
+Mia was taught by Emma.	Mia was taught.	e
+Mia was taught by Emma.	Emma was taught.	nc
+Emma taught Mia.	Mia was taught.	e
+Emma taught Mia.	Emma was taught.	nc
+Charlotte was taught by Emma.	Charlotte was taught.	e
+Charlotte was taught by Emma.	Emma was taught.	nc
+Emma taught Charlotte.	Charlotte was taught.	e
+Emma taught Charlotte.	Emma was taught.	nc
+James was taught by Noah.	James was taught.	e
+James was taught by Noah.	Noah was taught.	nc
+Noah taught James.	James was taught.	e
+Noah taught James.	Noah was taught.	nc
+Olivia was taught by Noah.	Olivia was taught.	e
+Olivia was taught by Noah.	Noah was taught.	nc
+Noah taught Olivia.	Olivia was taught.	e
+Noah taught Olivia.	Noah was taught.	nc
+Liam was taught by Noah.	Liam was taught.	e
+Liam was taught by Noah.	Noah was taught.	nc
+Noah taught Liam.	Liam was taught.	e
+Noah taught Liam.	Noah was taught.	nc
+Emma was taught by Noah.	Emma was taught.	e
+Emma was taught by Noah.	Noah was taught.	nc
+Noah taught Emma.	Emma was taught.	e
+Noah taught Emma.	Noah was taught.	nc
+Ava was taught by Noah.	Ava was taught.	e
+Ava was taught by Noah.	Noah was taught.	nc
+Noah taught Ava.	Ava was taught.	e
+Noah taught Ava.	Noah was taught.	nc
+Isabella was taught by Noah.	Isabella was taught.	e
+Isabella was taught by Noah.	Noah was taught.	nc
+Noah taught Isabella.	Isabella was taught.	e
+Noah taught Isabella.	Noah was taught.	nc
+Sophia was taught by Noah.	Sophia was taught.	e
+Sophia was taught by Noah.	Noah was taught.	nc
+Noah taught Sophia.	Sophia was taught.	e
+Noah taught Sophia.	Noah was taught.	nc
+Mia was taught by Noah.	Mia was taught.	e
+Mia was taught by Noah.	Noah was taught.	nc
+Noah taught Mia.	Mia was taught.	e
+Noah taught Mia.	Noah was taught.	nc
+Charlotte was taught by Noah.	Charlotte was taught.	e
+Charlotte was taught by Noah.	Noah was taught.	nc
+Noah taught Charlotte.	Charlotte was taught.	e
+Noah taught Charlotte.	Noah was taught.	nc
+James was taught by Ava.	James was taught.	e
+James was taught by Ava.	Ava was taught.	nc
+Ava taught James.	James was taught.	e
+Ava taught James.	Ava was taught.	nc
+Olivia was taught by Ava.	Olivia was taught.	e
+Olivia was taught by Ava.	Ava was taught.	nc
+Ava taught Olivia.	Olivia was taught.	e
+Ava taught Olivia.	Ava was taught.	nc
+Liam was taught by Ava.	Liam was taught.	e
+Liam was taught by Ava.	Ava was taught.	nc
+Ava taught Liam.	Liam was taught.	e
+Ava taught Liam.	Ava was taught.	nc
+Emma was taught by Ava.	Emma was taught.	e
+Emma was taught by Ava.	Ava was taught.	nc
+Ava taught Emma.	Emma was taught.	e
+Ava taught Emma.	Ava was taught.	nc
+Noah was taught by Ava.	Noah was taught.	e
+Noah was taught by Ava.	Ava was taught.	nc
+Ava taught Noah.	Noah was taught.	e
+Ava taught Noah.	Ava was taught.	nc
+Isabella was taught by Ava.	Isabella was taught.	e
+Isabella was taught by Ava.	Ava was taught.	nc
+Ava taught Isabella.	Isabella was taught.	e
+Ava taught Isabella.	Ava was taught.	nc
+Sophia was taught by Ava.	Sophia was taught.	e
+Sophia was taught by Ava.	Ava was taught.	nc
+Ava taught Sophia.	Sophia was taught.	e
+Ava taught Sophia.	Ava was taught.	nc
+Mia was taught by Ava.	Mia was taught.	e
+Mia was taught by Ava.	Ava was taught.	nc
+Ava taught Mia.	Mia was taught.	e
+Ava taught Mia.	Ava was taught.	nc
+Charlotte was taught by Ava.	Charlotte was taught.	e
+Charlotte was taught by Ava.	Ava was taught.	nc
+Ava taught Charlotte.	Charlotte was taught.	e
+Ava taught Charlotte.	Ava was taught.	nc
+James was taught by Isabella.	James was taught.	e
+James was taught by Isabella.	Isabella was taught.	nc
+Isabella taught James.	James was taught.	e
+Isabella taught James.	Isabella was taught.	nc
+Olivia was taught by Isabella.	Olivia was taught.	e
+Olivia was taught by Isabella.	Isabella was taught.	nc
+Isabella taught Olivia.	Olivia was taught.	e
+Isabella taught Olivia.	Isabella was taught.	nc
+Liam was taught by Isabella.	Liam was taught.	e
+Liam was taught by Isabella.	Isabella was taught.	nc
+Isabella taught Liam.	Liam was taught.	e
+Isabella taught Liam.	Isabella was taught.	nc
+Emma was taught by Isabella.	Emma was taught.	e
+Emma was taught by Isabella.	Isabella was taught.	nc
+Isabella taught Emma.	Emma was taught.	e
+Isabella taught Emma.	Isabella was taught.	nc
+Noah was taught by Isabella.	Noah was taught.	e
+Noah was taught by Isabella.	Isabella was taught.	nc
+Isabella taught Noah.	Noah was taught.	e
+Isabella taught Noah.	Isabella was taught.	nc
+Ava was taught by Isabella.	Ava was taught.	e
+Ava was taught by Isabella.	Isabella was taught.	nc
+Isabella taught Ava.	Ava was taught.	e
+Isabella taught Ava.	Isabella was taught.	nc
+Sophia was taught by Isabella.	Sophia was taught.	e
+Sophia was taught by Isabella.	Isabella was taught.	nc
+Isabella taught Sophia.	Sophia was taught.	e
+Isabella taught Sophia.	Isabella was taught.	nc
+Mia was taught by Isabella.	Mia was taught.	e
+Mia was taught by Isabella.	Isabella was taught.	nc
+Isabella taught Mia.	Mia was taught.	e
+Isabella taught Mia.	Isabella was taught.	nc
+Charlotte was taught by Isabella.	Charlotte was taught.	e
+Charlotte was taught by Isabella.	Isabella was taught.	nc
+Isabella taught Charlotte.	Charlotte was taught.	e
+Isabella taught Charlotte.	Isabella was taught.	nc
+James was taught by Sophia.	James was taught.	e
+James was taught by Sophia.	Sophia was taught.	nc
+Sophia taught James.	James was taught.	e
+Sophia taught James.	Sophia was taught.	nc
+Olivia was taught by Sophia.	Olivia was taught.	e
+Olivia was taught by Sophia.	Sophia was taught.	nc
+Sophia taught Olivia.	Olivia was taught.	e
+Sophia taught Olivia.	Sophia was taught.	nc
+Liam was taught by Sophia.	Liam was taught.	e
+Liam was taught by Sophia.	Sophia was taught.	nc
+Sophia taught Liam.	Liam was taught.	e
+Sophia taught Liam.	Sophia was taught.	nc
+Emma was taught by Sophia.	Emma was taught.	e
+Emma was taught by Sophia.	Sophia was taught.	nc
+Sophia taught Emma.	Emma was taught.	e
+Sophia taught Emma.	Sophia was taught.	nc
+Noah was taught by Sophia.	Noah was taught.	e
+Noah was taught by Sophia.	Sophia was taught.	nc
+Sophia taught Noah.	Noah was taught.	e
+Sophia taught Noah.	Sophia was taught.	nc
+Ava was taught by Sophia.	Ava was taught.	e
+Ava was taught by Sophia.	Sophia was taught.	nc
+Sophia taught Ava.	Ava was taught.	e
+Sophia taught Ava.	Sophia was taught.	nc
+Isabella was taught by Sophia.	Isabella was taught.	e
+Isabella was taught by Sophia.	Sophia was taught.	nc
+Sophia taught Isabella.	Isabella was taught.	e
+Sophia taught Isabella.	Sophia was taught.	nc
+Mia was taught by Sophia.	Mia was taught.	e
+Mia was taught by Sophia.	Sophia was taught.	nc
+Sophia taught Mia.	Mia was taught.	e
+Sophia taught Mia.	Sophia was taught.	nc
+Charlotte was taught by Sophia.	Charlotte was taught.	e
+Charlotte was taught by Sophia.	Sophia was taught.	nc
+Sophia taught Charlotte.	Charlotte was taught.	e
+Sophia taught Charlotte.	Sophia was taught.	nc
+James was taught by Mia.	James was taught.	e
+James was taught by Mia.	Mia was taught.	nc
+Mia taught James.	James was taught.	e
+Mia taught James.	Mia was taught.	nc
+Olivia was taught by Mia.	Olivia was taught.	e
+Olivia was taught by Mia.	Mia was taught.	nc
+Mia taught Olivia.	Olivia was taught.	e
+Mia taught Olivia.	Mia was taught.	nc
+Liam was taught by Mia.	Liam was taught.	e
+Liam was taught by Mia.	Mia was taught.	nc
+Mia taught Liam.	Liam was taught.	e
+Mia taught Liam.	Mia was taught.	nc
+Emma was taught by Mia.	Emma was taught.	e
+Emma was taught by Mia.	Mia was taught.	nc
+Mia taught Emma.	Emma was taught.	e
+Mia taught Emma.	Mia was taught.	nc
+Noah was taught by Mia.	Noah was taught.	e
+Noah was taught by Mia.	Mia was taught.	nc
+Mia taught Noah.	Noah was taught.	e
+Mia taught Noah.	Mia was taught.	nc
+Ava was taught by Mia.	Ava was taught.	e
+Ava was taught by Mia.	Mia was taught.	nc
+Mia taught Ava.	Ava was taught.	e
+Mia taught Ava.	Mia was taught.	nc
+Isabella was taught by Mia.	Isabella was taught.	e
+Isabella was taught by Mia.	Mia was taught.	nc
+Mia taught Isabella.	Isabella was taught.	e
+Mia taught Isabella.	Mia was taught.	nc
+Sophia was taught by Mia.	Sophia was taught.	e
+Sophia was taught by Mia.	Mia was taught.	nc
+Mia taught Sophia.	Sophia was taught.	e
+Mia taught Sophia.	Mia was taught.	nc
+Charlotte was taught by Mia.	Charlotte was taught.	e
+Charlotte was taught by Mia.	Mia was taught.	nc
+Mia taught Charlotte.	Charlotte was taught.	e
+Mia taught Charlotte.	Mia was taught.	nc
+James was taught by Charlotte.	James was taught.	e
+James was taught by Charlotte.	Charlotte was taught.	nc
+Charlotte taught James.	James was taught.	e
+Charlotte taught James.	Charlotte was taught.	nc
+Olivia was taught by Charlotte.	Olivia was taught.	e
+Olivia was taught by Charlotte.	Charlotte was taught.	nc
+Charlotte taught Olivia.	Olivia was taught.	e
+Charlotte taught Olivia.	Charlotte was taught.	nc
+Liam was taught by Charlotte.	Liam was taught.	e
+Liam was taught by Charlotte.	Charlotte was taught.	nc
+Charlotte taught Liam.	Liam was taught.	e
+Charlotte taught Liam.	Charlotte was taught.	nc
+Emma was taught by Charlotte.	Emma was taught.	e
+Emma was taught by Charlotte.	Charlotte was taught.	nc
+Charlotte taught Emma.	Emma was taught.	e
+Charlotte taught Emma.	Charlotte was taught.	nc
+Noah was taught by Charlotte.	Noah was taught.	e
+Noah was taught by Charlotte.	Charlotte was taught.	nc
+Charlotte taught Noah.	Noah was taught.	e
+Charlotte taught Noah.	Charlotte was taught.	nc
+Ava was taught by Charlotte.	Ava was taught.	e
+Ava was taught by Charlotte.	Charlotte was taught.	nc
+Charlotte taught Ava.	Ava was taught.	e
+Charlotte taught Ava.	Charlotte was taught.	nc
+Isabella was taught by Charlotte.	Isabella was taught.	e
+Isabella was taught by Charlotte.	Charlotte was taught.	nc
+Charlotte taught Isabella.	Isabella was taught.	e
+Charlotte taught Isabella.	Charlotte was taught.	nc
+Sophia was taught by Charlotte.	Sophia was taught.	e
+Sophia was taught by Charlotte.	Charlotte was taught.	nc
+Charlotte taught Sophia.	Sophia was taught.	e
+Charlotte taught Sophia.	Charlotte was taught.	nc
+Mia was taught by Charlotte.	Mia was taught.	e
+Mia was taught by Charlotte.	Charlotte was taught.	nc
+Charlotte taught Mia.	Mia was taught.	e
+Charlotte taught Mia.	Charlotte was taught.	nc
+Olivia was copied by James.	Olivia was copied.	e
+Olivia was copied by James.	James was copied.	nc
+James copied Olivia.	Olivia was copied.	e
+James copied Olivia.	James was copied.	nc
+Liam was copied by James.	Liam was copied.	e
+Liam was copied by James.	James was copied.	nc
+James copied Liam.	Liam was copied.	e
+James copied Liam.	James was copied.	nc
+Emma was copied by James.	Emma was copied.	e
+Emma was copied by James.	James was copied.	nc
+James copied Emma.	Emma was copied.	e
+James copied Emma.	James was copied.	nc
+Noah was copied by James.	Noah was copied.	e
+Noah was copied by James.	James was copied.	nc
+James copied Noah.	Noah was copied.	e
+James copied Noah.	James was copied.	nc
+Ava was copied by James.	Ava was copied.	e
+Ava was copied by James.	James was copied.	nc
+James copied Ava.	Ava was copied.	e
+James copied Ava.	James was copied.	nc
+Isabella was copied by James.	Isabella was copied.	e
+Isabella was copied by James.	James was copied.	nc
+James copied Isabella.	Isabella was copied.	e
+James copied Isabella.	James was copied.	nc
+Sophia was copied by James.	Sophia was copied.	e
+Sophia was copied by James.	James was copied.	nc
+James copied Sophia.	Sophia was copied.	e
+James copied Sophia.	James was copied.	nc
+Mia was copied by James.	Mia was copied.	e
+Mia was copied by James.	James was copied.	nc
+James copied Mia.	Mia was copied.	e
+James copied Mia.	James was copied.	nc
+Charlotte was copied by James.	Charlotte was copied.	e
+Charlotte was copied by James.	James was copied.	nc
+James copied Charlotte.	Charlotte was copied.	e
+James copied Charlotte.	James was copied.	nc
+James was copied by Olivia.	James was copied.	e
+James was copied by Olivia.	Olivia was copied.	nc
+Olivia copied James.	James was copied.	e
+Olivia copied James.	Olivia was copied.	nc
+Liam was copied by Olivia.	Liam was copied.	e
+Liam was copied by Olivia.	Olivia was copied.	nc
+Olivia copied Liam.	Liam was copied.	e
+Olivia copied Liam.	Olivia was copied.	nc
+Emma was copied by Olivia.	Emma was copied.	e
+Emma was copied by Olivia.	Olivia was copied.	nc
+Olivia copied Emma.	Emma was copied.	e
+Olivia copied Emma.	Olivia was copied.	nc
+Noah was copied by Olivia.	Noah was copied.	e
+Noah was copied by Olivia.	Olivia was copied.	nc
+Olivia copied Noah.	Noah was copied.	e
+Olivia copied Noah.	Olivia was copied.	nc
+Ava was copied by Olivia.	Ava was copied.	e
+Ava was copied by Olivia.	Olivia was copied.	nc
+Olivia copied Ava.	Ava was copied.	e
+Olivia copied Ava.	Olivia was copied.	nc
+Isabella was copied by Olivia.	Isabella was copied.	e
+Isabella was copied by Olivia.	Olivia was copied.	nc
+Olivia copied Isabella.	Isabella was copied.	e
+Olivia copied Isabella.	Olivia was copied.	nc
+Sophia was copied by Olivia.	Sophia was copied.	e
+Sophia was copied by Olivia.	Olivia was copied.	nc
+Olivia copied Sophia.	Sophia was copied.	e
+Olivia copied Sophia.	Olivia was copied.	nc
+Mia was copied by Olivia.	Mia was copied.	e
+Mia was copied by Olivia.	Olivia was copied.	nc
+Olivia copied Mia.	Mia was copied.	e
+Olivia copied Mia.	Olivia was copied.	nc
+Charlotte was copied by Olivia.	Charlotte was copied.	e
+Charlotte was copied by Olivia.	Olivia was copied.	nc
+Olivia copied Charlotte.	Charlotte was copied.	e
+Olivia copied Charlotte.	Olivia was copied.	nc
+James was copied by Liam.	James was copied.	e
+James was copied by Liam.	Liam was copied.	nc
+Liam copied James.	James was copied.	e
+Liam copied James.	Liam was copied.	nc
+Olivia was copied by Liam.	Olivia was copied.	e
+Olivia was copied by Liam.	Liam was copied.	nc
+Liam copied Olivia.	Olivia was copied.	e
+Liam copied Olivia.	Liam was copied.	nc
+Emma was copied by Liam.	Emma was copied.	e
+Emma was copied by Liam.	Liam was copied.	nc
+Liam copied Emma.	Emma was copied.	e
+Liam copied Emma.	Liam was copied.	nc
+Noah was copied by Liam.	Noah was copied.	e
+Noah was copied by Liam.	Liam was copied.	nc
+Liam copied Noah.	Noah was copied.	e
+Liam copied Noah.	Liam was copied.	nc
+Ava was copied by Liam.	Ava was copied.	e
+Ava was copied by Liam.	Liam was copied.	nc
+Liam copied Ava.	Ava was copied.	e
+Liam copied Ava.	Liam was copied.	nc
+Isabella was copied by Liam.	Isabella was copied.	e
+Isabella was copied by Liam.	Liam was copied.	nc
+Liam copied Isabella.	Isabella was copied.	e
+Liam copied Isabella.	Liam was copied.	nc
+Sophia was copied by Liam.	Sophia was copied.	e
+Sophia was copied by Liam.	Liam was copied.	nc
+Liam copied Sophia.	Sophia was copied.	e
+Liam copied Sophia.	Liam was copied.	nc
+Mia was copied by Liam.	Mia was copied.	e
+Mia was copied by Liam.	Liam was copied.	nc
+Liam copied Mia.	Mia was copied.	e
+Liam copied Mia.	Liam was copied.	nc
+Charlotte was copied by Liam.	Charlotte was copied.	e
+Charlotte was copied by Liam.	Liam was copied.	nc
+Liam copied Charlotte.	Charlotte was copied.	e
+Liam copied Charlotte.	Liam was copied.	nc
+James was copied by Emma.	James was copied.	e
+James was copied by Emma.	Emma was copied.	nc
+Emma copied James.	James was copied.	e
+Emma copied James.	Emma was copied.	nc
+Olivia was copied by Emma.	Olivia was copied.	e
+Olivia was copied by Emma.	Emma was copied.	nc
+Emma copied Olivia.	Olivia was copied.	e
+Emma copied Olivia.	Emma was copied.	nc
+Liam was copied by Emma.	Liam was copied.	e
+Liam was copied by Emma.	Emma was copied.	nc
+Emma copied Liam.	Liam was copied.	e
+Emma copied Liam.	Emma was copied.	nc
+Noah was copied by Emma.	Noah was copied.	e
+Noah was copied by Emma.	Emma was copied.	nc
+Emma copied Noah.	Noah was copied.	e
+Emma copied Noah.	Emma was copied.	nc
+Ava was copied by Emma.	Ava was copied.	e
+Ava was copied by Emma.	Emma was copied.	nc
+Emma copied Ava.	Ava was copied.	e
+Emma copied Ava.	Emma was copied.	nc
+Isabella was copied by Emma.	Isabella was copied.	e
+Isabella was copied by Emma.	Emma was copied.	nc
+Emma copied Isabella.	Isabella was copied.	e
+Emma copied Isabella.	Emma was copied.	nc
+Sophia was copied by Emma.	Sophia was copied.	e
+Sophia was copied by Emma.	Emma was copied.	nc
+Emma copied Sophia.	Sophia was copied.	e
+Emma copied Sophia.	Emma was copied.	nc
+Mia was copied by Emma.	Mia was copied.	e
+Mia was copied by Emma.	Emma was copied.	nc
+Emma copied Mia.	Mia was copied.	e
+Emma copied Mia.	Emma was copied.	nc
+Charlotte was copied by Emma.	Charlotte was copied.	e
+Charlotte was copied by Emma.	Emma was copied.	nc
+Emma copied Charlotte.	Charlotte was copied.	e
+Emma copied Charlotte.	Emma was copied.	nc
+James was copied by Noah.	James was copied.	e
+James was copied by Noah.	Noah was copied.	nc
+Noah copied James.	James was copied.	e
+Noah copied James.	Noah was copied.	nc
+Olivia was copied by Noah.	Olivia was copied.	e
+Olivia was copied by Noah.	Noah was copied.	nc
+Noah copied Olivia.	Olivia was copied.	e
+Noah copied Olivia.	Noah was copied.	nc
+Liam was copied by Noah.	Liam was copied.	e
+Liam was copied by Noah.	Noah was copied.	nc
+Noah copied Liam.	Liam was copied.	e
+Noah copied Liam.	Noah was copied.	nc
+Emma was copied by Noah.	Emma was copied.	e
+Emma was copied by Noah.	Noah was copied.	nc
+Noah copied Emma.	Emma was copied.	e
+Noah copied Emma.	Noah was copied.	nc
+Ava was copied by Noah.	Ava was copied.	e
+Ava was copied by Noah.	Noah was copied.	nc
+Noah copied Ava.	Ava was copied.	e
+Noah copied Ava.	Noah was copied.	nc
+Isabella was copied by Noah.	Isabella was copied.	e
+Isabella was copied by Noah.	Noah was copied.	nc
+Noah copied Isabella.	Isabella was copied.	e
+Noah copied Isabella.	Noah was copied.	nc
+Sophia was copied by Noah.	Sophia was copied.	e
+Sophia was copied by Noah.	Noah was copied.	nc
+Noah copied Sophia.	Sophia was copied.	e
+Noah copied Sophia.	Noah was copied.	nc
+Mia was copied by Noah.	Mia was copied.	e
+Mia was copied by Noah.	Noah was copied.	nc
+Noah copied Mia.	Mia was copied.	e
+Noah copied Mia.	Noah was copied.	nc
+Charlotte was copied by Noah.	Charlotte was copied.	e
+Charlotte was copied by Noah.	Noah was copied.	nc
+Noah copied Charlotte.	Charlotte was copied.	e
+Noah copied Charlotte.	Noah was copied.	nc
+James was copied by Ava.	James was copied.	e
+James was copied by Ava.	Ava was copied.	nc
+Ava copied James.	James was copied.	e
+Ava copied James.	Ava was copied.	nc
+Olivia was copied by Ava.	Olivia was copied.	e
+Olivia was copied by Ava.	Ava was copied.	nc
+Ava copied Olivia.	Olivia was copied.	e
+Ava copied Olivia.	Ava was copied.	nc
+Liam was copied by Ava.	Liam was copied.	e
+Liam was copied by Ava.	Ava was copied.	nc
+Ava copied Liam.	Liam was copied.	e
+Ava copied Liam.	Ava was copied.	nc
+Emma was copied by Ava.	Emma was copied.	e
+Emma was copied by Ava.	Ava was copied.	nc
+Ava copied Emma.	Emma was copied.	e
+Ava copied Emma.	Ava was copied.	nc
+Noah was copied by Ava.	Noah was copied.	e
+Noah was copied by Ava.	Ava was copied.	nc
+Ava copied Noah.	Noah was copied.	e
+Ava copied Noah.	Ava was copied.	nc
+Isabella was copied by Ava.	Isabella was copied.	e
+Isabella was copied by Ava.	Ava was copied.	nc
+Ava copied Isabella.	Isabella was copied.	e
+Ava copied Isabella.	Ava was copied.	nc
+Sophia was copied by Ava.	Sophia was copied.	e
+Sophia was copied by Ava.	Ava was copied.	nc
+Ava copied Sophia.	Sophia was copied.	e
+Ava copied Sophia.	Ava was copied.	nc
+Mia was copied by Ava.	Mia was copied.	e
+Mia was copied by Ava.	Ava was copied.	nc
+Ava copied Mia.	Mia was copied.	e
+Ava copied Mia.	Ava was copied.	nc
+Charlotte was copied by Ava.	Charlotte was copied.	e
+Charlotte was copied by Ava.	Ava was copied.	nc
+Ava copied Charlotte.	Charlotte was copied.	e
+Ava copied Charlotte.	Ava was copied.	nc
+James was copied by Isabella.	James was copied.	e
+James was copied by Isabella.	Isabella was copied.	nc
+Isabella copied James.	James was copied.	e
+Isabella copied James.	Isabella was copied.	nc
+Olivia was copied by Isabella.	Olivia was copied.	e
+Olivia was copied by Isabella.	Isabella was copied.	nc
+Isabella copied Olivia.	Olivia was copied.	e
+Isabella copied Olivia.	Isabella was copied.	nc
+Liam was copied by Isabella.	Liam was copied.	e
+Liam was copied by Isabella.	Isabella was copied.	nc
+Isabella copied Liam.	Liam was copied.	e
+Isabella copied Liam.	Isabella was copied.	nc
+Emma was copied by Isabella.	Emma was copied.	e
+Emma was copied by Isabella.	Isabella was copied.	nc
+Isabella copied Emma.	Emma was copied.	e
+Isabella copied Emma.	Isabella was copied.	nc
+Noah was copied by Isabella.	Noah was copied.	e
+Noah was copied by Isabella.	Isabella was copied.	nc
+Isabella copied Noah.	Noah was copied.	e
+Isabella copied Noah.	Isabella was copied.	nc
+Ava was copied by Isabella.	Ava was copied.	e
+Ava was copied by Isabella.	Isabella was copied.	nc
+Isabella copied Ava.	Ava was copied.	e
+Isabella copied Ava.	Isabella was copied.	nc
+Sophia was copied by Isabella.	Sophia was copied.	e
+Sophia was copied by Isabella.	Isabella was copied.	nc
+Isabella copied Sophia.	Sophia was copied.	e
+Isabella copied Sophia.	Isabella was copied.	nc
+Mia was copied by Isabella.	Mia was copied.	e
+Mia was copied by Isabella.	Isabella was copied.	nc
+Isabella copied Mia.	Mia was copied.	e
+Isabella copied Mia.	Isabella was copied.	nc
+Charlotte was copied by Isabella.	Charlotte was copied.	e
+Charlotte was copied by Isabella.	Isabella was copied.	nc
+Isabella copied Charlotte.	Charlotte was copied.	e
+Isabella copied Charlotte.	Isabella was copied.	nc
+James was copied by Sophia.	James was copied.	e
+James was copied by Sophia.	Sophia was copied.	nc
+Sophia copied James.	James was copied.	e
+Sophia copied James.	Sophia was copied.	nc
+Olivia was copied by Sophia.	Olivia was copied.	e
+Olivia was copied by Sophia.	Sophia was copied.	nc
+Sophia copied Olivia.	Olivia was copied.	e
+Sophia copied Olivia.	Sophia was copied.	nc
+Liam was copied by Sophia.	Liam was copied.	e
+Liam was copied by Sophia.	Sophia was copied.	nc
+Sophia copied Liam.	Liam was copied.	e
+Sophia copied Liam.	Sophia was copied.	nc
+Emma was copied by Sophia.	Emma was copied.	e
+Emma was copied by Sophia.	Sophia was copied.	nc
+Sophia copied Emma.	Emma was copied.	e
+Sophia copied Emma.	Sophia was copied.	nc
+Noah was copied by Sophia.	Noah was copied.	e
+Noah was copied by Sophia.	Sophia was copied.	nc
+Sophia copied Noah.	Noah was copied.	e
+Sophia copied Noah.	Sophia was copied.	nc
+Ava was copied by Sophia.	Ava was copied.	e
+Ava was copied by Sophia.	Sophia was copied.	nc
+Sophia copied Ava.	Ava was copied.	e
+Sophia copied Ava.	Sophia was copied.	nc
+Isabella was copied by Sophia.	Isabella was copied.	e
+Isabella was copied by Sophia.	Sophia was copied.	nc
+Sophia copied Isabella.	Isabella was copied.	e
+Sophia copied Isabella.	Sophia was copied.	nc
+Mia was copied by Sophia.	Mia was copied.	e
+Mia was copied by Sophia.	Sophia was copied.	nc
+Sophia copied Mia.	Mia was copied.	e
+Sophia copied Mia.	Sophia was copied.	nc
+Charlotte was copied by Sophia.	Charlotte was copied.	e
+Charlotte was copied by Sophia.	Sophia was copied.	nc
+Sophia copied Charlotte.	Charlotte was copied.	e
+Sophia copied Charlotte.	Sophia was copied.	nc
+James was copied by Mia.	James was copied.	e
+James was copied by Mia.	Mia was copied.	nc
+Mia copied James.	James was copied.	e
+Mia copied James.	Mia was copied.	nc
+Olivia was copied by Mia.	Olivia was copied.	e
+Olivia was copied by Mia.	Mia was copied.	nc
+Mia copied Olivia.	Olivia was copied.	e
+Mia copied Olivia.	Mia was copied.	nc
+Liam was copied by Mia.	Liam was copied.	e
+Liam was copied by Mia.	Mia was copied.	nc
+Mia copied Liam.	Liam was copied.	e
+Mia copied Liam.	Mia was copied.	nc
+Emma was copied by Mia.	Emma was copied.	e
+Emma was copied by Mia.	Mia was copied.	nc
+Mia copied Emma.	Emma was copied.	e
+Mia copied Emma.	Mia was copied.	nc
+Noah was copied by Mia.	Noah was copied.	e
+Noah was copied by Mia.	Mia was copied.	nc
+Mia copied Noah.	Noah was copied.	e
+Mia copied Noah.	Mia was copied.	nc
+Ava was copied by Mia.	Ava was copied.	e
+Ava was copied by Mia.	Mia was copied.	nc
+Mia copied Ava.	Ava was copied.	e
+Mia copied Ava.	Mia was copied.	nc
+Isabella was copied by Mia.	Isabella was copied.	e
+Isabella was copied by Mia.	Mia was copied.	nc
+Mia copied Isabella.	Isabella was copied.	e
+Mia copied Isabella.	Mia was copied.	nc
+Sophia was copied by Mia.	Sophia was copied.	e
+Sophia was copied by Mia.	Mia was copied.	nc
+Mia copied Sophia.	Sophia was copied.	e
+Mia copied Sophia.	Mia was copied.	nc
+Charlotte was copied by Mia.	Charlotte was copied.	e
+Charlotte was copied by Mia.	Mia was copied.	nc
+Mia copied Charlotte.	Charlotte was copied.	e
+Mia copied Charlotte.	Mia was copied.	nc
+James was copied by Charlotte.	James was copied.	e
+James was copied by Charlotte.	Charlotte was copied.	nc
+Charlotte copied James.	James was copied.	e
+Charlotte copied James.	Charlotte was copied.	nc
+Olivia was copied by Charlotte.	Olivia was copied.	e
+Olivia was copied by Charlotte.	Charlotte was copied.	nc
+Charlotte copied Olivia.	Olivia was copied.	e
+Charlotte copied Olivia.	Charlotte was copied.	nc
+Liam was copied by Charlotte.	Liam was copied.	e
+Liam was copied by Charlotte.	Charlotte was copied.	nc
+Charlotte copied Liam.	Liam was copied.	e
+Charlotte copied Liam.	Charlotte was copied.	nc
+Emma was copied by Charlotte.	Emma was copied.	e
+Emma was copied by Charlotte.	Charlotte was copied.	nc
+Charlotte copied Emma.	Emma was copied.	e
+Charlotte copied Emma.	Charlotte was copied.	nc
+Noah was copied by Charlotte.	Noah was copied.	e
+Noah was copied by Charlotte.	Charlotte was copied.	nc
+Charlotte copied Noah.	Noah was copied.	e
+Charlotte copied Noah.	Charlotte was copied.	nc
+Ava was copied by Charlotte.	Ava was copied.	e
+Ava was copied by Charlotte.	Charlotte was copied.	nc
+Charlotte copied Ava.	Ava was copied.	e
+Charlotte copied Ava.	Charlotte was copied.	nc
+Isabella was copied by Charlotte.	Isabella was copied.	e
+Isabella was copied by Charlotte.	Charlotte was copied.	nc
+Charlotte copied Isabella.	Isabella was copied.	e
+Charlotte copied Isabella.	Charlotte was copied.	nc
+Sophia was copied by Charlotte.	Sophia was copied.	e
+Sophia was copied by Charlotte.	Charlotte was copied.	nc
+Charlotte copied Sophia.	Sophia was copied.	e
+Charlotte copied Sophia.	Charlotte was copied.	nc
+Mia was copied by Charlotte.	Mia was copied.	e
+Mia was copied by Charlotte.	Charlotte was copied.	nc
+Charlotte copied Mia.	Mia was copied.	e
+Charlotte copied Mia.	Charlotte was copied.	nc
+Olivia was followed by James.	Olivia was followed.	e
+Olivia was followed by James.	James was followed.	nc
+James followed Olivia.	Olivia was followed.	e
+James followed Olivia.	James was followed.	nc
+Liam was followed by James.	Liam was followed.	e
+Liam was followed by James.	James was followed.	nc
+James followed Liam.	Liam was followed.	e
+James followed Liam.	James was followed.	nc
+Emma was followed by James.	Emma was followed.	e
+Emma was followed by James.	James was followed.	nc
+James followed Emma.	Emma was followed.	e
+James followed Emma.	James was followed.	nc
+Noah was followed by James.	Noah was followed.	e
+Noah was followed by James.	James was followed.	nc
+James followed Noah.	Noah was followed.	e
+James followed Noah.	James was followed.	nc
+Ava was followed by James.	Ava was followed.	e
+Ava was followed by James.	James was followed.	nc
+James followed Ava.	Ava was followed.	e
+James followed Ava.	James was followed.	nc
+Isabella was followed by James.	Isabella was followed.	e
+Isabella was followed by James.	James was followed.	nc
+James followed Isabella.	Isabella was followed.	e
+James followed Isabella.	James was followed.	nc
+Sophia was followed by James.	Sophia was followed.	e
+Sophia was followed by James.	James was followed.	nc
+James followed Sophia.	Sophia was followed.	e
+James followed Sophia.	James was followed.	nc
+Mia was followed by James.	Mia was followed.	e
+Mia was followed by James.	James was followed.	nc
+James followed Mia.	Mia was followed.	e
+James followed Mia.	James was followed.	nc
+Charlotte was followed by James.	Charlotte was followed.	e
+Charlotte was followed by James.	James was followed.	nc
+James followed Charlotte.	Charlotte was followed.	e
+James followed Charlotte.	James was followed.	nc
+James was followed by Olivia.	James was followed.	e
+James was followed by Olivia.	Olivia was followed.	nc
+Olivia followed James.	James was followed.	e
+Olivia followed James.	Olivia was followed.	nc
+Liam was followed by Olivia.	Liam was followed.	e
+Liam was followed by Olivia.	Olivia was followed.	nc
+Olivia followed Liam.	Liam was followed.	e
+Olivia followed Liam.	Olivia was followed.	nc
+Emma was followed by Olivia.	Emma was followed.	e
+Emma was followed by Olivia.	Olivia was followed.	nc
+Olivia followed Emma.	Emma was followed.	e
+Olivia followed Emma.	Olivia was followed.	nc
+Noah was followed by Olivia.	Noah was followed.	e
+Noah was followed by Olivia.	Olivia was followed.	nc
+Olivia followed Noah.	Noah was followed.	e
+Olivia followed Noah.	Olivia was followed.	nc
+Ava was followed by Olivia.	Ava was followed.	e
+Ava was followed by Olivia.	Olivia was followed.	nc
+Olivia followed Ava.	Ava was followed.	e
+Olivia followed Ava.	Olivia was followed.	nc
+Isabella was followed by Olivia.	Isabella was followed.	e
+Isabella was followed by Olivia.	Olivia was followed.	nc
+Olivia followed Isabella.	Isabella was followed.	e
+Olivia followed Isabella.	Olivia was followed.	nc
+Sophia was followed by Olivia.	Sophia was followed.	e
+Sophia was followed by Olivia.	Olivia was followed.	nc
+Olivia followed Sophia.	Sophia was followed.	e
+Olivia followed Sophia.	Olivia was followed.	nc
+Mia was followed by Olivia.	Mia was followed.	e
+Mia was followed by Olivia.	Olivia was followed.	nc
+Olivia followed Mia.	Mia was followed.	e
+Olivia followed Mia.	Olivia was followed.	nc
+Charlotte was followed by Olivia.	Charlotte was followed.	e
+Charlotte was followed by Olivia.	Olivia was followed.	nc
+Olivia followed Charlotte.	Charlotte was followed.	e
+Olivia followed Charlotte.	Olivia was followed.	nc
+James was followed by Liam.	James was followed.	e
+James was followed by Liam.	Liam was followed.	nc
+Liam followed James.	James was followed.	e
+Liam followed James.	Liam was followed.	nc
+Olivia was followed by Liam.	Olivia was followed.	e
+Olivia was followed by Liam.	Liam was followed.	nc
+Liam followed Olivia.	Olivia was followed.	e
+Liam followed Olivia.	Liam was followed.	nc
+Emma was followed by Liam.	Emma was followed.	e
+Emma was followed by Liam.	Liam was followed.	nc
+Liam followed Emma.	Emma was followed.	e
+Liam followed Emma.	Liam was followed.	nc
+Noah was followed by Liam.	Noah was followed.	e
+Noah was followed by Liam.	Liam was followed.	nc
+Liam followed Noah.	Noah was followed.	e
+Liam followed Noah.	Liam was followed.	nc
+Ava was followed by Liam.	Ava was followed.	e
+Ava was followed by Liam.	Liam was followed.	nc
+Liam followed Ava.	Ava was followed.	e
+Liam followed Ava.	Liam was followed.	nc
+Isabella was followed by Liam.	Isabella was followed.	e
+Isabella was followed by Liam.	Liam was followed.	nc
+Liam followed Isabella.	Isabella was followed.	e
+Liam followed Isabella.	Liam was followed.	nc
+Sophia was followed by Liam.	Sophia was followed.	e
+Sophia was followed by Liam.	Liam was followed.	nc
+Liam followed Sophia.	Sophia was followed.	e
+Liam followed Sophia.	Liam was followed.	nc
+Mia was followed by Liam.	Mia was followed.	e
+Mia was followed by Liam.	Liam was followed.	nc
+Liam followed Mia.	Mia was followed.	e
+Liam followed Mia.	Liam was followed.	nc
+Charlotte was followed by Liam.	Charlotte was followed.	e
+Charlotte was followed by Liam.	Liam was followed.	nc
+Liam followed Charlotte.	Charlotte was followed.	e
+Liam followed Charlotte.	Liam was followed.	nc
+James was followed by Emma.	James was followed.	e
+James was followed by Emma.	Emma was followed.	nc
+Emma followed James.	James was followed.	e
+Emma followed James.	Emma was followed.	nc
+Olivia was followed by Emma.	Olivia was followed.	e
+Olivia was followed by Emma.	Emma was followed.	nc
+Emma followed Olivia.	Olivia was followed.	e
+Emma followed Olivia.	Emma was followed.	nc
+Liam was followed by Emma.	Liam was followed.	e
+Liam was followed by Emma.	Emma was followed.	nc
+Emma followed Liam.	Liam was followed.	e
+Emma followed Liam.	Emma was followed.	nc
+Noah was followed by Emma.	Noah was followed.	e
+Noah was followed by Emma.	Emma was followed.	nc
+Emma followed Noah.	Noah was followed.	e
+Emma followed Noah.	Emma was followed.	nc
+Ava was followed by Emma.	Ava was followed.	e
+Ava was followed by Emma.	Emma was followed.	nc
+Emma followed Ava.	Ava was followed.	e
+Emma followed Ava.	Emma was followed.	nc
+Isabella was followed by Emma.	Isabella was followed.	e
+Isabella was followed by Emma.	Emma was followed.	nc
+Emma followed Isabella.	Isabella was followed.	e
+Emma followed Isabella.	Emma was followed.	nc
+Sophia was followed by Emma.	Sophia was followed.	e
+Sophia was followed by Emma.	Emma was followed.	nc
+Emma followed Sophia.	Sophia was followed.	e
+Emma followed Sophia.	Emma was followed.	nc
+Mia was followed by Emma.	Mia was followed.	e
+Mia was followed by Emma.	Emma was followed.	nc
+Emma followed Mia.	Mia was followed.	e
+Emma followed Mia.	Emma was followed.	nc
+Charlotte was followed by Emma.	Charlotte was followed.	e
+Charlotte was followed by Emma.	Emma was followed.	nc
+Emma followed Charlotte.	Charlotte was followed.	e
+Emma followed Charlotte.	Emma was followed.	nc
+James was followed by Noah.	James was followed.	e
+James was followed by Noah.	Noah was followed.	nc
+Noah followed James.	James was followed.	e
+Noah followed James.	Noah was followed.	nc
+Olivia was followed by Noah.	Olivia was followed.	e
+Olivia was followed by Noah.	Noah was followed.	nc
+Noah followed Olivia.	Olivia was followed.	e
+Noah followed Olivia.	Noah was followed.	nc
+Liam was followed by Noah.	Liam was followed.	e
+Liam was followed by Noah.	Noah was followed.	nc
+Noah followed Liam.	Liam was followed.	e
+Noah followed Liam.	Noah was followed.	nc
+Emma was followed by Noah.	Emma was followed.	e
+Emma was followed by Noah.	Noah was followed.	nc
+Noah followed Emma.	Emma was followed.	e
+Noah followed Emma.	Noah was followed.	nc
+Ava was followed by Noah.	Ava was followed.	e
+Ava was followed by Noah.	Noah was followed.	nc
+Noah followed Ava.	Ava was followed.	e
+Noah followed Ava.	Noah was followed.	nc
+Isabella was followed by Noah.	Isabella was followed.	e
+Isabella was followed by Noah.	Noah was followed.	nc
+Noah followed Isabella.	Isabella was followed.	e
+Noah followed Isabella.	Noah was followed.	nc
+Sophia was followed by Noah.	Sophia was followed.	e
+Sophia was followed by Noah.	Noah was followed.	nc
+Noah followed Sophia.	Sophia was followed.	e
+Noah followed Sophia.	Noah was followed.	nc
+Mia was followed by Noah.	Mia was followed.	e
+Mia was followed by Noah.	Noah was followed.	nc
+Noah followed Mia.	Mia was followed.	e
+Noah followed Mia.	Noah was followed.	nc
+Charlotte was followed by Noah.	Charlotte was followed.	e
+Charlotte was followed by Noah.	Noah was followed.	nc
+Noah followed Charlotte.	Charlotte was followed.	e
+Noah followed Charlotte.	Noah was followed.	nc
+James was followed by Ava.	James was followed.	e
+James was followed by Ava.	Ava was followed.	nc
+Ava followed James.	James was followed.	e
+Ava followed James.	Ava was followed.	nc
+Olivia was followed by Ava.	Olivia was followed.	e
+Olivia was followed by Ava.	Ava was followed.	nc
+Ava followed Olivia.	Olivia was followed.	e
+Ava followed Olivia.	Ava was followed.	nc
+Liam was followed by Ava.	Liam was followed.	e
+Liam was followed by Ava.	Ava was followed.	nc
+Ava followed Liam.	Liam was followed.	e
+Ava followed Liam.	Ava was followed.	nc
+Emma was followed by Ava.	Emma was followed.	e
+Emma was followed by Ava.	Ava was followed.	nc
+Ava followed Emma.	Emma was followed.	e
+Ava followed Emma.	Ava was followed.	nc
+Noah was followed by Ava.	Noah was followed.	e
+Noah was followed by Ava.	Ava was followed.	nc
+Ava followed Noah.	Noah was followed.	e
+Ava followed Noah.	Ava was followed.	nc
+Isabella was followed by Ava.	Isabella was followed.	e
+Isabella was followed by Ava.	Ava was followed.	nc
+Ava followed Isabella.	Isabella was followed.	e
+Ava followed Isabella.	Ava was followed.	nc
+Sophia was followed by Ava.	Sophia was followed.	e
+Sophia was followed by Ava.	Ava was followed.	nc
+Ava followed Sophia.	Sophia was followed.	e
+Ava followed Sophia.	Ava was followed.	nc
+Mia was followed by Ava.	Mia was followed.	e
+Mia was followed by Ava.	Ava was followed.	nc
+Ava followed Mia.	Mia was followed.	e
+Ava followed Mia.	Ava was followed.	nc
+Charlotte was followed by Ava.	Charlotte was followed.	e
+Charlotte was followed by Ava.	Ava was followed.	nc
+Ava followed Charlotte.	Charlotte was followed.	e
+Ava followed Charlotte.	Ava was followed.	nc
+James was followed by Isabella.	James was followed.	e
+James was followed by Isabella.	Isabella was followed.	nc
+Isabella followed James.	James was followed.	e
+Isabella followed James.	Isabella was followed.	nc
+Olivia was followed by Isabella.	Olivia was followed.	e
+Olivia was followed by Isabella.	Isabella was followed.	nc
+Isabella followed Olivia.	Olivia was followed.	e
+Isabella followed Olivia.	Isabella was followed.	nc
+Liam was followed by Isabella.	Liam was followed.	e
+Liam was followed by Isabella.	Isabella was followed.	nc
+Isabella followed Liam.	Liam was followed.	e
+Isabella followed Liam.	Isabella was followed.	nc
+Emma was followed by Isabella.	Emma was followed.	e
+Emma was followed by Isabella.	Isabella was followed.	nc
+Isabella followed Emma.	Emma was followed.	e
+Isabella followed Emma.	Isabella was followed.	nc
+Noah was followed by Isabella.	Noah was followed.	e
+Noah was followed by Isabella.	Isabella was followed.	nc
+Isabella followed Noah.	Noah was followed.	e
+Isabella followed Noah.	Isabella was followed.	nc
+Ava was followed by Isabella.	Ava was followed.	e
+Ava was followed by Isabella.	Isabella was followed.	nc
+Isabella followed Ava.	Ava was followed.	e
+Isabella followed Ava.	Isabella was followed.	nc
+Sophia was followed by Isabella.	Sophia was followed.	e
+Sophia was followed by Isabella.	Isabella was followed.	nc
+Isabella followed Sophia.	Sophia was followed.	e
+Isabella followed Sophia.	Isabella was followed.	nc
+Mia was followed by Isabella.	Mia was followed.	e
+Mia was followed by Isabella.	Isabella was followed.	nc
+Isabella followed Mia.	Mia was followed.	e
+Isabella followed Mia.	Isabella was followed.	nc
+Charlotte was followed by Isabella.	Charlotte was followed.	e
+Charlotte was followed by Isabella.	Isabella was followed.	nc
+Isabella followed Charlotte.	Charlotte was followed.	e
+Isabella followed Charlotte.	Isabella was followed.	nc
+James was followed by Sophia.	James was followed.	e
+James was followed by Sophia.	Sophia was followed.	nc
+Sophia followed James.	James was followed.	e
+Sophia followed James.	Sophia was followed.	nc
+Olivia was followed by Sophia.	Olivia was followed.	e
+Olivia was followed by Sophia.	Sophia was followed.	nc
+Sophia followed Olivia.	Olivia was followed.	e
+Sophia followed Olivia.	Sophia was followed.	nc
+Liam was followed by Sophia.	Liam was followed.	e
+Liam was followed by Sophia.	Sophia was followed.	nc
+Sophia followed Liam.	Liam was followed.	e
+Sophia followed Liam.	Sophia was followed.	nc
+Emma was followed by Sophia.	Emma was followed.	e
+Emma was followed by Sophia.	Sophia was followed.	nc
+Sophia followed Emma.	Emma was followed.	e
+Sophia followed Emma.	Sophia was followed.	nc
+Noah was followed by Sophia.	Noah was followed.	e
+Noah was followed by Sophia.	Sophia was followed.	nc
+Sophia followed Noah.	Noah was followed.	e
+Sophia followed Noah.	Sophia was followed.	nc
+Ava was followed by Sophia.	Ava was followed.	e
+Ava was followed by Sophia.	Sophia was followed.	nc
+Sophia followed Ava.	Ava was followed.	e
+Sophia followed Ava.	Sophia was followed.	nc
+Isabella was followed by Sophia.	Isabella was followed.	e
+Isabella was followed by Sophia.	Sophia was followed.	nc
+Sophia followed Isabella.	Isabella was followed.	e
+Sophia followed Isabella.	Sophia was followed.	nc
+Mia was followed by Sophia.	Mia was followed.	e
+Mia was followed by Sophia.	Sophia was followed.	nc
+Sophia followed Mia.	Mia was followed.	e
+Sophia followed Mia.	Sophia was followed.	nc
+Charlotte was followed by Sophia.	Charlotte was followed.	e
+Charlotte was followed by Sophia.	Sophia was followed.	nc
+Sophia followed Charlotte.	Charlotte was followed.	e
+Sophia followed Charlotte.	Sophia was followed.	nc
+James was followed by Mia.	James was followed.	e
+James was followed by Mia.	Mia was followed.	nc
+Mia followed James.	James was followed.	e
+Mia followed James.	Mia was followed.	nc
+Olivia was followed by Mia.	Olivia was followed.	e
+Olivia was followed by Mia.	Mia was followed.	nc
+Mia followed Olivia.	Olivia was followed.	e
+Mia followed Olivia.	Mia was followed.	nc
+Liam was followed by Mia.	Liam was followed.	e
+Liam was followed by Mia.	Mia was followed.	nc
+Mia followed Liam.	Liam was followed.	e
+Mia followed Liam.	Mia was followed.	nc
+Emma was followed by Mia.	Emma was followed.	e
+Emma was followed by Mia.	Mia was followed.	nc
+Mia followed Emma.	Emma was followed.	e
+Mia followed Emma.	Mia was followed.	nc
+Noah was followed by Mia.	Noah was followed.	e
+Noah was followed by Mia.	Mia was followed.	nc
+Mia followed Noah.	Noah was followed.	e
+Mia followed Noah.	Mia was followed.	nc
+Ava was followed by Mia.	Ava was followed.	e
+Ava was followed by Mia.	Mia was followed.	nc
+Mia followed Ava.	Ava was followed.	e
+Mia followed Ava.	Mia was followed.	nc
+Isabella was followed by Mia.	Isabella was followed.	e
+Isabella was followed by Mia.	Mia was followed.	nc
+Mia followed Isabella.	Isabella was followed.	e
+Mia followed Isabella.	Mia was followed.	nc
+Sophia was followed by Mia.	Sophia was followed.	e
+Sophia was followed by Mia.	Mia was followed.	nc
+Mia followed Sophia.	Sophia was followed.	e
+Mia followed Sophia.	Mia was followed.	nc
+Charlotte was followed by Mia.	Charlotte was followed.	e
+Charlotte was followed by Mia.	Mia was followed.	nc
+Mia followed Charlotte.	Charlotte was followed.	e
+Mia followed Charlotte.	Mia was followed.	nc
+James was followed by Charlotte.	James was followed.	e
+James was followed by Charlotte.	Charlotte was followed.	nc
+Charlotte followed James.	James was followed.	e
+Charlotte followed James.	Charlotte was followed.	nc
+Olivia was followed by Charlotte.	Olivia was followed.	e
+Olivia was followed by Charlotte.	Charlotte was followed.	nc
+Charlotte followed Olivia.	Olivia was followed.	e
+Charlotte followed Olivia.	Charlotte was followed.	nc
+Liam was followed by Charlotte.	Liam was followed.	e
+Liam was followed by Charlotte.	Charlotte was followed.	nc
+Charlotte followed Liam.	Liam was followed.	e
+Charlotte followed Liam.	Charlotte was followed.	nc
+Emma was followed by Charlotte.	Emma was followed.	e
+Emma was followed by Charlotte.	Charlotte was followed.	nc
+Charlotte followed Emma.	Emma was followed.	e
+Charlotte followed Emma.	Charlotte was followed.	nc
+Noah was followed by Charlotte.	Noah was followed.	e
+Noah was followed by Charlotte.	Charlotte was followed.	nc
+Charlotte followed Noah.	Noah was followed.	e
+Charlotte followed Noah.	Charlotte was followed.	nc
+Ava was followed by Charlotte.	Ava was followed.	e
+Ava was followed by Charlotte.	Charlotte was followed.	nc
+Charlotte followed Ava.	Ava was followed.	e
+Charlotte followed Ava.	Charlotte was followed.	nc
+Isabella was followed by Charlotte.	Isabella was followed.	e
+Isabella was followed by Charlotte.	Charlotte was followed.	nc
+Charlotte followed Isabella.	Isabella was followed.	e
+Charlotte followed Isabella.	Charlotte was followed.	nc
+Sophia was followed by Charlotte.	Sophia was followed.	e
+Sophia was followed by Charlotte.	Charlotte was followed.	nc
+Charlotte followed Sophia.	Sophia was followed.	e
+Charlotte followed Sophia.	Charlotte was followed.	nc
+Mia was followed by Charlotte.	Mia was followed.	e
+Mia was followed by Charlotte.	Charlotte was followed.	nc
+Charlotte followed Mia.	Mia was followed.	e
+Charlotte followed Mia.	Charlotte was followed.	nc
+Olivia was trampled by James.	Olivia was trampled.	e
+Olivia was trampled by James.	James was trampled.	nc
+James trampled Olivia.	Olivia was trampled.	e
+James trampled Olivia.	James was trampled.	nc
+Liam was trampled by James.	Liam was trampled.	e
+Liam was trampled by James.	James was trampled.	nc
+James trampled Liam.	Liam was trampled.	e
+James trampled Liam.	James was trampled.	nc
+Emma was trampled by James.	Emma was trampled.	e
+Emma was trampled by James.	James was trampled.	nc
+James trampled Emma.	Emma was trampled.	e
+James trampled Emma.	James was trampled.	nc
+Noah was trampled by James.	Noah was trampled.	e
+Noah was trampled by James.	James was trampled.	nc
+James trampled Noah.	Noah was trampled.	e
+James trampled Noah.	James was trampled.	nc
+Ava was trampled by James.	Ava was trampled.	e
+Ava was trampled by James.	James was trampled.	nc
+James trampled Ava.	Ava was trampled.	e
+James trampled Ava.	James was trampled.	nc
+Isabella was trampled by James.	Isabella was trampled.	e
+Isabella was trampled by James.	James was trampled.	nc
+James trampled Isabella.	Isabella was trampled.	e
+James trampled Isabella.	James was trampled.	nc
+Sophia was trampled by James.	Sophia was trampled.	e
+Sophia was trampled by James.	James was trampled.	nc
+James trampled Sophia.	Sophia was trampled.	e
+James trampled Sophia.	James was trampled.	nc
+Mia was trampled by James.	Mia was trampled.	e
+Mia was trampled by James.	James was trampled.	nc
+James trampled Mia.	Mia was trampled.	e
+James trampled Mia.	James was trampled.	nc
+Charlotte was trampled by James.	Charlotte was trampled.	e
+Charlotte was trampled by James.	James was trampled.	nc
+James trampled Charlotte.	Charlotte was trampled.	e
+James trampled Charlotte.	James was trampled.	nc
+James was trampled by Olivia.	James was trampled.	e
+James was trampled by Olivia.	Olivia was trampled.	nc
+Olivia trampled James.	James was trampled.	e
+Olivia trampled James.	Olivia was trampled.	nc
+Liam was trampled by Olivia.	Liam was trampled.	e
+Liam was trampled by Olivia.	Olivia was trampled.	nc
+Olivia trampled Liam.	Liam was trampled.	e
+Olivia trampled Liam.	Olivia was trampled.	nc
+Emma was trampled by Olivia.	Emma was trampled.	e
+Emma was trampled by Olivia.	Olivia was trampled.	nc
+Olivia trampled Emma.	Emma was trampled.	e
+Olivia trampled Emma.	Olivia was trampled.	nc
+Noah was trampled by Olivia.	Noah was trampled.	e
+Noah was trampled by Olivia.	Olivia was trampled.	nc
+Olivia trampled Noah.	Noah was trampled.	e
+Olivia trampled Noah.	Olivia was trampled.	nc
+Ava was trampled by Olivia.	Ava was trampled.	e
+Ava was trampled by Olivia.	Olivia was trampled.	nc
+Olivia trampled Ava.	Ava was trampled.	e
+Olivia trampled Ava.	Olivia was trampled.	nc
+Isabella was trampled by Olivia.	Isabella was trampled.	e
+Isabella was trampled by Olivia.	Olivia was trampled.	nc
+Olivia trampled Isabella.	Isabella was trampled.	e
+Olivia trampled Isabella.	Olivia was trampled.	nc
+Sophia was trampled by Olivia.	Sophia was trampled.	e
+Sophia was trampled by Olivia.	Olivia was trampled.	nc
+Olivia trampled Sophia.	Sophia was trampled.	e
+Olivia trampled Sophia.	Olivia was trampled.	nc
+Mia was trampled by Olivia.	Mia was trampled.	e
+Mia was trampled by Olivia.	Olivia was trampled.	nc
+Olivia trampled Mia.	Mia was trampled.	e
+Olivia trampled Mia.	Olivia was trampled.	nc
+Charlotte was trampled by Olivia.	Charlotte was trampled.	e
+Charlotte was trampled by Olivia.	Olivia was trampled.	nc
+Olivia trampled Charlotte.	Charlotte was trampled.	e
+Olivia trampled Charlotte.	Olivia was trampled.	nc
+James was trampled by Liam.	James was trampled.	e
+James was trampled by Liam.	Liam was trampled.	nc
+Liam trampled James.	James was trampled.	e
+Liam trampled James.	Liam was trampled.	nc
+Olivia was trampled by Liam.	Olivia was trampled.	e
+Olivia was trampled by Liam.	Liam was trampled.	nc
+Liam trampled Olivia.	Olivia was trampled.	e
+Liam trampled Olivia.	Liam was trampled.	nc
+Emma was trampled by Liam.	Emma was trampled.	e
+Emma was trampled by Liam.	Liam was trampled.	nc
+Liam trampled Emma.	Emma was trampled.	e
+Liam trampled Emma.	Liam was trampled.	nc
+Noah was trampled by Liam.	Noah was trampled.	e
+Noah was trampled by Liam.	Liam was trampled.	nc
+Liam trampled Noah.	Noah was trampled.	e
+Liam trampled Noah.	Liam was trampled.	nc
+Ava was trampled by Liam.	Ava was trampled.	e
+Ava was trampled by Liam.	Liam was trampled.	nc
+Liam trampled Ava.	Ava was trampled.	e
+Liam trampled Ava.	Liam was trampled.	nc
+Isabella was trampled by Liam.	Isabella was trampled.	e
+Isabella was trampled by Liam.	Liam was trampled.	nc
+Liam trampled Isabella.	Isabella was trampled.	e
+Liam trampled Isabella.	Liam was trampled.	nc
+Sophia was trampled by Liam.	Sophia was trampled.	e
+Sophia was trampled by Liam.	Liam was trampled.	nc
+Liam trampled Sophia.	Sophia was trampled.	e
+Liam trampled Sophia.	Liam was trampled.	nc
+Mia was trampled by Liam.	Mia was trampled.	e
+Mia was trampled by Liam.	Liam was trampled.	nc
+Liam trampled Mia.	Mia was trampled.	e
+Liam trampled Mia.	Liam was trampled.	nc
+Charlotte was trampled by Liam.	Charlotte was trampled.	e
+Charlotte was trampled by Liam.	Liam was trampled.	nc
+Liam trampled Charlotte.	Charlotte was trampled.	e
+Liam trampled Charlotte.	Liam was trampled.	nc
+James was trampled by Emma.	James was trampled.	e
+James was trampled by Emma.	Emma was trampled.	nc
+Emma trampled James.	James was trampled.	e
+Emma trampled James.	Emma was trampled.	nc
+Olivia was trampled by Emma.	Olivia was trampled.	e
+Olivia was trampled by Emma.	Emma was trampled.	nc
+Emma trampled Olivia.	Olivia was trampled.	e
+Emma trampled Olivia.	Emma was trampled.	nc
+Liam was trampled by Emma.	Liam was trampled.	e
+Liam was trampled by Emma.	Emma was trampled.	nc
+Emma trampled Liam.	Liam was trampled.	e
+Emma trampled Liam.	Emma was trampled.	nc
+Noah was trampled by Emma.	Noah was trampled.	e
+Noah was trampled by Emma.	Emma was trampled.	nc
+Emma trampled Noah.	Noah was trampled.	e
+Emma trampled Noah.	Emma was trampled.	nc
+Ava was trampled by Emma.	Ava was trampled.	e
+Ava was trampled by Emma.	Emma was trampled.	nc
+Emma trampled Ava.	Ava was trampled.	e
+Emma trampled Ava.	Emma was trampled.	nc
+Isabella was trampled by Emma.	Isabella was trampled.	e
+Isabella was trampled by Emma.	Emma was trampled.	nc
+Emma trampled Isabella.	Isabella was trampled.	e
+Emma trampled Isabella.	Emma was trampled.	nc
+Sophia was trampled by Emma.	Sophia was trampled.	e
+Sophia was trampled by Emma.	Emma was trampled.	nc
+Emma trampled Sophia.	Sophia was trampled.	e
+Emma trampled Sophia.	Emma was trampled.	nc
+Mia was trampled by Emma.	Mia was trampled.	e
+Mia was trampled by Emma.	Emma was trampled.	nc
+Emma trampled Mia.	Mia was trampled.	e
+Emma trampled Mia.	Emma was trampled.	nc
+Charlotte was trampled by Emma.	Charlotte was trampled.	e
+Charlotte was trampled by Emma.	Emma was trampled.	nc
+Emma trampled Charlotte.	Charlotte was trampled.	e
+Emma trampled Charlotte.	Emma was trampled.	nc
+James was trampled by Noah.	James was trampled.	e
+James was trampled by Noah.	Noah was trampled.	nc
+Noah trampled James.	James was trampled.	e
+Noah trampled James.	Noah was trampled.	nc
+Olivia was trampled by Noah.	Olivia was trampled.	e
+Olivia was trampled by Noah.	Noah was trampled.	nc
+Noah trampled Olivia.	Olivia was trampled.	e
+Noah trampled Olivia.	Noah was trampled.	nc
+Liam was trampled by Noah.	Liam was trampled.	e
+Liam was trampled by Noah.	Noah was trampled.	nc
+Noah trampled Liam.	Liam was trampled.	e
+Noah trampled Liam.	Noah was trampled.	nc
+Emma was trampled by Noah.	Emma was trampled.	e
+Emma was trampled by Noah.	Noah was trampled.	nc
+Noah trampled Emma.	Emma was trampled.	e
+Noah trampled Emma.	Noah was trampled.	nc
+Ava was trampled by Noah.	Ava was trampled.	e
+Ava was trampled by Noah.	Noah was trampled.	nc
+Noah trampled Ava.	Ava was trampled.	e
+Noah trampled Ava.	Noah was trampled.	nc
+Isabella was trampled by Noah.	Isabella was trampled.	e
+Isabella was trampled by Noah.	Noah was trampled.	nc
+Noah trampled Isabella.	Isabella was trampled.	e
+Noah trampled Isabella.	Noah was trampled.	nc
+Sophia was trampled by Noah.	Sophia was trampled.	e
+Sophia was trampled by Noah.	Noah was trampled.	nc
+Noah trampled Sophia.	Sophia was trampled.	e
+Noah trampled Sophia.	Noah was trampled.	nc
+Mia was trampled by Noah.	Mia was trampled.	e
+Mia was trampled by Noah.	Noah was trampled.	nc
+Noah trampled Mia.	Mia was trampled.	e
+Noah trampled Mia.	Noah was trampled.	nc
+Charlotte was trampled by Noah.	Charlotte was trampled.	e
+Charlotte was trampled by Noah.	Noah was trampled.	nc
+Noah trampled Charlotte.	Charlotte was trampled.	e
+Noah trampled Charlotte.	Noah was trampled.	nc
+James was trampled by Ava.	James was trampled.	e
+James was trampled by Ava.	Ava was trampled.	nc
+Ava trampled James.	James was trampled.	e
+Ava trampled James.	Ava was trampled.	nc
+Olivia was trampled by Ava.	Olivia was trampled.	e
+Olivia was trampled by Ava.	Ava was trampled.	nc
+Ava trampled Olivia.	Olivia was trampled.	e
+Ava trampled Olivia.	Ava was trampled.	nc
+Liam was trampled by Ava.	Liam was trampled.	e
+Liam was trampled by Ava.	Ava was trampled.	nc
+Ava trampled Liam.	Liam was trampled.	e
+Ava trampled Liam.	Ava was trampled.	nc
+Emma was trampled by Ava.	Emma was trampled.	e
+Emma was trampled by Ava.	Ava was trampled.	nc
+Ava trampled Emma.	Emma was trampled.	e
+Ava trampled Emma.	Ava was trampled.	nc
+Noah was trampled by Ava.	Noah was trampled.	e
+Noah was trampled by Ava.	Ava was trampled.	nc
+Ava trampled Noah.	Noah was trampled.	e
+Ava trampled Noah.	Ava was trampled.	nc
+Isabella was trampled by Ava.	Isabella was trampled.	e
+Isabella was trampled by Ava.	Ava was trampled.	nc
+Ava trampled Isabella.	Isabella was trampled.	e
+Ava trampled Isabella.	Ava was trampled.	nc
+Sophia was trampled by Ava.	Sophia was trampled.	e
+Sophia was trampled by Ava.	Ava was trampled.	nc
+Ava trampled Sophia.	Sophia was trampled.	e
+Ava trampled Sophia.	Ava was trampled.	nc
+Mia was trampled by Ava.	Mia was trampled.	e
+Mia was trampled by Ava.	Ava was trampled.	nc
+Ava trampled Mia.	Mia was trampled.	e
+Ava trampled Mia.	Ava was trampled.	nc
+Charlotte was trampled by Ava.	Charlotte was trampled.	e
+Charlotte was trampled by Ava.	Ava was trampled.	nc
+Ava trampled Charlotte.	Charlotte was trampled.	e
+Ava trampled Charlotte.	Ava was trampled.	nc
+James was trampled by Isabella.	James was trampled.	e
+James was trampled by Isabella.	Isabella was trampled.	nc
+Isabella trampled James.	James was trampled.	e
+Isabella trampled James.	Isabella was trampled.	nc
+Olivia was trampled by Isabella.	Olivia was trampled.	e
+Olivia was trampled by Isabella.	Isabella was trampled.	nc
+Isabella trampled Olivia.	Olivia was trampled.	e
+Isabella trampled Olivia.	Isabella was trampled.	nc
+Liam was trampled by Isabella.	Liam was trampled.	e
+Liam was trampled by Isabella.	Isabella was trampled.	nc
+Isabella trampled Liam.	Liam was trampled.	e
+Isabella trampled Liam.	Isabella was trampled.	nc
+Emma was trampled by Isabella.	Emma was trampled.	e
+Emma was trampled by Isabella.	Isabella was trampled.	nc
+Isabella trampled Emma.	Emma was trampled.	e
+Isabella trampled Emma.	Isabella was trampled.	nc
+Noah was trampled by Isabella.	Noah was trampled.	e
+Noah was trampled by Isabella.	Isabella was trampled.	nc
+Isabella trampled Noah.	Noah was trampled.	e
+Isabella trampled Noah.	Isabella was trampled.	nc
+Ava was trampled by Isabella.	Ava was trampled.	e
+Ava was trampled by Isabella.	Isabella was trampled.	nc
+Isabella trampled Ava.	Ava was trampled.	e
+Isabella trampled Ava.	Isabella was trampled.	nc
+Sophia was trampled by Isabella.	Sophia was trampled.	e
+Sophia was trampled by Isabella.	Isabella was trampled.	nc
+Isabella trampled Sophia.	Sophia was trampled.	e
+Isabella trampled Sophia.	Isabella was trampled.	nc
+Mia was trampled by Isabella.	Mia was trampled.	e
+Mia was trampled by Isabella.	Isabella was trampled.	nc
+Isabella trampled Mia.	Mia was trampled.	e
+Isabella trampled Mia.	Isabella was trampled.	nc
+Charlotte was trampled by Isabella.	Charlotte was trampled.	e
+Charlotte was trampled by Isabella.	Isabella was trampled.	nc
+Isabella trampled Charlotte.	Charlotte was trampled.	e
+Isabella trampled Charlotte.	Isabella was trampled.	nc
+James was trampled by Sophia.	James was trampled.	e
+James was trampled by Sophia.	Sophia was trampled.	nc
+Sophia trampled James.	James was trampled.	e
+Sophia trampled James.	Sophia was trampled.	nc
+Olivia was trampled by Sophia.	Olivia was trampled.	e
+Olivia was trampled by Sophia.	Sophia was trampled.	nc
+Sophia trampled Olivia.	Olivia was trampled.	e
+Sophia trampled Olivia.	Sophia was trampled.	nc
+Liam was trampled by Sophia.	Liam was trampled.	e
+Liam was trampled by Sophia.	Sophia was trampled.	nc
+Sophia trampled Liam.	Liam was trampled.	e
+Sophia trampled Liam.	Sophia was trampled.	nc
+Emma was trampled by Sophia.	Emma was trampled.	e
+Emma was trampled by Sophia.	Sophia was trampled.	nc
+Sophia trampled Emma.	Emma was trampled.	e
+Sophia trampled Emma.	Sophia was trampled.	nc
+Noah was trampled by Sophia.	Noah was trampled.	e
+Noah was trampled by Sophia.	Sophia was trampled.	nc
+Sophia trampled Noah.	Noah was trampled.	e
+Sophia trampled Noah.	Sophia was trampled.	nc
+Ava was trampled by Sophia.	Ava was trampled.	e
+Ava was trampled by Sophia.	Sophia was trampled.	nc
+Sophia trampled Ava.	Ava was trampled.	e
+Sophia trampled Ava.	Sophia was trampled.	nc
+Isabella was trampled by Sophia.	Isabella was trampled.	e
+Isabella was trampled by Sophia.	Sophia was trampled.	nc
+Sophia trampled Isabella.	Isabella was trampled.	e
+Sophia trampled Isabella.	Sophia was trampled.	nc
+Mia was trampled by Sophia.	Mia was trampled.	e
+Mia was trampled by Sophia.	Sophia was trampled.	nc
+Sophia trampled Mia.	Mia was trampled.	e
+Sophia trampled Mia.	Sophia was trampled.	nc
+Charlotte was trampled by Sophia.	Charlotte was trampled.	e
+Charlotte was trampled by Sophia.	Sophia was trampled.	nc
+Sophia trampled Charlotte.	Charlotte was trampled.	e
+Sophia trampled Charlotte.	Sophia was trampled.	nc
+James was trampled by Mia.	James was trampled.	e
+James was trampled by Mia.	Mia was trampled.	nc
+Mia trampled James.	James was trampled.	e
+Mia trampled James.	Mia was trampled.	nc
+Olivia was trampled by Mia.	Olivia was trampled.	e
+Olivia was trampled by Mia.	Mia was trampled.	nc
+Mia trampled Olivia.	Olivia was trampled.	e
+Mia trampled Olivia.	Mia was trampled.	nc
+Liam was trampled by Mia.	Liam was trampled.	e
+Liam was trampled by Mia.	Mia was trampled.	nc
+Mia trampled Liam.	Liam was trampled.	e
+Mia trampled Liam.	Mia was trampled.	nc
+Emma was trampled by Mia.	Emma was trampled.	e
+Emma was trampled by Mia.	Mia was trampled.	nc
+Mia trampled Emma.	Emma was trampled.	e
+Mia trampled Emma.	Mia was trampled.	nc
+Noah was trampled by Mia.	Noah was trampled.	e
+Noah was trampled by Mia.	Mia was trampled.	nc
+Mia trampled Noah.	Noah was trampled.	e
+Mia trampled Noah.	Mia was trampled.	nc
+Ava was trampled by Mia.	Ava was trampled.	e
+Ava was trampled by Mia.	Mia was trampled.	nc
+Mia trampled Ava.	Ava was trampled.	e
+Mia trampled Ava.	Mia was trampled.	nc
+Isabella was trampled by Mia.	Isabella was trampled.	e
+Isabella was trampled by Mia.	Mia was trampled.	nc
+Mia trampled Isabella.	Isabella was trampled.	e
+Mia trampled Isabella.	Mia was trampled.	nc
+Sophia was trampled by Mia.	Sophia was trampled.	e
+Sophia was trampled by Mia.	Mia was trampled.	nc
+Mia trampled Sophia.	Sophia was trampled.	e
+Mia trampled Sophia.	Mia was trampled.	nc
+Charlotte was trampled by Mia.	Charlotte was trampled.	e
+Charlotte was trampled by Mia.	Mia was trampled.	nc
+Mia trampled Charlotte.	Charlotte was trampled.	e
+Mia trampled Charlotte.	Mia was trampled.	nc
+James was trampled by Charlotte.	James was trampled.	e
+James was trampled by Charlotte.	Charlotte was trampled.	nc
+Charlotte trampled James.	James was trampled.	e
+Charlotte trampled James.	Charlotte was trampled.	nc
+Olivia was trampled by Charlotte.	Olivia was trampled.	e
+Olivia was trampled by Charlotte.	Charlotte was trampled.	nc
+Charlotte trampled Olivia.	Olivia was trampled.	e
+Charlotte trampled Olivia.	Charlotte was trampled.	nc
+Liam was trampled by Charlotte.	Liam was trampled.	e
+Liam was trampled by Charlotte.	Charlotte was trampled.	nc
+Charlotte trampled Liam.	Liam was trampled.	e
+Charlotte trampled Liam.	Charlotte was trampled.	nc
+Emma was trampled by Charlotte.	Emma was trampled.	e
+Emma was trampled by Charlotte.	Charlotte was trampled.	nc
+Charlotte trampled Emma.	Emma was trampled.	e
+Charlotte trampled Emma.	Charlotte was trampled.	nc
+Noah was trampled by Charlotte.	Noah was trampled.	e
+Noah was trampled by Charlotte.	Charlotte was trampled.	nc
+Charlotte trampled Noah.	Noah was trampled.	e
+Charlotte trampled Noah.	Charlotte was trampled.	nc
+Ava was trampled by Charlotte.	Ava was trampled.	e
+Ava was trampled by Charlotte.	Charlotte was trampled.	nc
+Charlotte trampled Ava.	Ava was trampled.	e
+Charlotte trampled Ava.	Charlotte was trampled.	nc
+Isabella was trampled by Charlotte.	Isabella was trampled.	e
+Isabella was trampled by Charlotte.	Charlotte was trampled.	nc
+Charlotte trampled Isabella.	Isabella was trampled.	e
+Charlotte trampled Isabella.	Charlotte was trampled.	nc
+Sophia was trampled by Charlotte.	Sophia was trampled.	e
+Sophia was trampled by Charlotte.	Charlotte was trampled.	nc
+Charlotte trampled Sophia.	Sophia was trampled.	e
+Charlotte trampled Sophia.	Charlotte was trampled.	nc
+Mia was trampled by Charlotte.	Mia was trampled.	e
+Mia was trampled by Charlotte.	Charlotte was trampled.	nc
+Charlotte trampled Mia.	Mia was trampled.	e
+Charlotte trampled Mia.	Charlotte was trampled.	nc
+Olivia was ridiculed by James.	Olivia was ridiculed.	e
+Olivia was ridiculed by James.	James was ridiculed.	nc
+James ridiculed Olivia.	Olivia was ridiculed.	e
+James ridiculed Olivia.	James was ridiculed.	nc
+Liam was ridiculed by James.	Liam was ridiculed.	e
+Liam was ridiculed by James.	James was ridiculed.	nc
+James ridiculed Liam.	Liam was ridiculed.	e
+James ridiculed Liam.	James was ridiculed.	nc
+Emma was ridiculed by James.	Emma was ridiculed.	e
+Emma was ridiculed by James.	James was ridiculed.	nc
+James ridiculed Emma.	Emma was ridiculed.	e
+James ridiculed Emma.	James was ridiculed.	nc
+Noah was ridiculed by James.	Noah was ridiculed.	e
+Noah was ridiculed by James.	James was ridiculed.	nc
+James ridiculed Noah.	Noah was ridiculed.	e
+James ridiculed Noah.	James was ridiculed.	nc
+Ava was ridiculed by James.	Ava was ridiculed.	e
+Ava was ridiculed by James.	James was ridiculed.	nc
+James ridiculed Ava.	Ava was ridiculed.	e
+James ridiculed Ava.	James was ridiculed.	nc
+Isabella was ridiculed by James.	Isabella was ridiculed.	e
+Isabella was ridiculed by James.	James was ridiculed.	nc
+James ridiculed Isabella.	Isabella was ridiculed.	e
+James ridiculed Isabella.	James was ridiculed.	nc
+Sophia was ridiculed by James.	Sophia was ridiculed.	e
+Sophia was ridiculed by James.	James was ridiculed.	nc
+James ridiculed Sophia.	Sophia was ridiculed.	e
+James ridiculed Sophia.	James was ridiculed.	nc
+Mia was ridiculed by James.	Mia was ridiculed.	e
+Mia was ridiculed by James.	James was ridiculed.	nc
+James ridiculed Mia.	Mia was ridiculed.	e
+James ridiculed Mia.	James was ridiculed.	nc
+Charlotte was ridiculed by James.	Charlotte was ridiculed.	e
+Charlotte was ridiculed by James.	James was ridiculed.	nc
+James ridiculed Charlotte.	Charlotte was ridiculed.	e
+James ridiculed Charlotte.	James was ridiculed.	nc
+James was ridiculed by Olivia.	James was ridiculed.	e
+James was ridiculed by Olivia.	Olivia was ridiculed.	nc
+Olivia ridiculed James.	James was ridiculed.	e
+Olivia ridiculed James.	Olivia was ridiculed.	nc
+Liam was ridiculed by Olivia.	Liam was ridiculed.	e
+Liam was ridiculed by Olivia.	Olivia was ridiculed.	nc
+Olivia ridiculed Liam.	Liam was ridiculed.	e
+Olivia ridiculed Liam.	Olivia was ridiculed.	nc
+Emma was ridiculed by Olivia.	Emma was ridiculed.	e
+Emma was ridiculed by Olivia.	Olivia was ridiculed.	nc
+Olivia ridiculed Emma.	Emma was ridiculed.	e
+Olivia ridiculed Emma.	Olivia was ridiculed.	nc
+Noah was ridiculed by Olivia.	Noah was ridiculed.	e
+Noah was ridiculed by Olivia.	Olivia was ridiculed.	nc
+Olivia ridiculed Noah.	Noah was ridiculed.	e
+Olivia ridiculed Noah.	Olivia was ridiculed.	nc
+Ava was ridiculed by Olivia.	Ava was ridiculed.	e
+Ava was ridiculed by Olivia.	Olivia was ridiculed.	nc
+Olivia ridiculed Ava.	Ava was ridiculed.	e
+Olivia ridiculed Ava.	Olivia was ridiculed.	nc
+Isabella was ridiculed by Olivia.	Isabella was ridiculed.	e
+Isabella was ridiculed by Olivia.	Olivia was ridiculed.	nc
+Olivia ridiculed Isabella.	Isabella was ridiculed.	e
+Olivia ridiculed Isabella.	Olivia was ridiculed.	nc
+Sophia was ridiculed by Olivia.	Sophia was ridiculed.	e
+Sophia was ridiculed by Olivia.	Olivia was ridiculed.	nc
+Olivia ridiculed Sophia.	Sophia was ridiculed.	e
+Olivia ridiculed Sophia.	Olivia was ridiculed.	nc
+Mia was ridiculed by Olivia.	Mia was ridiculed.	e
+Mia was ridiculed by Olivia.	Olivia was ridiculed.	nc
+Olivia ridiculed Mia.	Mia was ridiculed.	e
+Olivia ridiculed Mia.	Olivia was ridiculed.	nc
+Charlotte was ridiculed by Olivia.	Charlotte was ridiculed.	e
+Charlotte was ridiculed by Olivia.	Olivia was ridiculed.	nc
+Olivia ridiculed Charlotte.	Charlotte was ridiculed.	e
+Olivia ridiculed Charlotte.	Olivia was ridiculed.	nc
+James was ridiculed by Liam.	James was ridiculed.	e
+James was ridiculed by Liam.	Liam was ridiculed.	nc
+Liam ridiculed James.	James was ridiculed.	e
+Liam ridiculed James.	Liam was ridiculed.	nc
+Olivia was ridiculed by Liam.	Olivia was ridiculed.	e
+Olivia was ridiculed by Liam.	Liam was ridiculed.	nc
+Liam ridiculed Olivia.	Olivia was ridiculed.	e
+Liam ridiculed Olivia.	Liam was ridiculed.	nc
+Emma was ridiculed by Liam.	Emma was ridiculed.	e
+Emma was ridiculed by Liam.	Liam was ridiculed.	nc
+Liam ridiculed Emma.	Emma was ridiculed.	e
+Liam ridiculed Emma.	Liam was ridiculed.	nc
+Noah was ridiculed by Liam.	Noah was ridiculed.	e
+Noah was ridiculed by Liam.	Liam was ridiculed.	nc
+Liam ridiculed Noah.	Noah was ridiculed.	e
+Liam ridiculed Noah.	Liam was ridiculed.	nc
+Ava was ridiculed by Liam.	Ava was ridiculed.	e
+Ava was ridiculed by Liam.	Liam was ridiculed.	nc
+Liam ridiculed Ava.	Ava was ridiculed.	e
+Liam ridiculed Ava.	Liam was ridiculed.	nc
+Isabella was ridiculed by Liam.	Isabella was ridiculed.	e
+Isabella was ridiculed by Liam.	Liam was ridiculed.	nc
+Liam ridiculed Isabella.	Isabella was ridiculed.	e
+Liam ridiculed Isabella.	Liam was ridiculed.	nc
+Sophia was ridiculed by Liam.	Sophia was ridiculed.	e
+Sophia was ridiculed by Liam.	Liam was ridiculed.	nc
+Liam ridiculed Sophia.	Sophia was ridiculed.	e
+Liam ridiculed Sophia.	Liam was ridiculed.	nc
+Mia was ridiculed by Liam.	Mia was ridiculed.	e
+Mia was ridiculed by Liam.	Liam was ridiculed.	nc
+Liam ridiculed Mia.	Mia was ridiculed.	e
+Liam ridiculed Mia.	Liam was ridiculed.	nc
+Charlotte was ridiculed by Liam.	Charlotte was ridiculed.	e
+Charlotte was ridiculed by Liam.	Liam was ridiculed.	nc
+Liam ridiculed Charlotte.	Charlotte was ridiculed.	e
+Liam ridiculed Charlotte.	Liam was ridiculed.	nc
+James was ridiculed by Emma.	James was ridiculed.	e
+James was ridiculed by Emma.	Emma was ridiculed.	nc
+Emma ridiculed James.	James was ridiculed.	e
+Emma ridiculed James.	Emma was ridiculed.	nc
+Olivia was ridiculed by Emma.	Olivia was ridiculed.	e
+Olivia was ridiculed by Emma.	Emma was ridiculed.	nc
+Emma ridiculed Olivia.	Olivia was ridiculed.	e
+Emma ridiculed Olivia.	Emma was ridiculed.	nc
+Liam was ridiculed by Emma.	Liam was ridiculed.	e
+Liam was ridiculed by Emma.	Emma was ridiculed.	nc
+Emma ridiculed Liam.	Liam was ridiculed.	e
+Emma ridiculed Liam.	Emma was ridiculed.	nc
+Noah was ridiculed by Emma.	Noah was ridiculed.	e
+Noah was ridiculed by Emma.	Emma was ridiculed.	nc
+Emma ridiculed Noah.	Noah was ridiculed.	e
+Emma ridiculed Noah.	Emma was ridiculed.	nc
+Ava was ridiculed by Emma.	Ava was ridiculed.	e
+Ava was ridiculed by Emma.	Emma was ridiculed.	nc
+Emma ridiculed Ava.	Ava was ridiculed.	e
+Emma ridiculed Ava.	Emma was ridiculed.	nc
+Isabella was ridiculed by Emma.	Isabella was ridiculed.	e
+Isabella was ridiculed by Emma.	Emma was ridiculed.	nc
+Emma ridiculed Isabella.	Isabella was ridiculed.	e
+Emma ridiculed Isabella.	Emma was ridiculed.	nc
+Sophia was ridiculed by Emma.	Sophia was ridiculed.	e
+Sophia was ridiculed by Emma.	Emma was ridiculed.	nc
+Emma ridiculed Sophia.	Sophia was ridiculed.	e
+Emma ridiculed Sophia.	Emma was ridiculed.	nc
+Mia was ridiculed by Emma.	Mia was ridiculed.	e
+Mia was ridiculed by Emma.	Emma was ridiculed.	nc
+Emma ridiculed Mia.	Mia was ridiculed.	e
+Emma ridiculed Mia.	Emma was ridiculed.	nc
+Charlotte was ridiculed by Emma.	Charlotte was ridiculed.	e
+Charlotte was ridiculed by Emma.	Emma was ridiculed.	nc
+Emma ridiculed Charlotte.	Charlotte was ridiculed.	e
+Emma ridiculed Charlotte.	Emma was ridiculed.	nc
+James was ridiculed by Noah.	James was ridiculed.	e
+James was ridiculed by Noah.	Noah was ridiculed.	nc
+Noah ridiculed James.	James was ridiculed.	e
+Noah ridiculed James.	Noah was ridiculed.	nc
+Olivia was ridiculed by Noah.	Olivia was ridiculed.	e
+Olivia was ridiculed by Noah.	Noah was ridiculed.	nc
+Noah ridiculed Olivia.	Olivia was ridiculed.	e
+Noah ridiculed Olivia.	Noah was ridiculed.	nc
+Liam was ridiculed by Noah.	Liam was ridiculed.	e
+Liam was ridiculed by Noah.	Noah was ridiculed.	nc
+Noah ridiculed Liam.	Liam was ridiculed.	e
+Noah ridiculed Liam.	Noah was ridiculed.	nc
+Emma was ridiculed by Noah.	Emma was ridiculed.	e
+Emma was ridiculed by Noah.	Noah was ridiculed.	nc
+Noah ridiculed Emma.	Emma was ridiculed.	e
+Noah ridiculed Emma.	Noah was ridiculed.	nc
+Ava was ridiculed by Noah.	Ava was ridiculed.	e
+Ava was ridiculed by Noah.	Noah was ridiculed.	nc
+Noah ridiculed Ava.	Ava was ridiculed.	e
+Noah ridiculed Ava.	Noah was ridiculed.	nc
+Isabella was ridiculed by Noah.	Isabella was ridiculed.	e
+Isabella was ridiculed by Noah.	Noah was ridiculed.	nc
+Noah ridiculed Isabella.	Isabella was ridiculed.	e
+Noah ridiculed Isabella.	Noah was ridiculed.	nc
+Sophia was ridiculed by Noah.	Sophia was ridiculed.	e
+Sophia was ridiculed by Noah.	Noah was ridiculed.	nc
+Noah ridiculed Sophia.	Sophia was ridiculed.	e
+Noah ridiculed Sophia.	Noah was ridiculed.	nc
+Mia was ridiculed by Noah.	Mia was ridiculed.	e
+Mia was ridiculed by Noah.	Noah was ridiculed.	nc
+Noah ridiculed Mia.	Mia was ridiculed.	e
+Noah ridiculed Mia.	Noah was ridiculed.	nc
+Charlotte was ridiculed by Noah.	Charlotte was ridiculed.	e
+Charlotte was ridiculed by Noah.	Noah was ridiculed.	nc
+Noah ridiculed Charlotte.	Charlotte was ridiculed.	e
+Noah ridiculed Charlotte.	Noah was ridiculed.	nc
+James was ridiculed by Ava.	James was ridiculed.	e
+James was ridiculed by Ava.	Ava was ridiculed.	nc
+Ava ridiculed James.	James was ridiculed.	e
+Ava ridiculed James.	Ava was ridiculed.	nc
+Olivia was ridiculed by Ava.	Olivia was ridiculed.	e
+Olivia was ridiculed by Ava.	Ava was ridiculed.	nc
+Ava ridiculed Olivia.	Olivia was ridiculed.	e
+Ava ridiculed Olivia.	Ava was ridiculed.	nc
+Liam was ridiculed by Ava.	Liam was ridiculed.	e
+Liam was ridiculed by Ava.	Ava was ridiculed.	nc
+Ava ridiculed Liam.	Liam was ridiculed.	e
+Ava ridiculed Liam.	Ava was ridiculed.	nc
+Emma was ridiculed by Ava.	Emma was ridiculed.	e
+Emma was ridiculed by Ava.	Ava was ridiculed.	nc
+Ava ridiculed Emma.	Emma was ridiculed.	e
+Ava ridiculed Emma.	Ava was ridiculed.	nc
+Noah was ridiculed by Ava.	Noah was ridiculed.	e
+Noah was ridiculed by Ava.	Ava was ridiculed.	nc
+Ava ridiculed Noah.	Noah was ridiculed.	e
+Ava ridiculed Noah.	Ava was ridiculed.	nc
+Isabella was ridiculed by Ava.	Isabella was ridiculed.	e
+Isabella was ridiculed by Ava.	Ava was ridiculed.	nc
+Ava ridiculed Isabella.	Isabella was ridiculed.	e
+Ava ridiculed Isabella.	Ava was ridiculed.	nc
+Sophia was ridiculed by Ava.	Sophia was ridiculed.	e
+Sophia was ridiculed by Ava.	Ava was ridiculed.	nc
+Ava ridiculed Sophia.	Sophia was ridiculed.	e
+Ava ridiculed Sophia.	Ava was ridiculed.	nc
+Mia was ridiculed by Ava.	Mia was ridiculed.	e
+Mia was ridiculed by Ava.	Ava was ridiculed.	nc
+Ava ridiculed Mia.	Mia was ridiculed.	e
+Ava ridiculed Mia.	Ava was ridiculed.	nc
+Charlotte was ridiculed by Ava.	Charlotte was ridiculed.	e
+Charlotte was ridiculed by Ava.	Ava was ridiculed.	nc
+Ava ridiculed Charlotte.	Charlotte was ridiculed.	e
+Ava ridiculed Charlotte.	Ava was ridiculed.	nc
+James was ridiculed by Isabella.	James was ridiculed.	e
+James was ridiculed by Isabella.	Isabella was ridiculed.	nc
+Isabella ridiculed James.	James was ridiculed.	e
+Isabella ridiculed James.	Isabella was ridiculed.	nc
+Olivia was ridiculed by Isabella.	Olivia was ridiculed.	e
+Olivia was ridiculed by Isabella.	Isabella was ridiculed.	nc
+Isabella ridiculed Olivia.	Olivia was ridiculed.	e
+Isabella ridiculed Olivia.	Isabella was ridiculed.	nc
+Liam was ridiculed by Isabella.	Liam was ridiculed.	e
+Liam was ridiculed by Isabella.	Isabella was ridiculed.	nc
+Isabella ridiculed Liam.	Liam was ridiculed.	e
+Isabella ridiculed Liam.	Isabella was ridiculed.	nc
+Emma was ridiculed by Isabella.	Emma was ridiculed.	e
+Emma was ridiculed by Isabella.	Isabella was ridiculed.	nc
+Isabella ridiculed Emma.	Emma was ridiculed.	e
+Isabella ridiculed Emma.	Isabella was ridiculed.	nc
+Noah was ridiculed by Isabella.	Noah was ridiculed.	e
+Noah was ridiculed by Isabella.	Isabella was ridiculed.	nc
+Isabella ridiculed Noah.	Noah was ridiculed.	e
+Isabella ridiculed Noah.	Isabella was ridiculed.	nc
+Ava was ridiculed by Isabella.	Ava was ridiculed.	e
+Ava was ridiculed by Isabella.	Isabella was ridiculed.	nc
+Isabella ridiculed Ava.	Ava was ridiculed.	e
+Isabella ridiculed Ava.	Isabella was ridiculed.	nc
+Sophia was ridiculed by Isabella.	Sophia was ridiculed.	e
+Sophia was ridiculed by Isabella.	Isabella was ridiculed.	nc
+Isabella ridiculed Sophia.	Sophia was ridiculed.	e
+Isabella ridiculed Sophia.	Isabella was ridiculed.	nc
+Mia was ridiculed by Isabella.	Mia was ridiculed.	e
+Mia was ridiculed by Isabella.	Isabella was ridiculed.	nc
+Isabella ridiculed Mia.	Mia was ridiculed.	e
+Isabella ridiculed Mia.	Isabella was ridiculed.	nc
+Charlotte was ridiculed by Isabella.	Charlotte was ridiculed.	e
+Charlotte was ridiculed by Isabella.	Isabella was ridiculed.	nc
+Isabella ridiculed Charlotte.	Charlotte was ridiculed.	e
+Isabella ridiculed Charlotte.	Isabella was ridiculed.	nc
+James was ridiculed by Sophia.	James was ridiculed.	e
+James was ridiculed by Sophia.	Sophia was ridiculed.	nc
+Sophia ridiculed James.	James was ridiculed.	e
+Sophia ridiculed James.	Sophia was ridiculed.	nc
+Olivia was ridiculed by Sophia.	Olivia was ridiculed.	e
+Olivia was ridiculed by Sophia.	Sophia was ridiculed.	nc
+Sophia ridiculed Olivia.	Olivia was ridiculed.	e
+Sophia ridiculed Olivia.	Sophia was ridiculed.	nc
+Liam was ridiculed by Sophia.	Liam was ridiculed.	e
+Liam was ridiculed by Sophia.	Sophia was ridiculed.	nc
+Sophia ridiculed Liam.	Liam was ridiculed.	e
+Sophia ridiculed Liam.	Sophia was ridiculed.	nc
+Emma was ridiculed by Sophia.	Emma was ridiculed.	e
+Emma was ridiculed by Sophia.	Sophia was ridiculed.	nc
+Sophia ridiculed Emma.	Emma was ridiculed.	e
+Sophia ridiculed Emma.	Sophia was ridiculed.	nc
+Noah was ridiculed by Sophia.	Noah was ridiculed.	e
+Noah was ridiculed by Sophia.	Sophia was ridiculed.	nc
+Sophia ridiculed Noah.	Noah was ridiculed.	e
+Sophia ridiculed Noah.	Sophia was ridiculed.	nc
+Ava was ridiculed by Sophia.	Ava was ridiculed.	e
+Ava was ridiculed by Sophia.	Sophia was ridiculed.	nc
+Sophia ridiculed Ava.	Ava was ridiculed.	e
+Sophia ridiculed Ava.	Sophia was ridiculed.	nc
+Isabella was ridiculed by Sophia.	Isabella was ridiculed.	e
+Isabella was ridiculed by Sophia.	Sophia was ridiculed.	nc
+Sophia ridiculed Isabella.	Isabella was ridiculed.	e
+Sophia ridiculed Isabella.	Sophia was ridiculed.	nc
+Mia was ridiculed by Sophia.	Mia was ridiculed.	e
+Mia was ridiculed by Sophia.	Sophia was ridiculed.	nc
+Sophia ridiculed Mia.	Mia was ridiculed.	e
+Sophia ridiculed Mia.	Sophia was ridiculed.	nc
+Charlotte was ridiculed by Sophia.	Charlotte was ridiculed.	e
+Charlotte was ridiculed by Sophia.	Sophia was ridiculed.	nc
+Sophia ridiculed Charlotte.	Charlotte was ridiculed.	e
+Sophia ridiculed Charlotte.	Sophia was ridiculed.	nc
+James was ridiculed by Mia.	James was ridiculed.	e
+James was ridiculed by Mia.	Mia was ridiculed.	nc
+Mia ridiculed James.	James was ridiculed.	e
+Mia ridiculed James.	Mia was ridiculed.	nc
+Olivia was ridiculed by Mia.	Olivia was ridiculed.	e
+Olivia was ridiculed by Mia.	Mia was ridiculed.	nc
+Mia ridiculed Olivia.	Olivia was ridiculed.	e
+Mia ridiculed Olivia.	Mia was ridiculed.	nc
+Liam was ridiculed by Mia.	Liam was ridiculed.	e
+Liam was ridiculed by Mia.	Mia was ridiculed.	nc
+Mia ridiculed Liam.	Liam was ridiculed.	e
+Mia ridiculed Liam.	Mia was ridiculed.	nc
+Emma was ridiculed by Mia.	Emma was ridiculed.	e
+Emma was ridiculed by Mia.	Mia was ridiculed.	nc
+Mia ridiculed Emma.	Emma was ridiculed.	e
+Mia ridiculed Emma.	Mia was ridiculed.	nc
+Noah was ridiculed by Mia.	Noah was ridiculed.	e
+Noah was ridiculed by Mia.	Mia was ridiculed.	nc
+Mia ridiculed Noah.	Noah was ridiculed.	e
+Mia ridiculed Noah.	Mia was ridiculed.	nc
+Ava was ridiculed by Mia.	Ava was ridiculed.	e
+Ava was ridiculed by Mia.	Mia was ridiculed.	nc
+Mia ridiculed Ava.	Ava was ridiculed.	e
+Mia ridiculed Ava.	Mia was ridiculed.	nc
+Isabella was ridiculed by Mia.	Isabella was ridiculed.	e
+Isabella was ridiculed by Mia.	Mia was ridiculed.	nc
+Mia ridiculed Isabella.	Isabella was ridiculed.	e
+Mia ridiculed Isabella.	Mia was ridiculed.	nc
+Sophia was ridiculed by Mia.	Sophia was ridiculed.	e
+Sophia was ridiculed by Mia.	Mia was ridiculed.	nc
+Mia ridiculed Sophia.	Sophia was ridiculed.	e
+Mia ridiculed Sophia.	Mia was ridiculed.	nc
+Charlotte was ridiculed by Mia.	Charlotte was ridiculed.	e
+Charlotte was ridiculed by Mia.	Mia was ridiculed.	nc
+Mia ridiculed Charlotte.	Charlotte was ridiculed.	e
+Mia ridiculed Charlotte.	Mia was ridiculed.	nc
+James was ridiculed by Charlotte.	James was ridiculed.	e
+James was ridiculed by Charlotte.	Charlotte was ridiculed.	nc
+Charlotte ridiculed James.	James was ridiculed.	e
+Charlotte ridiculed James.	Charlotte was ridiculed.	nc
+Olivia was ridiculed by Charlotte.	Olivia was ridiculed.	e
+Olivia was ridiculed by Charlotte.	Charlotte was ridiculed.	nc
+Charlotte ridiculed Olivia.	Olivia was ridiculed.	e
+Charlotte ridiculed Olivia.	Charlotte was ridiculed.	nc
+Liam was ridiculed by Charlotte.	Liam was ridiculed.	e
+Liam was ridiculed by Charlotte.	Charlotte was ridiculed.	nc
+Charlotte ridiculed Liam.	Liam was ridiculed.	e
+Charlotte ridiculed Liam.	Charlotte was ridiculed.	nc
+Emma was ridiculed by Charlotte.	Emma was ridiculed.	e
+Emma was ridiculed by Charlotte.	Charlotte was ridiculed.	nc
+Charlotte ridiculed Emma.	Emma was ridiculed.	e
+Charlotte ridiculed Emma.	Charlotte was ridiculed.	nc
+Noah was ridiculed by Charlotte.	Noah was ridiculed.	e
+Noah was ridiculed by Charlotte.	Charlotte was ridiculed.	nc
+Charlotte ridiculed Noah.	Noah was ridiculed.	e
+Charlotte ridiculed Noah.	Charlotte was ridiculed.	nc
+Ava was ridiculed by Charlotte.	Ava was ridiculed.	e
+Ava was ridiculed by Charlotte.	Charlotte was ridiculed.	nc
+Charlotte ridiculed Ava.	Ava was ridiculed.	e
+Charlotte ridiculed Ava.	Charlotte was ridiculed.	nc
+Isabella was ridiculed by Charlotte.	Isabella was ridiculed.	e
+Isabella was ridiculed by Charlotte.	Charlotte was ridiculed.	nc
+Charlotte ridiculed Isabella.	Isabella was ridiculed.	e
+Charlotte ridiculed Isabella.	Charlotte was ridiculed.	nc
+Sophia was ridiculed by Charlotte.	Sophia was ridiculed.	e
+Sophia was ridiculed by Charlotte.	Charlotte was ridiculed.	nc
+Charlotte ridiculed Sophia.	Sophia was ridiculed.	e
+Charlotte ridiculed Sophia.	Charlotte was ridiculed.	nc
+Mia was ridiculed by Charlotte.	Mia was ridiculed.	e
+Mia was ridiculed by Charlotte.	Charlotte was ridiculed.	nc
+Charlotte ridiculed Mia.	Mia was ridiculed.	e
+Charlotte ridiculed Mia.	Charlotte was ridiculed.	nc

@@ -1,0 +1,780 @@
+All of the kids played with James.	Some of the kids played with James.	e
+All of the kids played with James.	None of the kids played with James.	nc
+Most of the kids played with James.	Some of the kids played with James.	e
+Most of the kids played with James.	None of the kids played with James.	nc
+Many of the kids played with James.	Some of the kids played with James.	e
+Many of the kids played with James.	None of the kids played with James.	nc
+All of the kids played with Olivia.	Some of the kids played with Olivia.	e
+All of the kids played with Olivia.	None of the kids played with Olivia.	nc
+Most of the kids played with Olivia.	Some of the kids played with Olivia.	e
+Most of the kids played with Olivia.	None of the kids played with Olivia.	nc
+Many of the kids played with Olivia.	Some of the kids played with Olivia.	e
+Many of the kids played with Olivia.	None of the kids played with Olivia.	nc
+All of the kids played with Liam.	Some of the kids played with Liam.	e
+All of the kids played with Liam.	None of the kids played with Liam.	nc
+Most of the kids played with Liam.	Some of the kids played with Liam.	e
+Most of the kids played with Liam.	None of the kids played with Liam.	nc
+Many of the kids played with Liam.	Some of the kids played with Liam.	e
+Many of the kids played with Liam.	None of the kids played with Liam.	nc
+All of the kids played with Emma.	Some of the kids played with Emma.	e
+All of the kids played with Emma.	None of the kids played with Emma.	nc
+Most of the kids played with Emma.	Some of the kids played with Emma.	e
+Most of the kids played with Emma.	None of the kids played with Emma.	nc
+Many of the kids played with Emma.	Some of the kids played with Emma.	e
+Many of the kids played with Emma.	None of the kids played with Emma.	nc
+All of the kids played with Noah.	Some of the kids played with Noah.	e
+All of the kids played with Noah.	None of the kids played with Noah.	nc
+Most of the kids played with Noah.	Some of the kids played with Noah.	e
+Most of the kids played with Noah.	None of the kids played with Noah.	nc
+Many of the kids played with Noah.	Some of the kids played with Noah.	e
+Many of the kids played with Noah.	None of the kids played with Noah.	nc
+All of the kids played with Ava.	Some of the kids played with Ava.	e
+All of the kids played with Ava.	None of the kids played with Ava.	nc
+Most of the kids played with Ava.	Some of the kids played with Ava.	e
+Most of the kids played with Ava.	None of the kids played with Ava.	nc
+Many of the kids played with Ava.	Some of the kids played with Ava.	e
+Many of the kids played with Ava.	None of the kids played with Ava.	nc
+All of the kids played with Isabella.	Some of the kids played with Isabella.	e
+All of the kids played with Isabella.	None of the kids played with Isabella.	nc
+Most of the kids played with Isabella.	Some of the kids played with Isabella.	e
+Most of the kids played with Isabella.	None of the kids played with Isabella.	nc
+Many of the kids played with Isabella.	Some of the kids played with Isabella.	e
+Many of the kids played with Isabella.	None of the kids played with Isabella.	nc
+All of the kids played with Sophia.	Some of the kids played with Sophia.	e
+All of the kids played with Sophia.	None of the kids played with Sophia.	nc
+Most of the kids played with Sophia.	Some of the kids played with Sophia.	e
+Most of the kids played with Sophia.	None of the kids played with Sophia.	nc
+Many of the kids played with Sophia.	Some of the kids played with Sophia.	e
+Many of the kids played with Sophia.	None of the kids played with Sophia.	nc
+All of the kids played with Mia.	Some of the kids played with Mia.	e
+All of the kids played with Mia.	None of the kids played with Mia.	nc
+Most of the kids played with Mia.	Some of the kids played with Mia.	e
+Most of the kids played with Mia.	None of the kids played with Mia.	nc
+Many of the kids played with Mia.	Some of the kids played with Mia.	e
+Many of the kids played with Mia.	None of the kids played with Mia.	nc
+All of the kids played with Charlotte.	Some of the kids played with Charlotte.	e
+All of the kids played with Charlotte.	None of the kids played with Charlotte.	nc
+Most of the kids played with Charlotte.	Some of the kids played with Charlotte.	e
+Most of the kids played with Charlotte.	None of the kids played with Charlotte.	nc
+Many of the kids played with Charlotte.	Some of the kids played with Charlotte.	e
+Many of the kids played with Charlotte.	None of the kids played with Charlotte.	nc
+All of the dogs barked at James.	Some of the dogs barked at James.	e
+All of the dogs barked at James.	None of the dogs barked at James.	nc
+Most of the dogs barked at James.	Some of the dogs barked at James.	e
+Most of the dogs barked at James.	None of the dogs barked at James.	nc
+Many of the dogs barked at James.	Some of the dogs barked at James.	e
+Many of the dogs barked at James.	None of the dogs barked at James.	nc
+All of the dogs barked at Olivia.	Some of the dogs barked at Olivia.	e
+All of the dogs barked at Olivia.	None of the dogs barked at Olivia.	nc
+Most of the dogs barked at Olivia.	Some of the dogs barked at Olivia.	e
+Most of the dogs barked at Olivia.	None of the dogs barked at Olivia.	nc
+Many of the dogs barked at Olivia.	Some of the dogs barked at Olivia.	e
+Many of the dogs barked at Olivia.	None of the dogs barked at Olivia.	nc
+All of the dogs barked at Liam.	Some of the dogs barked at Liam.	e
+All of the dogs barked at Liam.	None of the dogs barked at Liam.	nc
+Most of the dogs barked at Liam.	Some of the dogs barked at Liam.	e
+Most of the dogs barked at Liam.	None of the dogs barked at Liam.	nc
+Many of the dogs barked at Liam.	Some of the dogs barked at Liam.	e
+Many of the dogs barked at Liam.	None of the dogs barked at Liam.	nc
+All of the dogs barked at Emma.	Some of the dogs barked at Emma.	e
+All of the dogs barked at Emma.	None of the dogs barked at Emma.	nc
+Most of the dogs barked at Emma.	Some of the dogs barked at Emma.	e
+Most of the dogs barked at Emma.	None of the dogs barked at Emma.	nc
+Many of the dogs barked at Emma.	Some of the dogs barked at Emma.	e
+Many of the dogs barked at Emma.	None of the dogs barked at Emma.	nc
+All of the dogs barked at Noah.	Some of the dogs barked at Noah.	e
+All of the dogs barked at Noah.	None of the dogs barked at Noah.	nc
+Most of the dogs barked at Noah.	Some of the dogs barked at Noah.	e
+Most of the dogs barked at Noah.	None of the dogs barked at Noah.	nc
+Many of the dogs barked at Noah.	Some of the dogs barked at Noah.	e
+Many of the dogs barked at Noah.	None of the dogs barked at Noah.	nc
+All of the dogs barked at Ava.	Some of the dogs barked at Ava.	e
+All of the dogs barked at Ava.	None of the dogs barked at Ava.	nc
+Most of the dogs barked at Ava.	Some of the dogs barked at Ava.	e
+Most of the dogs barked at Ava.	None of the dogs barked at Ava.	nc
+Many of the dogs barked at Ava.	Some of the dogs barked at Ava.	e
+Many of the dogs barked at Ava.	None of the dogs barked at Ava.	nc
+All of the dogs barked at Isabella.	Some of the dogs barked at Isabella.	e
+All of the dogs barked at Isabella.	None of the dogs barked at Isabella.	nc
+Most of the dogs barked at Isabella.	Some of the dogs barked at Isabella.	e
+Most of the dogs barked at Isabella.	None of the dogs barked at Isabella.	nc
+Many of the dogs barked at Isabella.	Some of the dogs barked at Isabella.	e
+Many of the dogs barked at Isabella.	None of the dogs barked at Isabella.	nc
+All of the dogs barked at Sophia.	Some of the dogs barked at Sophia.	e
+All of the dogs barked at Sophia.	None of the dogs barked at Sophia.	nc
+Most of the dogs barked at Sophia.	Some of the dogs barked at Sophia.	e
+Most of the dogs barked at Sophia.	None of the dogs barked at Sophia.	nc
+Many of the dogs barked at Sophia.	Some of the dogs barked at Sophia.	e
+Many of the dogs barked at Sophia.	None of the dogs barked at Sophia.	nc
+All of the dogs barked at Mia.	Some of the dogs barked at Mia.	e
+All of the dogs barked at Mia.	None of the dogs barked at Mia.	nc
+Most of the dogs barked at Mia.	Some of the dogs barked at Mia.	e
+Most of the dogs barked at Mia.	None of the dogs barked at Mia.	nc
+Many of the dogs barked at Mia.	Some of the dogs barked at Mia.	e
+Many of the dogs barked at Mia.	None of the dogs barked at Mia.	nc
+All of the dogs barked at Charlotte.	Some of the dogs barked at Charlotte.	e
+All of the dogs barked at Charlotte.	None of the dogs barked at Charlotte.	nc
+Most of the dogs barked at Charlotte.	Some of the dogs barked at Charlotte.	e
+Most of the dogs barked at Charlotte.	None of the dogs barked at Charlotte.	nc
+Many of the dogs barked at Charlotte.	Some of the dogs barked at Charlotte.	e
+Many of the dogs barked at Charlotte.	None of the dogs barked at Charlotte.	nc
+All of the skis were bent by James.	Some of the skis were bent by James.	e
+All of the skis were bent by James.	None of the skis were bent by James.	nc
+Most of the skis were bent by James.	Some of the skis were bent by James.	e
+Most of the skis were bent by James.	None of the skis were bent by James.	nc
+Many of the skis were bent by James.	Some of the skis were bent by James.	e
+Many of the skis were bent by James.	None of the skis were bent by James.	nc
+All of the skis were bent by Olivia.	Some of the skis were bent by Olivia.	e
+All of the skis were bent by Olivia.	None of the skis were bent by Olivia.	nc
+Most of the skis were bent by Olivia.	Some of the skis were bent by Olivia.	e
+Most of the skis were bent by Olivia.	None of the skis were bent by Olivia.	nc
+Many of the skis were bent by Olivia.	Some of the skis were bent by Olivia.	e
+Many of the skis were bent by Olivia.	None of the skis were bent by Olivia.	nc
+All of the skis were bent by Liam.	Some of the skis were bent by Liam.	e
+All of the skis were bent by Liam.	None of the skis were bent by Liam.	nc
+Most of the skis were bent by Liam.	Some of the skis were bent by Liam.	e
+Most of the skis were bent by Liam.	None of the skis were bent by Liam.	nc
+Many of the skis were bent by Liam.	Some of the skis were bent by Liam.	e
+Many of the skis were bent by Liam.	None of the skis were bent by Liam.	nc
+All of the skis were bent by Emma.	Some of the skis were bent by Emma.	e
+All of the skis were bent by Emma.	None of the skis were bent by Emma.	nc
+Most of the skis were bent by Emma.	Some of the skis were bent by Emma.	e
+Most of the skis were bent by Emma.	None of the skis were bent by Emma.	nc
+Many of the skis were bent by Emma.	Some of the skis were bent by Emma.	e
+Many of the skis were bent by Emma.	None of the skis were bent by Emma.	nc
+All of the skis were bent by Noah.	Some of the skis were bent by Noah.	e
+All of the skis were bent by Noah.	None of the skis were bent by Noah.	nc
+Most of the skis were bent by Noah.	Some of the skis were bent by Noah.	e
+Most of the skis were bent by Noah.	None of the skis were bent by Noah.	nc
+Many of the skis were bent by Noah.	Some of the skis were bent by Noah.	e
+Many of the skis were bent by Noah.	None of the skis were bent by Noah.	nc
+All of the skis were bent by Ava.	Some of the skis were bent by Ava.	e
+All of the skis were bent by Ava.	None of the skis were bent by Ava.	nc
+Most of the skis were bent by Ava.	Some of the skis were bent by Ava.	e
+Most of the skis were bent by Ava.	None of the skis were bent by Ava.	nc
+Many of the skis were bent by Ava.	Some of the skis were bent by Ava.	e
+Many of the skis were bent by Ava.	None of the skis were bent by Ava.	nc
+All of the skis were bent by Isabella.	Some of the skis were bent by Isabella.	e
+All of the skis were bent by Isabella.	None of the skis were bent by Isabella.	nc
+Most of the skis were bent by Isabella.	Some of the skis were bent by Isabella.	e
+Most of the skis were bent by Isabella.	None of the skis were bent by Isabella.	nc
+Many of the skis were bent by Isabella.	Some of the skis were bent by Isabella.	e
+Many of the skis were bent by Isabella.	None of the skis were bent by Isabella.	nc
+All of the skis were bent by Sophia.	Some of the skis were bent by Sophia.	e
+All of the skis were bent by Sophia.	None of the skis were bent by Sophia.	nc
+Most of the skis were bent by Sophia.	Some of the skis were bent by Sophia.	e
+Most of the skis were bent by Sophia.	None of the skis were bent by Sophia.	nc
+Many of the skis were bent by Sophia.	Some of the skis were bent by Sophia.	e
+Many of the skis were bent by Sophia.	None of the skis were bent by Sophia.	nc
+All of the skis were bent by Mia.	Some of the skis were bent by Mia.	e
+All of the skis were bent by Mia.	None of the skis were bent by Mia.	nc
+Most of the skis were bent by Mia.	Some of the skis were bent by Mia.	e
+Most of the skis were bent by Mia.	None of the skis were bent by Mia.	nc
+Many of the skis were bent by Mia.	Some of the skis were bent by Mia.	e
+Many of the skis were bent by Mia.	None of the skis were bent by Mia.	nc
+All of the skis were bent by Charlotte.	Some of the skis were bent by Charlotte.	e
+All of the skis were bent by Charlotte.	None of the skis were bent by Charlotte.	nc
+Most of the skis were bent by Charlotte.	Some of the skis were bent by Charlotte.	e
+Most of the skis were bent by Charlotte.	None of the skis were bent by Charlotte.	nc
+Many of the skis were bent by Charlotte.	Some of the skis were bent by Charlotte.	e
+Many of the skis were bent by Charlotte.	None of the skis were bent by Charlotte.	nc
+All of the stones are older than James.	Some of the stones are older than James.	e
+All of the stones are older than James.	None of the stones are older than James.	nc
+Most of the stones are older than James.	Some of the stones are older than James.	e
+Most of the stones are older than James.	None of the stones are older than James.	nc
+Many of the stones are older than James.	Some of the stones are older than James.	e
+Many of the stones are older than James.	None of the stones are older than James.	nc
+All of the stones are older than Olivia.	Some of the stones are older than Olivia.	e
+All of the stones are older than Olivia.	None of the stones are older than Olivia.	nc
+Most of the stones are older than Olivia.	Some of the stones are older than Olivia.	e
+Most of the stones are older than Olivia.	None of the stones are older than Olivia.	nc
+Many of the stones are older than Olivia.	Some of the stones are older than Olivia.	e
+Many of the stones are older than Olivia.	None of the stones are older than Olivia.	nc
+All of the stones are older than Liam.	Some of the stones are older than Liam.	e
+All of the stones are older than Liam.	None of the stones are older than Liam.	nc
+Most of the stones are older than Liam.	Some of the stones are older than Liam.	e
+Most of the stones are older than Liam.	None of the stones are older than Liam.	nc
+Many of the stones are older than Liam.	Some of the stones are older than Liam.	e
+Many of the stones are older than Liam.	None of the stones are older than Liam.	nc
+All of the stones are older than Emma.	Some of the stones are older than Emma.	e
+All of the stones are older than Emma.	None of the stones are older than Emma.	nc
+Most of the stones are older than Emma.	Some of the stones are older than Emma.	e
+Most of the stones are older than Emma.	None of the stones are older than Emma.	nc
+Many of the stones are older than Emma.	Some of the stones are older than Emma.	e
+Many of the stones are older than Emma.	None of the stones are older than Emma.	nc
+All of the stones are older than Noah.	Some of the stones are older than Noah.	e
+All of the stones are older than Noah.	None of the stones are older than Noah.	nc
+Most of the stones are older than Noah.	Some of the stones are older than Noah.	e
+Most of the stones are older than Noah.	None of the stones are older than Noah.	nc
+Many of the stones are older than Noah.	Some of the stones are older than Noah.	e
+Many of the stones are older than Noah.	None of the stones are older than Noah.	nc
+All of the stones are older than Ava.	Some of the stones are older than Ava.	e
+All of the stones are older than Ava.	None of the stones are older than Ava.	nc
+Most of the stones are older than Ava.	Some of the stones are older than Ava.	e
+Most of the stones are older than Ava.	None of the stones are older than Ava.	nc
+Many of the stones are older than Ava.	Some of the stones are older than Ava.	e
+Many of the stones are older than Ava.	None of the stones are older than Ava.	nc
+All of the stones are older than Isabella.	Some of the stones are older than Isabella.	e
+All of the stones are older than Isabella.	None of the stones are older than Isabella.	nc
+Most of the stones are older than Isabella.	Some of the stones are older than Isabella.	e
+Most of the stones are older than Isabella.	None of the stones are older than Isabella.	nc
+Many of the stones are older than Isabella.	Some of the stones are older than Isabella.	e
+Many of the stones are older than Isabella.	None of the stones are older than Isabella.	nc
+All of the stones are older than Sophia.	Some of the stones are older than Sophia.	e
+All of the stones are older than Sophia.	None of the stones are older than Sophia.	nc
+Most of the stones are older than Sophia.	Some of the stones are older than Sophia.	e
+Most of the stones are older than Sophia.	None of the stones are older than Sophia.	nc
+Many of the stones are older than Sophia.	Some of the stones are older than Sophia.	e
+Many of the stones are older than Sophia.	None of the stones are older than Sophia.	nc
+All of the stones are older than Mia.	Some of the stones are older than Mia.	e
+All of the stones are older than Mia.	None of the stones are older than Mia.	nc
+Most of the stones are older than Mia.	Some of the stones are older than Mia.	e
+Most of the stones are older than Mia.	None of the stones are older than Mia.	nc
+Many of the stones are older than Mia.	Some of the stones are older than Mia.	e
+Many of the stones are older than Mia.	None of the stones are older than Mia.	nc
+All of the stones are older than Charlotte.	Some of the stones are older than Charlotte.	e
+All of the stones are older than Charlotte.	None of the stones are older than Charlotte.	nc
+Most of the stones are older than Charlotte.	Some of the stones are older than Charlotte.	e
+Most of the stones are older than Charlotte.	None of the stones are older than Charlotte.	nc
+Many of the stones are older than Charlotte.	Some of the stones are older than Charlotte.	e
+Many of the stones are older than Charlotte.	None of the stones are older than Charlotte.	nc
+All of the doors are open for James.	Some of the doors are open for James.	e
+All of the doors are open for James.	None of the doors are open for James.	nc
+Most of the doors are open for James.	Some of the doors are open for James.	e
+Most of the doors are open for James.	None of the doors are open for James.	nc
+Many of the doors are open for James.	Some of the doors are open for James.	e
+Many of the doors are open for James.	None of the doors are open for James.	nc
+All of the doors are open for Olivia.	Some of the doors are open for Olivia.	e
+All of the doors are open for Olivia.	None of the doors are open for Olivia.	nc
+Most of the doors are open for Olivia.	Some of the doors are open for Olivia.	e
+Most of the doors are open for Olivia.	None of the doors are open for Olivia.	nc
+Many of the doors are open for Olivia.	Some of the doors are open for Olivia.	e
+Many of the doors are open for Olivia.	None of the doors are open for Olivia.	nc
+All of the doors are open for Liam.	Some of the doors are open for Liam.	e
+All of the doors are open for Liam.	None of the doors are open for Liam.	nc
+Most of the doors are open for Liam.	Some of the doors are open for Liam.	e
+Most of the doors are open for Liam.	None of the doors are open for Liam.	nc
+Many of the doors are open for Liam.	Some of the doors are open for Liam.	e
+Many of the doors are open for Liam.	None of the doors are open for Liam.	nc
+All of the doors are open for Emma.	Some of the doors are open for Emma.	e
+All of the doors are open for Emma.	None of the doors are open for Emma.	nc
+Most of the doors are open for Emma.	Some of the doors are open for Emma.	e
+Most of the doors are open for Emma.	None of the doors are open for Emma.	nc
+Many of the doors are open for Emma.	Some of the doors are open for Emma.	e
+Many of the doors are open for Emma.	None of the doors are open for Emma.	nc
+All of the doors are open for Noah.	Some of the doors are open for Noah.	e
+All of the doors are open for Noah.	None of the doors are open for Noah.	nc
+Most of the doors are open for Noah.	Some of the doors are open for Noah.	e
+Most of the doors are open for Noah.	None of the doors are open for Noah.	nc
+Many of the doors are open for Noah.	Some of the doors are open for Noah.	e
+Many of the doors are open for Noah.	None of the doors are open for Noah.	nc
+All of the doors are open for Ava.	Some of the doors are open for Ava.	e
+All of the doors are open for Ava.	None of the doors are open for Ava.	nc
+Most of the doors are open for Ava.	Some of the doors are open for Ava.	e
+Most of the doors are open for Ava.	None of the doors are open for Ava.	nc
+Many of the doors are open for Ava.	Some of the doors are open for Ava.	e
+Many of the doors are open for Ava.	None of the doors are open for Ava.	nc
+All of the doors are open for Isabella.	Some of the doors are open for Isabella.	e
+All of the doors are open for Isabella.	None of the doors are open for Isabella.	nc
+Most of the doors are open for Isabella.	Some of the doors are open for Isabella.	e
+Most of the doors are open for Isabella.	None of the doors are open for Isabella.	nc
+Many of the doors are open for Isabella.	Some of the doors are open for Isabella.	e
+Many of the doors are open for Isabella.	None of the doors are open for Isabella.	nc
+All of the doors are open for Sophia.	Some of the doors are open for Sophia.	e
+All of the doors are open for Sophia.	None of the doors are open for Sophia.	nc
+Most of the doors are open for Sophia.	Some of the doors are open for Sophia.	e
+Most of the doors are open for Sophia.	None of the doors are open for Sophia.	nc
+Many of the doors are open for Sophia.	Some of the doors are open for Sophia.	e
+Many of the doors are open for Sophia.	None of the doors are open for Sophia.	nc
+All of the doors are open for Mia.	Some of the doors are open for Mia.	e
+All of the doors are open for Mia.	None of the doors are open for Mia.	nc
+Most of the doors are open for Mia.	Some of the doors are open for Mia.	e
+Most of the doors are open for Mia.	None of the doors are open for Mia.	nc
+Many of the doors are open for Mia.	Some of the doors are open for Mia.	e
+Many of the doors are open for Mia.	None of the doors are open for Mia.	nc
+All of the doors are open for Charlotte.	Some of the doors are open for Charlotte.	e
+All of the doors are open for Charlotte.	None of the doors are open for Charlotte.	nc
+Most of the doors are open for Charlotte.	Some of the doors are open for Charlotte.	e
+Most of the doors are open for Charlotte.	None of the doors are open for Charlotte.	nc
+Many of the doors are open for Charlotte.	Some of the doors are open for Charlotte.	e
+Many of the doors are open for Charlotte.	None of the doors are open for Charlotte.	nc
+All of James's neighbors are friendly.	Some of James's neighbors are friendly.	e
+All of James's neighbors are friendly.	None of James's neighbors are friendly.	nc
+Most of James's neighbors are friendly.	Some of James's neighbors are friendly.	e
+Most of James's neighbors are friendly.	None of James's neighbors are friendly.	nc
+Many of James's neighbors are friendly.	Some of James's neighbors are friendly.	e
+Many of James's neighbors are friendly.	None of James's neighbors are friendly.	nc
+All of Olivia's neighbors are friendly.	Some of Olivia's neighbors are friendly.	e
+All of Olivia's neighbors are friendly.	None of Olivia's neighbors are friendly.	nc
+Most of Olivia's neighbors are friendly.	Some of Olivia's neighbors are friendly.	e
+Most of Olivia's neighbors are friendly.	None of Olivia's neighbors are friendly.	nc
+Many of Olivia's neighbors are friendly.	Some of Olivia's neighbors are friendly.	e
+Many of Olivia's neighbors are friendly.	None of Olivia's neighbors are friendly.	nc
+All of Liam's neighbors are friendly.	Some of Liam's neighbors are friendly.	e
+All of Liam's neighbors are friendly.	None of Liam's neighbors are friendly.	nc
+Most of Liam's neighbors are friendly.	Some of Liam's neighbors are friendly.	e
+Most of Liam's neighbors are friendly.	None of Liam's neighbors are friendly.	nc
+Many of Liam's neighbors are friendly.	Some of Liam's neighbors are friendly.	e
+Many of Liam's neighbors are friendly.	None of Liam's neighbors are friendly.	nc
+All of Emma's neighbors are friendly.	Some of Emma's neighbors are friendly.	e
+All of Emma's neighbors are friendly.	None of Emma's neighbors are friendly.	nc
+Most of Emma's neighbors are friendly.	Some of Emma's neighbors are friendly.	e
+Most of Emma's neighbors are friendly.	None of Emma's neighbors are friendly.	nc
+Many of Emma's neighbors are friendly.	Some of Emma's neighbors are friendly.	e
+Many of Emma's neighbors are friendly.	None of Emma's neighbors are friendly.	nc
+All of Noah's neighbors are friendly.	Some of Noah's neighbors are friendly.	e
+All of Noah's neighbors are friendly.	None of Noah's neighbors are friendly.	nc
+Most of Noah's neighbors are friendly.	Some of Noah's neighbors are friendly.	e
+Most of Noah's neighbors are friendly.	None of Noah's neighbors are friendly.	nc
+Many of Noah's neighbors are friendly.	Some of Noah's neighbors are friendly.	e
+Many of Noah's neighbors are friendly.	None of Noah's neighbors are friendly.	nc
+All of Ava's neighbors are friendly.	Some of Ava's neighbors are friendly.	e
+All of Ava's neighbors are friendly.	None of Ava's neighbors are friendly.	nc
+Most of Ava's neighbors are friendly.	Some of Ava's neighbors are friendly.	e
+Most of Ava's neighbors are friendly.	None of Ava's neighbors are friendly.	nc
+Many of Ava's neighbors are friendly.	Some of Ava's neighbors are friendly.	e
+Many of Ava's neighbors are friendly.	None of Ava's neighbors are friendly.	nc
+All of Isabella's neighbors are friendly.	Some of Isabella's neighbors are friendly.	e
+All of Isabella's neighbors are friendly.	None of Isabella's neighbors are friendly.	nc
+Most of Isabella's neighbors are friendly.	Some of Isabella's neighbors are friendly.	e
+Most of Isabella's neighbors are friendly.	None of Isabella's neighbors are friendly.	nc
+Many of Isabella's neighbors are friendly.	Some of Isabella's neighbors are friendly.	e
+Many of Isabella's neighbors are friendly.	None of Isabella's neighbors are friendly.	nc
+All of Sophia's neighbors are friendly.	Some of Sophia's neighbors are friendly.	e
+All of Sophia's neighbors are friendly.	None of Sophia's neighbors are friendly.	nc
+Most of Sophia's neighbors are friendly.	Some of Sophia's neighbors are friendly.	e
+Most of Sophia's neighbors are friendly.	None of Sophia's neighbors are friendly.	nc
+Many of Sophia's neighbors are friendly.	Some of Sophia's neighbors are friendly.	e
+Many of Sophia's neighbors are friendly.	None of Sophia's neighbors are friendly.	nc
+All of Mia's neighbors are friendly.	Some of Mia's neighbors are friendly.	e
+All of Mia's neighbors are friendly.	None of Mia's neighbors are friendly.	nc
+Most of Mia's neighbors are friendly.	Some of Mia's neighbors are friendly.	e
+Most of Mia's neighbors are friendly.	None of Mia's neighbors are friendly.	nc
+Many of Mia's neighbors are friendly.	Some of Mia's neighbors are friendly.	e
+Many of Mia's neighbors are friendly.	None of Mia's neighbors are friendly.	nc
+All of Charlotte's neighbors are friendly.	Some of Charlotte's neighbors are friendly.	e
+All of Charlotte's neighbors are friendly.	None of Charlotte's neighbors are friendly.	nc
+Most of Charlotte's neighbors are friendly.	Some of Charlotte's neighbors are friendly.	e
+Most of Charlotte's neighbors are friendly.	None of Charlotte's neighbors are friendly.	nc
+Many of Charlotte's neighbors are friendly.	Some of Charlotte's neighbors are friendly.	e
+Many of Charlotte's neighbors are friendly.	None of Charlotte's neighbors are friendly.	nc
+All of James's friends are tall.	Some of James's friends are tall.	e
+All of James's friends are tall.	None of James's friends are tall.	nc
+Most of James's friends are tall.	Some of James's friends are tall.	e
+Most of James's friends are tall.	None of James's friends are tall.	nc
+Many of James's friends are tall.	Some of James's friends are tall.	e
+Many of James's friends are tall.	None of James's friends are tall.	nc
+All of Olivia's friends are tall.	Some of Olivia's friends are tall.	e
+All of Olivia's friends are tall.	None of Olivia's friends are tall.	nc
+Most of Olivia's friends are tall.	Some of Olivia's friends are tall.	e
+Most of Olivia's friends are tall.	None of Olivia's friends are tall.	nc
+Many of Olivia's friends are tall.	Some of Olivia's friends are tall.	e
+Many of Olivia's friends are tall.	None of Olivia's friends are tall.	nc
+All of Liam's friends are tall.	Some of Liam's friends are tall.	e
+All of Liam's friends are tall.	None of Liam's friends are tall.	nc
+Most of Liam's friends are tall.	Some of Liam's friends are tall.	e
+Most of Liam's friends are tall.	None of Liam's friends are tall.	nc
+Many of Liam's friends are tall.	Some of Liam's friends are tall.	e
+Many of Liam's friends are tall.	None of Liam's friends are tall.	nc
+All of Emma's friends are tall.	Some of Emma's friends are tall.	e
+All of Emma's friends are tall.	None of Emma's friends are tall.	nc
+Most of Emma's friends are tall.	Some of Emma's friends are tall.	e
+Most of Emma's friends are tall.	None of Emma's friends are tall.	nc
+Many of Emma's friends are tall.	Some of Emma's friends are tall.	e
+Many of Emma's friends are tall.	None of Emma's friends are tall.	nc
+All of Noah's friends are tall.	Some of Noah's friends are tall.	e
+All of Noah's friends are tall.	None of Noah's friends are tall.	nc
+Most of Noah's friends are tall.	Some of Noah's friends are tall.	e
+Most of Noah's friends are tall.	None of Noah's friends are tall.	nc
+Many of Noah's friends are tall.	Some of Noah's friends are tall.	e
+Many of Noah's friends are tall.	None of Noah's friends are tall.	nc
+All of Ava's friends are tall.	Some of Ava's friends are tall.	e
+All of Ava's friends are tall.	None of Ava's friends are tall.	nc
+Most of Ava's friends are tall.	Some of Ava's friends are tall.	e
+Most of Ava's friends are tall.	None of Ava's friends are tall.	nc
+Many of Ava's friends are tall.	Some of Ava's friends are tall.	e
+Many of Ava's friends are tall.	None of Ava's friends are tall.	nc
+All of Isabella's friends are tall.	Some of Isabella's friends are tall.	e
+All of Isabella's friends are tall.	None of Isabella's friends are tall.	nc
+Most of Isabella's friends are tall.	Some of Isabella's friends are tall.	e
+Most of Isabella's friends are tall.	None of Isabella's friends are tall.	nc
+Many of Isabella's friends are tall.	Some of Isabella's friends are tall.	e
+Many of Isabella's friends are tall.	None of Isabella's friends are tall.	nc
+All of Sophia's friends are tall.	Some of Sophia's friends are tall.	e
+All of Sophia's friends are tall.	None of Sophia's friends are tall.	nc
+Most of Sophia's friends are tall.	Some of Sophia's friends are tall.	e
+Most of Sophia's friends are tall.	None of Sophia's friends are tall.	nc
+Many of Sophia's friends are tall.	Some of Sophia's friends are tall.	e
+Many of Sophia's friends are tall.	None of Sophia's friends are tall.	nc
+All of Mia's friends are tall.	Some of Mia's friends are tall.	e
+All of Mia's friends are tall.	None of Mia's friends are tall.	nc
+Most of Mia's friends are tall.	Some of Mia's friends are tall.	e
+Most of Mia's friends are tall.	None of Mia's friends are tall.	nc
+Many of Mia's friends are tall.	Some of Mia's friends are tall.	e
+Many of Mia's friends are tall.	None of Mia's friends are tall.	nc
+All of Charlotte's friends are tall.	Some of Charlotte's friends are tall.	e
+All of Charlotte's friends are tall.	None of Charlotte's friends are tall.	nc
+Most of Charlotte's friends are tall.	Some of Charlotte's friends are tall.	e
+Most of Charlotte's friends are tall.	None of Charlotte's friends are tall.	nc
+Many of Charlotte's friends are tall.	Some of Charlotte's friends are tall.	e
+Many of Charlotte's friends are tall.	None of Charlotte's friends are tall.	nc
+All of their houses are bigger than James's.	Some of their houses are bigger than James's.	e
+All of their houses are bigger than James's.	None of their houses are bigger than James's.	nc
+Most of their houses are bigger than James's.	Some of their houses are bigger than James's.	e
+Most of their houses are bigger than James's.	None of their houses are bigger than James's.	nc
+Many of their houses are bigger than James's.	Some of their houses are bigger than James's.	e
+Many of their houses are bigger than James's.	None of their houses are bigger than James's.	nc
+All of their houses are bigger than Olivia's.	Some of their houses are bigger than Olivia's.	e
+All of their houses are bigger than Olivia's.	None of their houses are bigger than Olivia's.	nc
+Most of their houses are bigger than Olivia's.	Some of their houses are bigger than Olivia's.	e
+Most of their houses are bigger than Olivia's.	None of their houses are bigger than Olivia's.	nc
+Many of their houses are bigger than Olivia's.	Some of their houses are bigger than Olivia's.	e
+Many of their houses are bigger than Olivia's.	None of their houses are bigger than Olivia's.	nc
+All of their houses are bigger than Liam's.	Some of their houses are bigger than Liam's.	e
+All of their houses are bigger than Liam's.	None of their houses are bigger than Liam's.	nc
+Most of their houses are bigger than Liam's.	Some of their houses are bigger than Liam's.	e
+Most of their houses are bigger than Liam's.	None of their houses are bigger than Liam's.	nc
+Many of their houses are bigger than Liam's.	Some of their houses are bigger than Liam's.	e
+Many of their houses are bigger than Liam's.	None of their houses are bigger than Liam's.	nc
+All of their houses are bigger than Emma's.	Some of their houses are bigger than Emma's.	e
+All of their houses are bigger than Emma's.	None of their houses are bigger than Emma's.	nc
+Most of their houses are bigger than Emma's.	Some of their houses are bigger than Emma's.	e
+Most of their houses are bigger than Emma's.	None of their houses are bigger than Emma's.	nc
+Many of their houses are bigger than Emma's.	Some of their houses are bigger than Emma's.	e
+Many of their houses are bigger than Emma's.	None of their houses are bigger than Emma's.	nc
+All of their houses are bigger than Noah's.	Some of their houses are bigger than Noah's.	e
+All of their houses are bigger than Noah's.	None of their houses are bigger than Noah's.	nc
+Most of their houses are bigger than Noah's.	Some of their houses are bigger than Noah's.	e
+Most of their houses are bigger than Noah's.	None of their houses are bigger than Noah's.	nc
+Many of their houses are bigger than Noah's.	Some of their houses are bigger than Noah's.	e
+Many of their houses are bigger than Noah's.	None of their houses are bigger than Noah's.	nc
+All of their houses are bigger than Ava's.	Some of their houses are bigger than Ava's.	e
+All of their houses are bigger than Ava's.	None of their houses are bigger than Ava's.	nc
+Most of their houses are bigger than Ava's.	Some of their houses are bigger than Ava's.	e
+Most of their houses are bigger than Ava's.	None of their houses are bigger than Ava's.	nc
+Many of their houses are bigger than Ava's.	Some of their houses are bigger than Ava's.	e
+Many of their houses are bigger than Ava's.	None of their houses are bigger than Ava's.	nc
+All of their houses are bigger than Isabella's.	Some of their houses are bigger than Isabella's.	e
+All of their houses are bigger than Isabella's.	None of their houses are bigger than Isabella's.	nc
+Most of their houses are bigger than Isabella's.	Some of their houses are bigger than Isabella's.	e
+Most of their houses are bigger than Isabella's.	None of their houses are bigger than Isabella's.	nc
+Many of their houses are bigger than Isabella's.	Some of their houses are bigger than Isabella's.	e
+Many of their houses are bigger than Isabella's.	None of their houses are bigger than Isabella's.	nc
+All of their houses are bigger than Sophia's.	Some of their houses are bigger than Sophia's.	e
+All of their houses are bigger than Sophia's.	None of their houses are bigger than Sophia's.	nc
+Most of their houses are bigger than Sophia's.	Some of their houses are bigger than Sophia's.	e
+Most of their houses are bigger than Sophia's.	None of their houses are bigger than Sophia's.	nc
+Many of their houses are bigger than Sophia's.	Some of their houses are bigger than Sophia's.	e
+Many of their houses are bigger than Sophia's.	None of their houses are bigger than Sophia's.	nc
+All of their houses are bigger than Mia's.	Some of their houses are bigger than Mia's.	e
+All of their houses are bigger than Mia's.	None of their houses are bigger than Mia's.	nc
+Most of their houses are bigger than Mia's.	Some of their houses are bigger than Mia's.	e
+Most of their houses are bigger than Mia's.	None of their houses are bigger than Mia's.	nc
+Many of their houses are bigger than Mia's.	Some of their houses are bigger than Mia's.	e
+Many of their houses are bigger than Mia's.	None of their houses are bigger than Mia's.	nc
+All of their houses are bigger than Charlotte's.	Some of their houses are bigger than Charlotte's.	e
+All of their houses are bigger than Charlotte's.	None of their houses are bigger than Charlotte's.	nc
+Most of their houses are bigger than Charlotte's.	Some of their houses are bigger than Charlotte's.	e
+Most of their houses are bigger than Charlotte's.	None of their houses are bigger than Charlotte's.	nc
+Many of their houses are bigger than Charlotte's.	Some of their houses are bigger than Charlotte's.	e
+Many of their houses are bigger than Charlotte's.	None of their houses are bigger than Charlotte's.	nc
+All of James's crops failed.	Some of James's crops failed.	e
+All of James's crops failed.	None of James's crops failed.	nc
+Most of James's crops failed.	Some of James's crops failed.	e
+Most of James's crops failed.	None of James's crops failed.	nc
+Many of James's crops failed.	Some of James's crops failed.	e
+Many of James's crops failed.	None of James's crops failed.	nc
+All of Olivia's crops failed.	Some of Olivia's crops failed.	e
+All of Olivia's crops failed.	None of Olivia's crops failed.	nc
+Most of Olivia's crops failed.	Some of Olivia's crops failed.	e
+Most of Olivia's crops failed.	None of Olivia's crops failed.	nc
+Many of Olivia's crops failed.	Some of Olivia's crops failed.	e
+Many of Olivia's crops failed.	None of Olivia's crops failed.	nc
+All of Liam's crops failed.	Some of Liam's crops failed.	e
+All of Liam's crops failed.	None of Liam's crops failed.	nc
+Most of Liam's crops failed.	Some of Liam's crops failed.	e
+Most of Liam's crops failed.	None of Liam's crops failed.	nc
+Many of Liam's crops failed.	Some of Liam's crops failed.	e
+Many of Liam's crops failed.	None of Liam's crops failed.	nc
+All of Emma's crops failed.	Some of Emma's crops failed.	e
+All of Emma's crops failed.	None of Emma's crops failed.	nc
+Most of Emma's crops failed.	Some of Emma's crops failed.	e
+Most of Emma's crops failed.	None of Emma's crops failed.	nc
+Many of Emma's crops failed.	Some of Emma's crops failed.	e
+Many of Emma's crops failed.	None of Emma's crops failed.	nc
+All of Noah's crops failed.	Some of Noah's crops failed.	e
+All of Noah's crops failed.	None of Noah's crops failed.	nc
+Most of Noah's crops failed.	Some of Noah's crops failed.	e
+Most of Noah's crops failed.	None of Noah's crops failed.	nc
+Many of Noah's crops failed.	Some of Noah's crops failed.	e
+Many of Noah's crops failed.	None of Noah's crops failed.	nc
+All of Ava's crops failed.	Some of Ava's crops failed.	e
+All of Ava's crops failed.	None of Ava's crops failed.	nc
+Most of Ava's crops failed.	Some of Ava's crops failed.	e
+Most of Ava's crops failed.	None of Ava's crops failed.	nc
+Many of Ava's crops failed.	Some of Ava's crops failed.	e
+Many of Ava's crops failed.	None of Ava's crops failed.	nc
+All of Isabella's crops failed.	Some of Isabella's crops failed.	e
+All of Isabella's crops failed.	None of Isabella's crops failed.	nc
+Most of Isabella's crops failed.	Some of Isabella's crops failed.	e
+Most of Isabella's crops failed.	None of Isabella's crops failed.	nc
+Many of Isabella's crops failed.	Some of Isabella's crops failed.	e
+Many of Isabella's crops failed.	None of Isabella's crops failed.	nc
+All of Sophia's crops failed.	Some of Sophia's crops failed.	e
+All of Sophia's crops failed.	None of Sophia's crops failed.	nc
+Most of Sophia's crops failed.	Some of Sophia's crops failed.	e
+Most of Sophia's crops failed.	None of Sophia's crops failed.	nc
+Many of Sophia's crops failed.	Some of Sophia's crops failed.	e
+Many of Sophia's crops failed.	None of Sophia's crops failed.	nc
+All of Mia's crops failed.	Some of Mia's crops failed.	e
+All of Mia's crops failed.	None of Mia's crops failed.	nc
+Most of Mia's crops failed.	Some of Mia's crops failed.	e
+Most of Mia's crops failed.	None of Mia's crops failed.	nc
+Many of Mia's crops failed.	Some of Mia's crops failed.	e
+Many of Mia's crops failed.	None of Mia's crops failed.	nc
+All of Charlotte's crops failed.	Some of Charlotte's crops failed.	e
+All of Charlotte's crops failed.	None of Charlotte's crops failed.	nc
+Most of Charlotte's crops failed.	Some of Charlotte's crops failed.	e
+Most of Charlotte's crops failed.	None of Charlotte's crops failed.	nc
+Many of Charlotte's crops failed.	Some of Charlotte's crops failed.	e
+Many of Charlotte's crops failed.	None of Charlotte's crops failed.	nc
+All of James's animals escaped.	Some of James's animals escaped.	e
+All of James's animals escaped.	None of James's animals escaped.	nc
+Most of James's animals escaped.	Some of James's animals escaped.	e
+Most of James's animals escaped.	None of James's animals escaped.	nc
+Many of James's animals escaped.	Some of James's animals escaped.	e
+Many of James's animals escaped.	None of James's animals escaped.	nc
+All of Olivia's animals escaped.	Some of Olivia's animals escaped.	e
+All of Olivia's animals escaped.	None of Olivia's animals escaped.	nc
+Most of Olivia's animals escaped.	Some of Olivia's animals escaped.	e
+Most of Olivia's animals escaped.	None of Olivia's animals escaped.	nc
+Many of Olivia's animals escaped.	Some of Olivia's animals escaped.	e
+Many of Olivia's animals escaped.	None of Olivia's animals escaped.	nc
+All of Liam's animals escaped.	Some of Liam's animals escaped.	e
+All of Liam's animals escaped.	None of Liam's animals escaped.	nc
+Most of Liam's animals escaped.	Some of Liam's animals escaped.	e
+Most of Liam's animals escaped.	None of Liam's animals escaped.	nc
+Many of Liam's animals escaped.	Some of Liam's animals escaped.	e
+Many of Liam's animals escaped.	None of Liam's animals escaped.	nc
+All of Emma's animals escaped.	Some of Emma's animals escaped.	e
+All of Emma's animals escaped.	None of Emma's animals escaped.	nc
+Most of Emma's animals escaped.	Some of Emma's animals escaped.	e
+Most of Emma's animals escaped.	None of Emma's animals escaped.	nc
+Many of Emma's animals escaped.	Some of Emma's animals escaped.	e
+Many of Emma's animals escaped.	None of Emma's animals escaped.	nc
+All of Noah's animals escaped.	Some of Noah's animals escaped.	e
+All of Noah's animals escaped.	None of Noah's animals escaped.	nc
+Most of Noah's animals escaped.	Some of Noah's animals escaped.	e
+Most of Noah's animals escaped.	None of Noah's animals escaped.	nc
+Many of Noah's animals escaped.	Some of Noah's animals escaped.	e
+Many of Noah's animals escaped.	None of Noah's animals escaped.	nc
+All of Ava's animals escaped.	Some of Ava's animals escaped.	e
+All of Ava's animals escaped.	None of Ava's animals escaped.	nc
+Most of Ava's animals escaped.	Some of Ava's animals escaped.	e
+Most of Ava's animals escaped.	None of Ava's animals escaped.	nc
+Many of Ava's animals escaped.	Some of Ava's animals escaped.	e
+Many of Ava's animals escaped.	None of Ava's animals escaped.	nc
+All of Isabella's animals escaped.	Some of Isabella's animals escaped.	e
+All of Isabella's animals escaped.	None of Isabella's animals escaped.	nc
+Most of Isabella's animals escaped.	Some of Isabella's animals escaped.	e
+Most of Isabella's animals escaped.	None of Isabella's animals escaped.	nc
+Many of Isabella's animals escaped.	Some of Isabella's animals escaped.	e
+Many of Isabella's animals escaped.	None of Isabella's animals escaped.	nc
+All of Sophia's animals escaped.	Some of Sophia's animals escaped.	e
+All of Sophia's animals escaped.	None of Sophia's animals escaped.	nc
+Most of Sophia's animals escaped.	Some of Sophia's animals escaped.	e
+Most of Sophia's animals escaped.	None of Sophia's animals escaped.	nc
+Many of Sophia's animals escaped.	Some of Sophia's animals escaped.	e
+Many of Sophia's animals escaped.	None of Sophia's animals escaped.	nc
+All of Mia's animals escaped.	Some of Mia's animals escaped.	e
+All of Mia's animals escaped.	None of Mia's animals escaped.	nc
+Most of Mia's animals escaped.	Some of Mia's animals escaped.	e
+Most of Mia's animals escaped.	None of Mia's animals escaped.	nc
+Many of Mia's animals escaped.	Some of Mia's animals escaped.	e
+Many of Mia's animals escaped.	None of Mia's animals escaped.	nc
+All of Charlotte's animals escaped.	Some of Charlotte's animals escaped.	e
+All of Charlotte's animals escaped.	None of Charlotte's animals escaped.	nc
+Most of Charlotte's animals escaped.	Some of Charlotte's animals escaped.	e
+Most of Charlotte's animals escaped.	None of Charlotte's animals escaped.	nc
+Many of Charlotte's animals escaped.	Some of Charlotte's animals escaped.	e
+Many of Charlotte's animals escaped.	None of Charlotte's animals escaped.	nc
+All of them cried with James.	Some of them cried with James.	e
+All of them cried with James.	None of them cried with James.	nc
+Most of them cried with James.	Some of them cried with James.	e
+Most of them cried with James.	None of them cried with James.	nc
+Many of them cried with James.	Some of them cried with James.	e
+Many of them cried with James.	None of them cried with James.	nc
+All of them cried with Olivia.	Some of them cried with Olivia.	e
+All of them cried with Olivia.	None of them cried with Olivia.	nc
+Most of them cried with Olivia.	Some of them cried with Olivia.	e
+Most of them cried with Olivia.	None of them cried with Olivia.	nc
+Many of them cried with Olivia.	Some of them cried with Olivia.	e
+Many of them cried with Olivia.	None of them cried with Olivia.	nc
+All of them cried with Liam.	Some of them cried with Liam.	e
+All of them cried with Liam.	None of them cried with Liam.	nc
+Most of them cried with Liam.	Some of them cried with Liam.	e
+Most of them cried with Liam.	None of them cried with Liam.	nc
+Many of them cried with Liam.	Some of them cried with Liam.	e
+Many of them cried with Liam.	None of them cried with Liam.	nc
+All of them cried with Emma.	Some of them cried with Emma.	e
+All of them cried with Emma.	None of them cried with Emma.	nc
+Most of them cried with Emma.	Some of them cried with Emma.	e
+Most of them cried with Emma.	None of them cried with Emma.	nc
+Many of them cried with Emma.	Some of them cried with Emma.	e
+Many of them cried with Emma.	None of them cried with Emma.	nc
+All of them cried with Noah.	Some of them cried with Noah.	e
+All of them cried with Noah.	None of them cried with Noah.	nc
+Most of them cried with Noah.	Some of them cried with Noah.	e
+Most of them cried with Noah.	None of them cried with Noah.	nc
+Many of them cried with Noah.	Some of them cried with Noah.	e
+Many of them cried with Noah.	None of them cried with Noah.	nc
+All of them cried with Ava.	Some of them cried with Ava.	e
+All of them cried with Ava.	None of them cried with Ava.	nc
+Most of them cried with Ava.	Some of them cried with Ava.	e
+Most of them cried with Ava.	None of them cried with Ava.	nc
+Many of them cried with Ava.	Some of them cried with Ava.	e
+Many of them cried with Ava.	None of them cried with Ava.	nc
+All of them cried with Isabella.	Some of them cried with Isabella.	e
+All of them cried with Isabella.	None of them cried with Isabella.	nc
+Most of them cried with Isabella.	Some of them cried with Isabella.	e
+Most of them cried with Isabella.	None of them cried with Isabella.	nc
+Many of them cried with Isabella.	Some of them cried with Isabella.	e
+Many of them cried with Isabella.	None of them cried with Isabella.	nc
+All of them cried with Sophia.	Some of them cried with Sophia.	e
+All of them cried with Sophia.	None of them cried with Sophia.	nc
+Most of them cried with Sophia.	Some of them cried with Sophia.	e
+Most of them cried with Sophia.	None of them cried with Sophia.	nc
+Many of them cried with Sophia.	Some of them cried with Sophia.	e
+Many of them cried with Sophia.	None of them cried with Sophia.	nc
+All of them cried with Mia.	Some of them cried with Mia.	e
+All of them cried with Mia.	None of them cried with Mia.	nc
+Most of them cried with Mia.	Some of them cried with Mia.	e
+Most of them cried with Mia.	None of them cried with Mia.	nc
+Many of them cried with Mia.	Some of them cried with Mia.	e
+Many of them cried with Mia.	None of them cried with Mia.	nc
+All of them cried with Charlotte.	Some of them cried with Charlotte.	e
+All of them cried with Charlotte.	None of them cried with Charlotte.	nc
+Most of them cried with Charlotte.	Some of them cried with Charlotte.	e
+Most of them cried with Charlotte.	None of them cried with Charlotte.	nc
+Many of them cried with Charlotte.	Some of them cried with Charlotte.	e
+Many of them cried with Charlotte.	None of them cried with Charlotte.	nc
+All of the teams played against James.	Some of the teams played against James.	e
+All of the teams played against James.	None of the teams played against James.	nc
+Most of the teams played against James.	Some of the teams played against James.	e
+Most of the teams played against James.	None of the teams played against James.	nc
+Many of the teams played against James.	Some of the teams played against James.	e
+Many of the teams played against James.	None of the teams played against James.	nc
+All of the teams played against Olivia.	Some of the teams played against Olivia.	e
+All of the teams played against Olivia.	None of the teams played against Olivia.	nc
+Most of the teams played against Olivia.	Some of the teams played against Olivia.	e
+Most of the teams played against Olivia.	None of the teams played against Olivia.	nc
+Many of the teams played against Olivia.	Some of the teams played against Olivia.	e
+Many of the teams played against Olivia.	None of the teams played against Olivia.	nc
+All of the teams played against Liam.	Some of the teams played against Liam.	e
+All of the teams played against Liam.	None of the teams played against Liam.	nc
+Most of the teams played against Liam.	Some of the teams played against Liam.	e
+Most of the teams played against Liam.	None of the teams played against Liam.	nc
+Many of the teams played against Liam.	Some of the teams played against Liam.	e
+Many of the teams played against Liam.	None of the teams played against Liam.	nc
+All of the teams played against Emma.	Some of the teams played against Emma.	e
+All of the teams played against Emma.	None of the teams played against Emma.	nc
+Most of the teams played against Emma.	Some of the teams played against Emma.	e
+Most of the teams played against Emma.	None of the teams played against Emma.	nc
+Many of the teams played against Emma.	Some of the teams played against Emma.	e
+Many of the teams played against Emma.	None of the teams played against Emma.	nc
+All of the teams played against Noah.	Some of the teams played against Noah.	e
+All of the teams played against Noah.	None of the teams played against Noah.	nc
+Most of the teams played against Noah.	Some of the teams played against Noah.	e
+Most of the teams played against Noah.	None of the teams played against Noah.	nc
+Many of the teams played against Noah.	Some of the teams played against Noah.	e
+Many of the teams played against Noah.	None of the teams played against Noah.	nc
+All of the teams played against Ava.	Some of the teams played against Ava.	e
+All of the teams played against Ava.	None of the teams played against Ava.	nc
+Most of the teams played against Ava.	Some of the teams played against Ava.	e
+Most of the teams played against Ava.	None of the teams played against Ava.	nc
+Many of the teams played against Ava.	Some of the teams played against Ava.	e
+Many of the teams played against Ava.	None of the teams played against Ava.	nc
+All of the teams played against Isabella.	Some of the teams played against Isabella.	e
+All of the teams played against Isabella.	None of the teams played against Isabella.	nc
+Most of the teams played against Isabella.	Some of the teams played against Isabella.	e
+Most of the teams played against Isabella.	None of the teams played against Isabella.	nc
+Many of the teams played against Isabella.	Some of the teams played against Isabella.	e
+Many of the teams played against Isabella.	None of the teams played against Isabella.	nc
+All of the teams played against Sophia.	Some of the teams played against Sophia.	e
+All of the teams played against Sophia.	None of the teams played against Sophia.	nc
+Most of the teams played against Sophia.	Some of the teams played against Sophia.	e
+Most of the teams played against Sophia.	None of the teams played against Sophia.	nc
+Many of the teams played against Sophia.	Some of the teams played against Sophia.	e
+Many of the teams played against Sophia.	None of the teams played against Sophia.	nc
+All of the teams played against Mia.	Some of the teams played against Mia.	e
+All of the teams played against Mia.	None of the teams played against Mia.	nc
+Most of the teams played against Mia.	Some of the teams played against Mia.	e
+Most of the teams played against Mia.	None of the teams played against Mia.	nc
+Many of the teams played against Mia.	Some of the teams played against Mia.	e
+Many of the teams played against Mia.	None of the teams played against Mia.	nc
+All of the teams played against Charlotte.	Some of the teams played against Charlotte.	e
+All of the teams played against Charlotte.	None of the teams played against Charlotte.	nc
+Most of the teams played against Charlotte.	Some of the teams played against Charlotte.	e
+Most of the teams played against Charlotte.	None of the teams played against Charlotte.	nc
+Many of the teams played against Charlotte.	Some of the teams played against Charlotte.	e
+Many of the teams played against Charlotte.	None of the teams played against Charlotte.	nc
+All of us were invited by James.	Some of us were invited by James.	e
+All of us were invited by James.	None of us were invited by James.	nc
+Most of us were invited by James.	Some of us were invited by James.	e
+Most of us were invited by James.	None of us were invited by James.	nc
+Many of us were invited by James.	Some of us were invited by James.	e
+Many of us were invited by James.	None of us were invited by James.	nc
+All of us were invited by Olivia.	Some of us were invited by Olivia.	e
+All of us were invited by Olivia.	None of us were invited by Olivia.	nc
+Most of us were invited by Olivia.	Some of us were invited by Olivia.	e
+Most of us were invited by Olivia.	None of us were invited by Olivia.	nc
+Many of us were invited by Olivia.	Some of us were invited by Olivia.	e
+Many of us were invited by Olivia.	None of us were invited by Olivia.	nc
+All of us were invited by Liam.	Some of us were invited by Liam.	e
+All of us were invited by Liam.	None of us were invited by Liam.	nc
+Most of us were invited by Liam.	Some of us were invited by Liam.	e
+Most of us were invited by Liam.	None of us were invited by Liam.	nc
+Many of us were invited by Liam.	Some of us were invited by Liam.	e
+Many of us were invited by Liam.	None of us were invited by Liam.	nc
+All of us were invited by Emma.	Some of us were invited by Emma.	e
+All of us were invited by Emma.	None of us were invited by Emma.	nc
+Most of us were invited by Emma.	Some of us were invited by Emma.	e
+Most of us were invited by Emma.	None of us were invited by Emma.	nc
+Many of us were invited by Emma.	Some of us were invited by Emma.	e
+Many of us were invited by Emma.	None of us were invited by Emma.	nc
+All of us were invited by Noah.	Some of us were invited by Noah.	e
+All of us were invited by Noah.	None of us were invited by Noah.	nc
+Most of us were invited by Noah.	Some of us were invited by Noah.	e
+Most of us were invited by Noah.	None of us were invited by Noah.	nc
+Many of us were invited by Noah.	Some of us were invited by Noah.	e
+Many of us were invited by Noah.	None of us were invited by Noah.	nc
+All of us were invited by Ava.	Some of us were invited by Ava.	e
+All of us were invited by Ava.	None of us were invited by Ava.	nc
+Most of us were invited by Ava.	Some of us were invited by Ava.	e
+Most of us were invited by Ava.	None of us were invited by Ava.	nc
+Many of us were invited by Ava.	Some of us were invited by Ava.	e
+Many of us were invited by Ava.	None of us were invited by Ava.	nc
+All of us were invited by Isabella.	Some of us were invited by Isabella.	e
+All of us were invited by Isabella.	None of us were invited by Isabella.	nc
+Most of us were invited by Isabella.	Some of us were invited by Isabella.	e
+Most of us were invited by Isabella.	None of us were invited by Isabella.	nc
+Many of us were invited by Isabella.	Some of us were invited by Isabella.	e
+Many of us were invited by Isabella.	None of us were invited by Isabella.	nc
+All of us were invited by Sophia.	Some of us were invited by Sophia.	e
+All of us were invited by Sophia.	None of us were invited by Sophia.	nc
+Most of us were invited by Sophia.	Some of us were invited by Sophia.	e
+Most of us were invited by Sophia.	None of us were invited by Sophia.	nc
+Many of us were invited by Sophia.	Some of us were invited by Sophia.	e
+Many of us were invited by Sophia.	None of us were invited by Sophia.	nc
+All of us were invited by Mia.	Some of us were invited by Mia.	e
+All of us were invited by Mia.	None of us were invited by Mia.	nc
+Most of us were invited by Mia.	Some of us were invited by Mia.	e
+Most of us were invited by Mia.	None of us were invited by Mia.	nc
+Many of us were invited by Mia.	Some of us were invited by Mia.	e
+Many of us were invited by Mia.	None of us were invited by Mia.	nc
+All of us were invited by Charlotte.	Some of us were invited by Charlotte.	e
+All of us were invited by Charlotte.	None of us were invited by Charlotte.	nc
+Most of us were invited by Charlotte.	Some of us were invited by Charlotte.	e
+Most of us were invited by Charlotte.	None of us were invited by Charlotte.	nc
+Many of us were invited by Charlotte.	Some of us were invited by Charlotte.	e
+Many of us were invited by Charlotte.	None of us were invited by Charlotte.	nc

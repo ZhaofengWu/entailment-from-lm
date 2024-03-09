@@ -1,0 +1,260 @@
+At least two of the kids played with James.	At least one of the kids played with James.	e
+At least two of the kids played with James.	At least three of the kids played with James.	nc
+At least two of the kids played with Olivia.	At least one of the kids played with Olivia.	e
+At least two of the kids played with Olivia.	At least three of the kids played with Olivia.	nc
+At least two of the kids played with Liam.	At least one of the kids played with Liam.	e
+At least two of the kids played with Liam.	At least three of the kids played with Liam.	nc
+At least two of the kids played with Emma.	At least one of the kids played with Emma.	e
+At least two of the kids played with Emma.	At least three of the kids played with Emma.	nc
+At least two of the kids played with Noah.	At least one of the kids played with Noah.	e
+At least two of the kids played with Noah.	At least three of the kids played with Noah.	nc
+At least two of the kids played with Ava.	At least one of the kids played with Ava.	e
+At least two of the kids played with Ava.	At least three of the kids played with Ava.	nc
+At least two of the kids played with Isabella.	At least one of the kids played with Isabella.	e
+At least two of the kids played with Isabella.	At least three of the kids played with Isabella.	nc
+At least two of the kids played with Sophia.	At least one of the kids played with Sophia.	e
+At least two of the kids played with Sophia.	At least three of the kids played with Sophia.	nc
+At least two of the kids played with Mia.	At least one of the kids played with Mia.	e
+At least two of the kids played with Mia.	At least three of the kids played with Mia.	nc
+At least two of the kids played with Charlotte.	At least one of the kids played with Charlotte.	e
+At least two of the kids played with Charlotte.	At least three of the kids played with Charlotte.	nc
+At least two of the dogs barked at James.	At least one of the dogs barked at James.	e
+At least two of the dogs barked at James.	At least three of the dogs barked at James.	nc
+At least two of the dogs barked at Olivia.	At least one of the dogs barked at Olivia.	e
+At least two of the dogs barked at Olivia.	At least three of the dogs barked at Olivia.	nc
+At least two of the dogs barked at Liam.	At least one of the dogs barked at Liam.	e
+At least two of the dogs barked at Liam.	At least three of the dogs barked at Liam.	nc
+At least two of the dogs barked at Emma.	At least one of the dogs barked at Emma.	e
+At least two of the dogs barked at Emma.	At least three of the dogs barked at Emma.	nc
+At least two of the dogs barked at Noah.	At least one of the dogs barked at Noah.	e
+At least two of the dogs barked at Noah.	At least three of the dogs barked at Noah.	nc
+At least two of the dogs barked at Ava.	At least one of the dogs barked at Ava.	e
+At least two of the dogs barked at Ava.	At least three of the dogs barked at Ava.	nc
+At least two of the dogs barked at Isabella.	At least one of the dogs barked at Isabella.	e
+At least two of the dogs barked at Isabella.	At least three of the dogs barked at Isabella.	nc
+At least two of the dogs barked at Sophia.	At least one of the dogs barked at Sophia.	e
+At least two of the dogs barked at Sophia.	At least three of the dogs barked at Sophia.	nc
+At least two of the dogs barked at Mia.	At least one of the dogs barked at Mia.	e
+At least two of the dogs barked at Mia.	At least three of the dogs barked at Mia.	nc
+At least two of the dogs barked at Charlotte.	At least one of the dogs barked at Charlotte.	e
+At least two of the dogs barked at Charlotte.	At least three of the dogs barked at Charlotte.	nc
+At least two of the skis were bent by James.	At least one of the skis were bent by James.	e
+At least two of the skis were bent by James.	At least three of the skis were bent by James.	nc
+At least two of the skis were bent by Olivia.	At least one of the skis were bent by Olivia.	e
+At least two of the skis were bent by Olivia.	At least three of the skis were bent by Olivia.	nc
+At least two of the skis were bent by Liam.	At least one of the skis were bent by Liam.	e
+At least two of the skis were bent by Liam.	At least three of the skis were bent by Liam.	nc
+At least two of the skis were bent by Emma.	At least one of the skis were bent by Emma.	e
+At least two of the skis were bent by Emma.	At least three of the skis were bent by Emma.	nc
+At least two of the skis were bent by Noah.	At least one of the skis were bent by Noah.	e
+At least two of the skis were bent by Noah.	At least three of the skis were bent by Noah.	nc
+At least two of the skis were bent by Ava.	At least one of the skis were bent by Ava.	e
+At least two of the skis were bent by Ava.	At least three of the skis were bent by Ava.	nc
+At least two of the skis were bent by Isabella.	At least one of the skis were bent by Isabella.	e
+At least two of the skis were bent by Isabella.	At least three of the skis were bent by Isabella.	nc
+At least two of the skis were bent by Sophia.	At least one of the skis were bent by Sophia.	e
+At least two of the skis were bent by Sophia.	At least three of the skis were bent by Sophia.	nc
+At least two of the skis were bent by Mia.	At least one of the skis were bent by Mia.	e
+At least two of the skis were bent by Mia.	At least three of the skis were bent by Mia.	nc
+At least two of the skis were bent by Charlotte.	At least one of the skis were bent by Charlotte.	e
+At least two of the skis were bent by Charlotte.	At least three of the skis were bent by Charlotte.	nc
+At least two of the stones are older than James.	At least one of the stones is older than James.	e
+At least two of the stones are older than James.	At least three of the stones are older than James.	nc
+At least two of the stones are older than Olivia.	At least one of the stones is older than Olivia.	e
+At least two of the stones are older than Olivia.	At least three of the stones are older than Olivia.	nc
+At least two of the stones are older than Liam.	At least one of the stones is older than Liam.	e
+At least two of the stones are older than Liam.	At least three of the stones are older than Liam.	nc
+At least two of the stones are older than Emma.	At least one of the stones is older than Emma.	e
+At least two of the stones are older than Emma.	At least three of the stones are older than Emma.	nc
+At least two of the stones are older than Noah.	At least one of the stones is older than Noah.	e
+At least two of the stones are older than Noah.	At least three of the stones are older than Noah.	nc
+At least two of the stones are older than Ava.	At least one of the stones is older than Ava.	e
+At least two of the stones are older than Ava.	At least three of the stones are older than Ava.	nc
+At least two of the stones are older than Isabella.	At least one of the stones is older than Isabella.	e
+At least two of the stones are older than Isabella.	At least three of the stones are older than Isabella.	nc
+At least two of the stones are older than Sophia.	At least one of the stones is older than Sophia.	e
+At least two of the stones are older than Sophia.	At least three of the stones are older than Sophia.	nc
+At least two of the stones are older than Mia.	At least one of the stones is older than Mia.	e
+At least two of the stones are older than Mia.	At least three of the stones are older than Mia.	nc
+At least two of the stones are older than Charlotte.	At least one of the stones is older than Charlotte.	e
+At least two of the stones are older than Charlotte.	At least three of the stones are older than Charlotte.	nc
+At least two of the doors are open for James.	At least one of the doors is open for James.	e
+At least two of the doors are open for James.	At least three of the doors are open for James.	nc
+At least two of the doors are open for Olivia.	At least one of the doors is open for Olivia.	e
+At least two of the doors are open for Olivia.	At least three of the doors are open for Olivia.	nc
+At least two of the doors are open for Liam.	At least one of the doors is open for Liam.	e
+At least two of the doors are open for Liam.	At least three of the doors are open for Liam.	nc
+At least two of the doors are open for Emma.	At least one of the doors is open for Emma.	e
+At least two of the doors are open for Emma.	At least three of the doors are open for Emma.	nc
+At least two of the doors are open for Noah.	At least one of the doors is open for Noah.	e
+At least two of the doors are open for Noah.	At least three of the doors are open for Noah.	nc
+At least two of the doors are open for Ava.	At least one of the doors is open for Ava.	e
+At least two of the doors are open for Ava.	At least three of the doors are open for Ava.	nc
+At least two of the doors are open for Isabella.	At least one of the doors is open for Isabella.	e
+At least two of the doors are open for Isabella.	At least three of the doors are open for Isabella.	nc
+At least two of the doors are open for Sophia.	At least one of the doors is open for Sophia.	e
+At least two of the doors are open for Sophia.	At least three of the doors are open for Sophia.	nc
+At least two of the doors are open for Mia.	At least one of the doors is open for Mia.	e
+At least two of the doors are open for Mia.	At least three of the doors are open for Mia.	nc
+At least two of the doors are open for Charlotte.	At least one of the doors is open for Charlotte.	e
+At least two of the doors are open for Charlotte.	At least three of the doors are open for Charlotte.	nc
+At least two of James's neighbors are friendly.	At least one of James's neighbors is friendly.	e
+At least two of James's neighbors are friendly.	At least three of James's neighbors are friendly.	nc
+At least two of Olivia's neighbors are friendly.	At least one of Olivia's neighbors is friendly.	e
+At least two of Olivia's neighbors are friendly.	At least three of Olivia's neighbors are friendly.	nc
+At least two of Liam's neighbors are friendly.	At least one of Liam's neighbors is friendly.	e
+At least two of Liam's neighbors are friendly.	At least three of Liam's neighbors are friendly.	nc
+At least two of Emma's neighbors are friendly.	At least one of Emma's neighbors is friendly.	e
+At least two of Emma's neighbors are friendly.	At least three of Emma's neighbors are friendly.	nc
+At least two of Noah's neighbors are friendly.	At least one of Noah's neighbors is friendly.	e
+At least two of Noah's neighbors are friendly.	At least three of Noah's neighbors are friendly.	nc
+At least two of Ava's neighbors are friendly.	At least one of Ava's neighbors is friendly.	e
+At least two of Ava's neighbors are friendly.	At least three of Ava's neighbors are friendly.	nc
+At least two of Isabella's neighbors are friendly.	At least one of Isabella's neighbors is friendly.	e
+At least two of Isabella's neighbors are friendly.	At least three of Isabella's neighbors are friendly.	nc
+At least two of Sophia's neighbors are friendly.	At least one of Sophia's neighbors is friendly.	e
+At least two of Sophia's neighbors are friendly.	At least three of Sophia's neighbors are friendly.	nc
+At least two of Mia's neighbors are friendly.	At least one of Mia's neighbors is friendly.	e
+At least two of Mia's neighbors are friendly.	At least three of Mia's neighbors are friendly.	nc
+At least two of Charlotte's neighbors are friendly.	At least one of Charlotte's neighbors is friendly.	e
+At least two of Charlotte's neighbors are friendly.	At least three of Charlotte's neighbors are friendly.	nc
+At least two of James's friends are tall.	At least one of James's friends is tall.	e
+At least two of James's friends are tall.	At least three of James's friends are tall.	nc
+At least two of Olivia's friends are tall.	At least one of Olivia's friends is tall.	e
+At least two of Olivia's friends are tall.	At least three of Olivia's friends are tall.	nc
+At least two of Liam's friends are tall.	At least one of Liam's friends is tall.	e
+At least two of Liam's friends are tall.	At least three of Liam's friends are tall.	nc
+At least two of Emma's friends are tall.	At least one of Emma's friends is tall.	e
+At least two of Emma's friends are tall.	At least three of Emma's friends are tall.	nc
+At least two of Noah's friends are tall.	At least one of Noah's friends is tall.	e
+At least two of Noah's friends are tall.	At least three of Noah's friends are tall.	nc
+At least two of Ava's friends are tall.	At least one of Ava's friends is tall.	e
+At least two of Ava's friends are tall.	At least three of Ava's friends are tall.	nc
+At least two of Isabella's friends are tall.	At least one of Isabella's friends is tall.	e
+At least two of Isabella's friends are tall.	At least three of Isabella's friends are tall.	nc
+At least two of Sophia's friends are tall.	At least one of Sophia's friends is tall.	e
+At least two of Sophia's friends are tall.	At least three of Sophia's friends are tall.	nc
+At least two of Mia's friends are tall.	At least one of Mia's friends is tall.	e
+At least two of Mia's friends are tall.	At least three of Mia's friends are tall.	nc
+At least two of Charlotte's friends are tall.	At least one of Charlotte's friends is tall.	e
+At least two of Charlotte's friends are tall.	At least three of Charlotte's friends are tall.	nc
+At least two of their houses are bigger than James's.	At least one of their houses is bigger than James's.	e
+At least two of their houses are bigger than James's.	At least three of their houses are bigger than James's.	nc
+At least two of their houses are bigger than Olivia's.	At least one of their houses is bigger than Olivia's.	e
+At least two of their houses are bigger than Olivia's.	At least three of their houses are bigger than Olivia's.	nc
+At least two of their houses are bigger than Liam's.	At least one of their houses is bigger than Liam's.	e
+At least two of their houses are bigger than Liam's.	At least three of their houses are bigger than Liam's.	nc
+At least two of their houses are bigger than Emma's.	At least one of their houses is bigger than Emma's.	e
+At least two of their houses are bigger than Emma's.	At least three of their houses are bigger than Emma's.	nc
+At least two of their houses are bigger than Noah's.	At least one of their houses is bigger than Noah's.	e
+At least two of their houses are bigger than Noah's.	At least three of their houses are bigger than Noah's.	nc
+At least two of their houses are bigger than Ava's.	At least one of their houses is bigger than Ava's.	e
+At least two of their houses are bigger than Ava's.	At least three of their houses are bigger than Ava's.	nc
+At least two of their houses are bigger than Isabella's.	At least one of their houses is bigger than Isabella's.	e
+At least two of their houses are bigger than Isabella's.	At least three of their houses are bigger than Isabella's.	nc
+At least two of their houses are bigger than Sophia's.	At least one of their houses is bigger than Sophia's.	e
+At least two of their houses are bigger than Sophia's.	At least three of their houses are bigger than Sophia's.	nc
+At least two of their houses are bigger than Mia's.	At least one of their houses is bigger than Mia's.	e
+At least two of their houses are bigger than Mia's.	At least three of their houses are bigger than Mia's.	nc
+At least two of their houses are bigger than Charlotte's.	At least one of their houses is bigger than Charlotte's.	e
+At least two of their houses are bigger than Charlotte's.	At least three of their houses are bigger than Charlotte's.	nc
+At least two of James's crops failed.	At least one of James's crops failed.	e
+At least two of James's crops failed.	At least three of James's crops failed.	nc
+At least two of Olivia's crops failed.	At least one of Olivia's crops failed.	e
+At least two of Olivia's crops failed.	At least three of Olivia's crops failed.	nc
+At least two of Liam's crops failed.	At least one of Liam's crops failed.	e
+At least two of Liam's crops failed.	At least three of Liam's crops failed.	nc
+At least two of Emma's crops failed.	At least one of Emma's crops failed.	e
+At least two of Emma's crops failed.	At least three of Emma's crops failed.	nc
+At least two of Noah's crops failed.	At least one of Noah's crops failed.	e
+At least two of Noah's crops failed.	At least three of Noah's crops failed.	nc
+At least two of Ava's crops failed.	At least one of Ava's crops failed.	e
+At least two of Ava's crops failed.	At least three of Ava's crops failed.	nc
+At least two of Isabella's crops failed.	At least one of Isabella's crops failed.	e
+At least two of Isabella's crops failed.	At least three of Isabella's crops failed.	nc
+At least two of Sophia's crops failed.	At least one of Sophia's crops failed.	e
+At least two of Sophia's crops failed.	At least three of Sophia's crops failed.	nc
+At least two of Mia's crops failed.	At least one of Mia's crops failed.	e
+At least two of Mia's crops failed.	At least three of Mia's crops failed.	nc
+At least two of Charlotte's crops failed.	At least one of Charlotte's crops failed.	e
+At least two of Charlotte's crops failed.	At least three of Charlotte's crops failed.	nc
+At least two of James's animals escaped.	At least one of James's animals escaped.	e
+At least two of James's animals escaped.	At least three of James's animals escaped.	nc
+At least two of Olivia's animals escaped.	At least one of Olivia's animals escaped.	e
+At least two of Olivia's animals escaped.	At least three of Olivia's animals escaped.	nc
+At least two of Liam's animals escaped.	At least one of Liam's animals escaped.	e
+At least two of Liam's animals escaped.	At least three of Liam's animals escaped.	nc
+At least two of Emma's animals escaped.	At least one of Emma's animals escaped.	e
+At least two of Emma's animals escaped.	At least three of Emma's animals escaped.	nc
+At least two of Noah's animals escaped.	At least one of Noah's animals escaped.	e
+At least two of Noah's animals escaped.	At least three of Noah's animals escaped.	nc
+At least two of Ava's animals escaped.	At least one of Ava's animals escaped.	e
+At least two of Ava's animals escaped.	At least three of Ava's animals escaped.	nc
+At least two of Isabella's animals escaped.	At least one of Isabella's animals escaped.	e
+At least two of Isabella's animals escaped.	At least three of Isabella's animals escaped.	nc
+At least two of Sophia's animals escaped.	At least one of Sophia's animals escaped.	e
+At least two of Sophia's animals escaped.	At least three of Sophia's animals escaped.	nc
+At least two of Mia's animals escaped.	At least one of Mia's animals escaped.	e
+At least two of Mia's animals escaped.	At least three of Mia's animals escaped.	nc
+At least two of Charlotte's animals escaped.	At least one of Charlotte's animals escaped.	e
+At least two of Charlotte's animals escaped.	At least three of Charlotte's animals escaped.	nc
+At least two of them cried with James.	At least one of them cried with James.	e
+At least two of them cried with James.	At least three of them cried with James.	nc
+At least two of them cried with Olivia.	At least one of them cried with Olivia.	e
+At least two of them cried with Olivia.	At least three of them cried with Olivia.	nc
+At least two of them cried with Liam.	At least one of them cried with Liam.	e
+At least two of them cried with Liam.	At least three of them cried with Liam.	nc
+At least two of them cried with Emma.	At least one of them cried with Emma.	e
+At least two of them cried with Emma.	At least three of them cried with Emma.	nc
+At least two of them cried with Noah.	At least one of them cried with Noah.	e
+At least two of them cried with Noah.	At least three of them cried with Noah.	nc
+At least two of them cried with Ava.	At least one of them cried with Ava.	e
+At least two of them cried with Ava.	At least three of them cried with Ava.	nc
+At least two of them cried with Isabella.	At least one of them cried with Isabella.	e
+At least two of them cried with Isabella.	At least three of them cried with Isabella.	nc
+At least two of them cried with Sophia.	At least one of them cried with Sophia.	e
+At least two of them cried with Sophia.	At least three of them cried with Sophia.	nc
+At least two of them cried with Mia.	At least one of them cried with Mia.	e
+At least two of them cried with Mia.	At least three of them cried with Mia.	nc
+At least two of them cried with Charlotte.	At least one of them cried with Charlotte.	e
+At least two of them cried with Charlotte.	At least three of them cried with Charlotte.	nc
+At least two of the teams played against James.	At least one of the teams played against James.	e
+At least two of the teams played against James.	At least three of the teams played against James.	nc
+At least two of the teams played against Olivia.	At least one of the teams played against Olivia.	e
+At least two of the teams played against Olivia.	At least three of the teams played against Olivia.	nc
+At least two of the teams played against Liam.	At least one of the teams played against Liam.	e
+At least two of the teams played against Liam.	At least three of the teams played against Liam.	nc
+At least two of the teams played against Emma.	At least one of the teams played against Emma.	e
+At least two of the teams played against Emma.	At least three of the teams played against Emma.	nc
+At least two of the teams played against Noah.	At least one of the teams played against Noah.	e
+At least two of the teams played against Noah.	At least three of the teams played against Noah.	nc
+At least two of the teams played against Ava.	At least one of the teams played against Ava.	e
+At least two of the teams played against Ava.	At least three of the teams played against Ava.	nc
+At least two of the teams played against Isabella.	At least one of the teams played against Isabella.	e
+At least two of the teams played against Isabella.	At least three of the teams played against Isabella.	nc
+At least two of the teams played against Sophia.	At least one of the teams played against Sophia.	e
+At least two of the teams played against Sophia.	At least three of the teams played against Sophia.	nc
+At least two of the teams played against Mia.	At least one of the teams played against Mia.	e
+At least two of the teams played against Mia.	At least three of the teams played against Mia.	nc
+At least two of the teams played against Charlotte.	At least one of the teams played against Charlotte.	e
+At least two of the teams played against Charlotte.	At least three of the teams played against Charlotte.	nc
+At least two of us were invited by James.	At least one of us were invited by James.	e
+At least two of us were invited by James.	At least three of us were invited by James.	nc
+At least two of us were invited by Olivia.	At least one of us were invited by Olivia.	e
+At least two of us were invited by Olivia.	At least three of us were invited by Olivia.	nc
+At least two of us were invited by Liam.	At least one of us were invited by Liam.	e
+At least two of us were invited by Liam.	At least three of us were invited by Liam.	nc
+At least two of us were invited by Emma.	At least one of us were invited by Emma.	e
+At least two of us were invited by Emma.	At least three of us were invited by Emma.	nc
+At least two of us were invited by Noah.	At least one of us were invited by Noah.	e
+At least two of us were invited by Noah.	At least three of us were invited by Noah.	nc
+At least two of us were invited by Ava.	At least one of us were invited by Ava.	e
+At least two of us were invited by Ava.	At least three of us were invited by Ava.	nc
+At least two of us were invited by Isabella.	At least one of us were invited by Isabella.	e
+At least two of us were invited by Isabella.	At least three of us were invited by Isabella.	nc
+At least two of us were invited by Sophia.	At least one of us were invited by Sophia.	e
+At least two of us were invited by Sophia.	At least three of us were invited by Sophia.	nc
+At least two of us were invited by Mia.	At least one of us were invited by Mia.	e
+At least two of us were invited by Mia.	At least three of us were invited by Mia.	nc
+At least two of us were invited by Charlotte.	At least one of us were invited by Charlotte.	e
+At least two of us were invited by Charlotte.	At least three of us were invited by Charlotte.	nc
